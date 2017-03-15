@@ -8,10 +8,12 @@
 	</head>
 	<body>
 		<div class="import-area">
-			<input id="xml-importer" class="xml-importer" type="file" />
-			<input id="csv-importer" class="csv-importer" type="file" />
-			<button class="xml-importer" onclick="document.querySelector('#xml-importer').click()">Import XML</button>
-			<button class="csv-importer" onclick="document.querySelector('#csv-importer').click()">Import CSV</button>
+			<input id="xml-importer" class="xml-importer" type="file" accept="text/xml,application/xml" />
+			<input id="csv-importer" class="csv-importer" type="file" accept="text/csv" />
+			<button class="xml-importer" onclick="document.querySelector('#xml-importer').click()"><img src="upload.png" />Import XML</button>
+			<button id="xml-exporter" class="xml-exporter"><img src="download.png" />Export XML</button>
+			<button class="csv-importer" onclick="document.querySelector('#csv-importer').click()"><img src="upload.png" />Import CSV</button>
+			<button id="csv-exporter" class="csv-exporter"><img src="download.png" />Export CSV</button>
 		</div>
 		<div id="message-box" class="information-bar"></div>
 		<div id="phrases"></div>

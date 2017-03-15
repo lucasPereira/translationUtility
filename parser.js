@@ -106,3 +106,29 @@ class CsvParser {
 		});
 	}
 }
+
+
+class XmlUnparser {
+	unparse(phrases) {
+		console.log('XML');
+	}
+}
+
+class CsvUnparser {
+	unparse(phrases) {
+		let rawPhrases = phrases.map((phrase) => {
+			let rawPhrase = {
+				path: phrase.path,
+				key: phrase.key,
+				itemid: phrase.itemId,
+				fieldid: phrase.fieldId,
+				updated: phrase.updated,
+			};
+			phrase.translations.forEach((translation) => {
+				rawPhrase[translation.locale] = translation.translation;
+			});
+			return rawPhrase;
+		});
+		return Papa.unparse(rawPhrases);
+	}
+}

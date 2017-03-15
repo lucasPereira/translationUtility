@@ -35,22 +35,46 @@ button:hover {
 }
 
 button.xml-importer,
-button.csv-importer {
+button.csv-importer,
+button.xml-exporter,
+button.csv-exporter {
 	border: none;
+	color: #FFF;
 	font-size: 1.2rem;
 	text-transform: uppercase;
 	padding: 10px;
 	margin: 10px;
 }
 
+button.xml-importer img,
+button.csv-importer img,
+button.xml-exporter img,
+button.csv-exporter img {
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
 button.xml-importer {
 	background-color: #388E3C;
-	color: #FFF;
 }
 
 button.csv-importer {
 	background-color: #E64A19;
-	color: #FFF;
+}
+
+button.xml-exporter {
+	background-color: #4bae4f;
+}
+
+button.csv-exporter {
+	background-color: #FE5621;
+}
+
+button.xml-exporter:disabled,
+button.csv-exporter:disabled {
+	background-color: #999;
+	color: #DDD;
+	cursor: default;
 }
 
 .information-bar {

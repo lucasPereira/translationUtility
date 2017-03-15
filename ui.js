@@ -128,3 +128,48 @@ class MessageBoxComponent {
 		}
 	}
 }
+
+class ExportComponent {
+	constructor(element)	{
+		this.element = element;
+		this.element.disabled = true;
+		this.clickCallback = null;
+		this.element.addEventListener('click', () => {
+			if (this.clickCallback) {
+				this.clickCallback();
+			}
+		});
+	}
+
+	active(clickCallback) {
+		this.clickCallback = clickCallback;
+		this.element.disabled = false;
+	}
+
+	desactive() {
+		this.clickCallback = null;
+		this.element.disabled = true;
+	}
+}
+
+class DownloadComponent {
+	constructor(name, type) {
+		this.name = name;
+		this.type = type;
+	}
+
+	downloadTextFile(content) {
+		let blob = new Blob([content], { type: this.type });
+		if (window.navigator.msSaveOrOpenBlob) {
+			window.navigator.msSaveBlob(blob, this.name);
+		} else {
+			let url = URL.createObjectURL(blob);
+			let downloadElement = document.createElement('a');
+			downloadElement.href = url;
+			downloadElement.download = this.name;
+			document.body.appendChild(downloadElement);
+			downloadElement.click();
+			document.body.removeChild(downloadElement);
+		}
+	}
+}
