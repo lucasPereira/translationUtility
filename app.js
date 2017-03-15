@@ -1,9 +1,9 @@
 'use strict';
 
 class InputFileReaderListener {
-	constructor(parser, mesageBox) {
+	constructor(parser, mesageBoxComponent) {
 		this.parser = parser;
-		this.messageBox = messageBox;
+		this.messageBoxComponent = messageBoxComponent;
 	}
 
 	selectFile(name, size) {
@@ -12,12 +12,12 @@ class InputFileReaderListener {
 
 	uploadFileProgress(progress) {
 		let percentage = Math.round(progress * 100);
-		this.messageBox.info(`Uploading file (${percentage}%)`)
+		this.messageBoxComponent.info(`Uploading file (${percentage}%)`)
 	}
 
 	uploadFileComplete(content) {
 		this.parser.parse(content);
-		this.messageBox.info(`File uploaded with success`);
+		this.messageBoxComponent.info(`File uploaded with success`);
 	}
 
 	uploadFileError(event) {
@@ -26,21 +26,27 @@ class InputFileReaderListener {
 }
 
 class ParserListener {
+	constructor(phrasesElement) {
+		this.phrasesElement = phrasesElement;
+	}
+
 	parserError(error) {
 		console.error(`Parser error ${error}`);
 	}
 
 	receivePhrases(phrases) {
-		console.log(phrases);
+		phrases.forEach((phrase) => {
+			new PhraseComponent(phrase, this.phrasesElement);
+		});
 	}
 }
 
-let messageBox = new MessageBox(document.querySelector("#message-box"));
-let parserListener = new ParserListener();
+let messageBoxComponent = new MessageBoxComponent(document.querySelector("#message-box"));
+let parserListener = new ParserListener(document.querySelector('#phrases'));
 let xmlParser = new XmlParser();
 let csvParser = new CsvParser();
-let inputFileReaderListenerXml = new InputFileReaderListener(xmlParser, messageBox);
-let inputFileReaderListenerCsv = new InputFileReaderListener(csvParser, messageBox);
+let inputFileReaderListenerXml = new InputFileReaderListener(xmlParser, messageBoxComponent);
+let inputFileReaderListenerCsv = new InputFileReaderListener(csvParser, messageBoxComponent);
 let inputFileReaderXml = new InputFileReader(document.querySelector('#xml-importer'));
 let inputFileReaderCsv = new InputFileReader(document.querySelector('#csv-importer'));
 inputFileReaderXml.addListener(inputFileReaderListenerXml);

@@ -36,31 +36,55 @@ class InputFileReader {
 	}
 
 	disableInput() {
-		this.input.setAttribute("disabled", true);
+		this.input.disabled = true;
 	}
 
 	resetInput() {
-		this.input.removeAttribute("disabled");
-		this.input.setAttribute("value", null);
+		this.input.disabled = false;
 		this.input.value = null;
 	}
 }
 
-class MessageBox {
-	constructor(box) {
-		this.box = box;
+class PhraseComponent {
+	constructor(phrase, containerElement) {
+		this.phraseElement = document.createElement('div');
+		let headersElement = document.createElement('header');
+		let pathElement = document.createElement('p');
+		let keyElement = document.createElement('p');
+		let itemIdElement = document.createElement('p');
+		let fieldIdElement = document.createElement('p');
+		let updatedElement = document.createElement('p');
+		pathElement.textContent = phrase.path;
+		keyElement.textContent = phrase.key;
+		itemIdElement.textContent = phrase.itemId;
+		fieldIdElement.textContent = phrase.fieldId;
+		updatedElement.textContent = phrase.updated;
+		headersElement.appendChild(pathElement);
+		headersElement.appendChild(keyElement);
+		headersElement.appendChild(itemIdElement);
+		headersElement.appendChild(fieldIdElement);
+		headersElement.appendChild(updatedElement);
+		this.phraseElement.appendChild(headersElement);
+		this.phraseElement.classList.add('phrase-container');
+		containerElement.appendChild(this.phraseElement);
+	}
+}
+
+class MessageBoxComponent {
+	constructor(containerElement) {
+		this.containerElement = containerElement;
 	}
 
 	info(message) {
 		this.clear();
 		var messageElement = document.createElement('p');
 		messageElement.textContent = message;
-		this.box.appendChild(messageElement);
+		this.containerElement.appendChild(messageElement);
 	}
 
 	clear() {
-		while (this.box.firstChild) {
-			this.box.removeChild(this.box.firstChild);
+		while (this.containerElement.firstChild) {
+			this.containerElement.removeChild(this.containerElement.firstChild);
 		}
 	}
 }
