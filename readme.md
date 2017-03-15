@@ -1,7 +1,7 @@
 # Sitecore Translation Utility
 
-[https://lucaspereira.github.io/translationUtility](Live App)
+[Live APP](https://lucaspereira.github.io/translationUtility)
 
 ## Example files: 
-- [https://raw.githubusercontent.com/lucasPereira/translationUtility/master/languages.xml](XML)
-- [https://raw.githubusercontent.com/lucasPereira/translationUtility/master/languages.csv](CSV)
+- [XML](https://raw.githubusercontent.com/lucasPereira/translationUtility/master/languages.xml)
+- [CSV](https://raw.githubusercontent.com/lucasPereira/translationUtility/master/languages.csv)
