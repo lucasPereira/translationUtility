@@ -45,6 +45,23 @@ class InputFileReader {
 	}
 }
 
+class PhrasesComponent {
+	constructor(phrasesElement) {
+		this.phrasesElement = phrasesElement;
+		this.clear();
+	}
+
+	createPhraseComponent(phrase, saveCallback) {
+		new PhraseComponent(phrase, this.phrasesElement, saveCallback)
+	}
+
+	clear() {
+		while(this.phrasesElement.firstChild) {
+			this.phrasesElement.removeChild(this.phrasesElement.firstChild);
+		}
+	}
+}
+
 class PhraseComponent {
 	constructor(phrase, containerElement, saveCallback) {
 		this.phraseElement = document.createElement('div');

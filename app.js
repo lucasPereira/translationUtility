@@ -1,13 +1,13 @@
 'use strict';
 
 class InputFileReaderListener {
-	constructor(parser, mesageBoxComponent) {
+	constructor(parser, mesageBoxComponent, phrasesComponent) {
 		this.parser = parser;
 		this.messageBoxComponent = messageBoxComponent;
 	}
 
 	selectFile(name, size) {
-		console.log(name + ' ' + size);
+		phrasesComponent.clear();
 	}
 
 	uploadFileProgress(progress) {
@@ -26,8 +26,8 @@ class InputFileReaderListener {
 }
 
 class ParserListener {
-	constructor(phrasesElement) {
-		this.phrasesElement = phrasesElement;
+	constructor(phrasesComponent) {
+		this.phrasesComponent = phrasesComponent;
 	}
 
 	parserError(error) {
@@ -36,19 +36,20 @@ class ParserListener {
 
 	receivePhrases(phrases) {
 		phrases.forEach((phrase) => {
-			new PhraseComponent(phrase, this.phrasesElement, (translation, newValue) => {
+			this.phrasesComponent.createPhraseComponent(phrase, (translation, newValue) => {
 				translation.translation = newValue;
 			});
 		});
 	}
 }
 
+let phrasesComponent = new PhrasesComponent(document.querySelector("#phrases"));
 let messageBoxComponent = new MessageBoxComponent(document.querySelector("#message-box"));
-let parserListener = new ParserListener(document.querySelector('#phrases'));
+let parserListener = new ParserListener(phrasesComponent);
 let xmlParser = new XmlParser();
 let csvParser = new CsvParser();
-let inputFileReaderListenerXml = new InputFileReaderListener(xmlParser, messageBoxComponent);
-let inputFileReaderListenerCsv = new InputFileReaderListener(csvParser, messageBoxComponent);
+let inputFileReaderListenerXml = new InputFileReaderListener(xmlParser, messageBoxComponent, phrasesComponent);
+let inputFileReaderListenerCsv = new InputFileReaderListener(csvParser, messageBoxComponent, phrasesComponent);
 let inputFileReaderXml = new InputFileReader(document.querySelector('#xml-importer'));
 let inputFileReaderCsv = new InputFileReader(document.querySelector('#csv-importer'));
 inputFileReaderXml.addListener(inputFileReaderListenerXml);
