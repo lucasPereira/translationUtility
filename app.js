@@ -36,7 +36,9 @@ class ParserListener {
 
 	receivePhrases(phrases) {
 		phrases.forEach((phrase) => {
-			new PhraseComponent(phrase, this.phrasesElement);
+			new PhraseComponent(phrase, this.phrasesElement, (translation, newValue) => {
+				translation.translation = newValue;
+			});
 		});
 	}
 }

@@ -46,9 +46,10 @@ class InputFileReader {
 }
 
 class PhraseComponent {
-	constructor(phrase, containerElement) {
+	constructor(phrase, containerElement, saveCallback) {
 		this.phraseElement = document.createElement('div');
 		let headersElement = document.createElement('header');
+		let translationsElement = document.createElement('section');
 		let pathElement = document.createElement('p');
 		let keyElement = document.createElement('p');
 		let itemIdElement = document.createElement('p');
@@ -64,8 +65,22 @@ class PhraseComponent {
 		headersElement.appendChild(itemIdElement);
 		headersElement.appendChild(fieldIdElement);
 		headersElement.appendChild(updatedElement);
-		this.phraseElement.appendChild(headersElement);
+		phrase.translations.forEach((translation) => {
+			let translationElement = document.createElement('div');
+			let translationLabelElement = document.createElement('label');
+			let translationInputElement = document.createElement('input');
+			translationLabelElement.textContent = translation.locale;
+			translationInputElement.value = translation.translation;
+			translationElement.appendChild(translationLabelElement);
+			translationElement.appendChild(translationInputElement);
+			translationsElement.appendChild(translationElement);
+			translationInputElement.addEventListener('input', () => {
+				saveCallback(translation, translationInputElement.value);
+			});
+		});
 		this.phraseElement.classList.add('phrase-container');
+		this.phraseElement.appendChild(headersElement);
+		this.phraseElement.appendChild(translationsElement);
 		containerElement.appendChild(this.phraseElement);
 	}
 }

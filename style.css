@@ -8,6 +8,7 @@ html {
 body {
 	padding: 0;
 	margin: 0;
+	background-color: #F1F1F1;
 }
 
 p {
@@ -25,7 +26,6 @@ input.csv-importer {
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
-	background-color: #F1F1F1;
 	margin: 0;
 	padding: 20px 0;
 }
@@ -37,7 +37,7 @@ button:hover {
 button.xml-importer,
 button.csv-importer {
 	border: none;
-	font-size: 1.2em;
+	font-size: 1.2rem;
 	text-transform: uppercase;
 	padding: 10px;
 	margin: 10px;
@@ -64,9 +64,9 @@ button.csv-importer {
 }
 
 .phrase-container {
-	border-bottom-color: #DDD;
-	border-bottom-style: solid;
-	border-bottom-width: 1px;
+	background-color: #FFF;
+	margin: 40px 20px;
+	padding: 10px 0;
 }
 
 .phrase-container header {
@@ -79,11 +79,41 @@ button.csv-importer {
 }
 
 .phrase-container header p {
-	background-color: #F5F5F5;
+	background-color: #EAF5FF;
 	border-radius: 10px;
-	color: #666;
+	color: #217AC0;
 	padding: 10px;
 	margin: 20px 10px;
 	word-wrap: break-word;
+	word-break: break-all;
 	text-overflow: ellipsis;
+}
+
+.phrase-container section div {
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	padding: 0 20px 20px 20px;
+}
+
+.phrase-container section div label {
+	color: #999;
+}
+
+.phrase-container section div input {
+	background-color: transparent;
+	border-color: #DDD;
+	border-style: solid;
+	border-width: 0 0 3px 0;
+	color: #666;
+	font-size: 1.2rem;
+	padding: 10px;
+	outline: none;
+}
+
+.phrase-container section div input:hover,
+.phrase-container section div input:focus,
+.phrase-container section div input:active {
+	border-color: #217AC0;
+	color: #333;
 }
