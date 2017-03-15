@@ -88,14 +88,33 @@ class CsvParser {
 
 class XmlUnparser {
 	unparse(phrases) {
-		console.log('XML');
+		let xml = document.implementation.createDocument("", "", null);
+		let xmlSitecore = xml.createElement('sitecore');
+		phrases.forEach((phrase) => {
+			let xmlPhrase = xml.createElement('phrase');
+			xmlPhrase.setAttribute('path', phrase.path);
+			xmlPhrase.setAttribute('key', phrase.key);
+			xmlPhrase.setAttribute('itemid', phrase.itemId);
+			xmlPhrase.setAttribute('fieldid', phrase.fieldId);
+			xmlPhrase.setAttribute('updated', phrase.updated);
+			phrase.translations.forEach((translation) => {
+				let xmlTranslation = xml.createElement(translation.locale);
+				let xmlTranslationText = xml.createTextNode(translation.translation);
+				xmlTranslation.appendChild(xmlTranslationText);
+				xmlPhrase.appendChild(xmlTranslation);
+			});
+			xmlSitecore.appendChild(xmlPhrase);
+		});
+		xml.appendChild(xmlSitecore);
+		let serializer = new XMLSerializer();
+		return serializer.serializeToString(xml);
 	}
 }
 
 class CsvUnparser {
 	unparse(phrases) {
-		let rawPhrases = phrases.map((phrase) => {
-			let rawPhrase = {
+		let csv = phrases.map((phrase) => {
+			let csvPhrase = {
 				path: phrase.path,
 				key: phrase.key,
 				itemid: phrase.itemId,
@@ -103,10 +122,10 @@ class CsvUnparser {
 				updated: phrase.updated,
 			};
 			phrase.translations.forEach((translation) => {
-				rawPhrase[translation.locale] = translation.translation;
+				csvPhrase[translation.locale] = translation.translation;
 			});
-			return rawPhrase;
+			return csvPhrase;
 		});
-		return Papa.unparse(rawPhrases);
+		return Papa.unparse(csv);
 	}
 }
