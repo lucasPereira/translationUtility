@@ -1,0 +1,755 @@
+phrase,path,key,itemid,fieldid,updated,en,de-DE,es-ES,fr-FR,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_all,ActivityFeed_all,{6AA96E43-D7F4-4214-A29D-5037BC705E89},Value,20160517T051030Z,All,Alles,Todo,Tous,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_BackToTop,ActivityFeed_BackToTop,{55536A6E-2E71-4E17-8C3D-F55907E203DD},Value,20160627T044838Z,Back To Top,Zurück nach oben,Vuelve al inicio,Retour au début,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_close,ActivityFeed_close,{0FE8AB13-AC5B-4BA4-960B-E259FFCEC5A9},Value,20160623T044243Z,Close,Schließen,Cerrar,Fermer,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_highlights,ActivityFeed_highlights,{DFE95DCB-886D-4A36-BD34-8DEBD2FE4F6F},Value,20160623T044335Z,Highlights,Höhepunkte,Puntos destacados,Points forts,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_loading,ActivityFeed_loading,{59030479-199A-4F2A-9321-E7CEAB35A0CA},Value,20160517T052511Z,Loading,Laden,Cargando,Chargement,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_Modal_Title,ActivityFeed_Modal_Title,{AD1415A1-EB9D-44F9-ACB0-6EE37C565409},Value,20170217T013126Z,Search teams and riders,,,,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_multimedia,ActivityFeed_multimedia,{821C36C1-45FB-4CDB-862F-C8E5C6CE4119},Value,20160517T051633Z,Multimedia,Multimedia,Multimedia,Multimédia,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_refresh,ActivityFeed_refresh,{644CD1EE-1A5D-4E04-A484-97EB85FCE3C7},Value,20160623T044438Z,Refresh,Aktualisieren,Actualizar,Rafraîchir,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_search,ActivityFeed_search,{0EB839C5-7B71-48BA-BCF7-CE03EAE05D8A},Value,20160517T052039Z,Search,Suche,Buscar,Chercher,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_search_not_found,ActivityFeed_search_not_found,{67772D1A-FC91-4EFD-9466-6E042D01DAA6},Value,20160623T044438Z,No items match your search,Wir haben leider keine Artikel gefunden die Ihrer Suche entsprechen,Ningún elemento coincide con tu búsqueda,Aucun élément ne correspond à votre recherche,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_SearchBox_PlaceHolderText,ActivityFeed_SearchBox_PlaceHolderText,{20415766-2143-4C42-B193-D426C17EAC38},Value,20160627T053238Z,Type Rider or Team Name,Fahrer- oder Teamname eingeben,Escribe el nombre del corredor o del equipo,Entrez le nom d'un coureur ou d'une équipe,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_social,ActivityFeed_social,{EEFEBD78-03D0-436A-A85D-6719EEFDEFE2},Value,20160623T044438Z,Social,Social,Social,Réseaux sociaux,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_social_media,ActivityFeed_social_media,{E4FBA3D8-1721-46AD-80CB-AD99C951715D},Value,20160623T044438Z,Social Media,Soziale Medien,Redes sociales,Partager sur les réseaux,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_tap_to_share,ActivityFeed_tap_to_share,{1B909E77-17A4-4920-9268-3D623A1BDA9F},Value,20160623T044439Z,Tap to share on one of these services,Wählen Sie ein soziales Netzwerk um zu teilen:,Da un toque para compartir uno de estos servicios,Choisissez le service sur lequel vous souhaitez partager ce post,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_to_go,ActivityFeed_to_go,{F4993F09-549D-4722-BD14-A41F12A3B6D7},Value,20160623T044439Z,to go,bis zum Ziel,para llegar a meta,à parcourir,,,,,
+"
+    ",/sitecore/content/Translations/ActivityFeed_Yesterday,ActivityFeed_Yesterday,{A7F426E6-6878-4081-BE92-857429D44648},Value,20160702T074048Z,Yesterday,Gestern,Ayer,Hier,,,,,
+"
+    ",/sitecore/content/Translations/Age,Age,{5885E732-5FD1-4997-9F66-DCED238C56D5},Value,20160706T113738Z,Age,Alter,Años,Age,,,,,
+"
+    ",/sitecore/content/Translations/Argentina,Argentina,{782734C8-B3C3-41E2-BB5E-FB077314D56D},Value,20160713T004027Z,Argentina,Argentinien,Argentina,Argentine,,,,,
+"
+    ",/sitecore/content/Translations/Australia,Australia,{DB987DD2-622A-4EF9-BB1A-36E4892AFD07},Value,20160713T004241Z,Australia,Australien,Australia,Australie,,,,,
+"
+    ",/sitecore/content/Translations/Austria,Austria,{81EAECA8-3385-45B2-871C-A0463FAE3740},Value,20160713T004347Z,Austria,Österreich,Austria,Autriche,,,,,
+"
+    ",/sitecore/content/Translations/AverageSpeed,AverageSpeed,{50D62B77-E023-4096-9830-5A367B5C2CAF},Value,20170221T030619Z,average speed,,,Vitesse moyenne sur,,,,,
+"
+    ",/sitecore/content/Translations/AverageSpeedComparison,AverageSpeedComparison,{6F54B966-AB14-46DE-A78B-5CBC1DDCC2F7},Value,20170224T011702Z,Average Speed Comparison,,,Comparaison vitesse moyenne,,,,,
+"
+    ",/sitecore/content/Translations/Back_to_LIVE_Race,Back_to_LIVE_Race,{E7CF82DD-5C47-47C9-8A71-DC90C7CB72B1},Value,20160714T064702Z,Back to LIVE Race,Zurück zur LIVE-Etappe,Volver al directo de la etapa,Retour à la course en LIVE,,,,,
+"
+    ",/sitecore/content/Translations/behindFrontofrace,behindFrontofrace,{F2288706-4D36-42FA-BDB2-4E9D66BD8D04},Value,20160702T125231Z,behind,hinter,después,après,,,,,
+"
+    ",/sitecore/content/Translations/Belarus,Belarus,{FEE57D37-2408-4608-BF45-978CE4E0AB18},Value,20160713T004500Z,Belarus,Weißrussland,Belarús,Belarus,,,,,
+"
+    ",/sitecore/content/Translations/Belgium,Belgium,{246F3878-269D-49E3-9567-03A85E0BF2BD},Value,20160713T004755Z,Belgium,Belgien,Bélgica,Belgique,,,,,
+"
+    ",/sitecore/content/Translations/Big_Rain,Big_Rain,{11D09105-A5F1-48D6-8363-8714FABC9B88},Value,20170220T091228Z,Big Rain,,,Pluie,,,,,
+"
+    ",/sitecore/content/Translations/Big_Storm,Big_Storm,{C72E5F06-A523-4E29-B3A6-489D3B18911E},Value,20170220T091309Z,Big Storm,,,Gros orage,,,,,
+"
+    ",/sitecore/content/Translations/Breakaway,Breakaway,{F10A4DED-C239-4372-9601-05D20399DB00},Value,20170220T103210Z,Breakaway,,,Echappée,,,,,
+"
+    ",/sitecore/content/Translations/Canada,Canada,{FADD814A-95F2-40DB-A612-E443BF6D1265},Value,20160713T005908Z,Canada,Kanada,Canadá,Canada,,,,,
+"
+    ",/sitecore/content/Translations/Classification_after_Stage,Classification_after_Stage,{5B1244E2-EE86-4043-8AAA-1B1DD14421E9},Value,20160713T081930Z,for stage,nach Etappe,tras la etapa,sur l'étape,,,,,
+"
+    ",/sitecore/content/Translations/Classification_close,Classification_close,{54DC9F8B-7472-4B8C-9FFD-351B4E2A1B5C},Value,20170213T223614Z,Close,,,Fermer,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Link_Less,Classification_Link_Less,{C0F48B68-E19E-4A02-84A4-A1D76E932877},Value,20160627T045348Z,Less,Weniger zeigen,Menos,Moins,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Link_More,Classification_Link_More,{ED819E36-B863-4080-B5E6-12CF63A46F59},Value,20160627T045301Z,More,Mehr zeigen,Más,Plus,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Menu_Climber,Classification_Menu_Climber,{C953BE8D-F9AE-4317-AC6E-4D4D16419FFD},Value,20160629T064002Z,Climber,Bergfahrer,Escalador,Grimpeur,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Menu_Combatitive,Classification_Menu_Combatitive,{A139AD0A-FF34-4839-AD64-8AD122F70ECB},Value,20160629T064106Z,Combatitive,Kämpferisch,Más combativo,Combatif,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Menu_Combined,Classification_Menu_Combined,{9B5824B0-77BC-48B0-B94B-C75EB7634205},Value,20160816T052550Z,Combined,,Combinada,Combiné,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Menu_Individual,Classification_Menu_Individual,{366CEDC3-8A04-41C1-941A-E312969DF807},Value,20160629T063911Z,Individual,Einzel,Individual,Individuel,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Menu_Overall,Classification_Menu_Overall,{3A12F4CF-1B84-40E5-B8F2-7A92BECE906B},Value,20160629T063829Z,Overall,Gesamt,General,Géneral,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Menu_Point,Classification_Menu_Point,{D208FF21-3D96-425D-9363-AEB6DD79F73B},Value,20160701T032606Z,Points,Punkte,Puntos,Points,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Menu_Stage,Classification_Menu_Stage,{D19C8FFF-8FF9-4152-99BD-C67CB0841B0A},Value,20160629T063853Z,Stage,Etappe,Etapa,Etape,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Menu_Team,Classification_Menu_Team,{6F26CEF7-6A6F-46A7-904B-1D7F9C2F7BD3},Value,20160629T063948Z,Team,Team,Equipo,Equipe,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Menu_Withdrawn,Classification_Menu_Withdrawn,{765052A4-4E26-4BFC-BFF2-2EF9078D0040},Value,20160629T064053Z,Withdrawn,Aufgegeben,Abandonos,Abandons,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Menu_Youth,Classification_Menu_Youth,{3EDB04BA-C2D2-46DE-9E96-30BE5AB2EB04},Value,20160629T064019Z,Youth,Jungprofis,Joven,Jeune,,,,,
+"
+    ",/sitecore/content/Translations/Classification_MobileMenu_Combatitive,Classification_MobileMenu_Combatitive,{5190493E-1C6E-41A0-AD48-FA6885C00289},Value,20160718T011756Z,Combatitive,Kämpferischster Fahrer,Más combativo,Combatif,,,,,
+"
+    ",/sitecore/content/Translations/Classification_MobileMenu_Combined,Classification_MobileMenu_Combined,{E758DABA-7E60-460D-A455-33C35E8DA433},Value,20160816T052704Z,Combined,,Combinada,Combiné,,,,,
+"
+    ",/sitecore/content/Translations/Classification_MobileMenu_General,Classification_MobileMenu_General,{80463A58-9959-4AE3-A543-E322146D9C50},Value,20160718T011744Z,Individual,Gesamtklassement,Clasificación general,Classement général,,,,,
+"
+    ",/sitecore/content/Translations/Classification_MobileMenu_Mountain,Classification_MobileMenu_Mountain,{D647F508-8E85-4751-9C03-4C1356D021BD},Value,20160718T011646Z,Climber,Bergklassement,Mejor escalador,Meilleur Grimpeur,,,,,
+"
+    ",/sitecore/content/Translations/Classification_MobileMenu_Sprint,Classification_MobileMenu_Sprint,{4C5315CF-37EC-430C-80CB-CB4829BDDE9C},Value,20160718T011701Z,Points,Sprintklassement,Puntos,Points,,,,,
+"
+    ",/sitecore/content/Translations/Classification_MobileMenu_Team,Classification_MobileMenu_Team,{087E5D31-2DCF-4C5A-8FF9-21997AF24F91},Value,20160718T011711Z,Team,Teamklassement,Equipo,Equipe,,,,,
+"
+    ",/sitecore/content/Translations/Classification_MobileMenu_Withdrawn,Classification_MobileMenu_Withdrawn,{D36BE0CA-B590-4F71-9578-7BE80C954F5E},Value,20160718T011628Z,Withdrawn,Aufgegeben,Abandonos,Abandons,,,,,
+"
+    ",/sitecore/content/Translations/Classification_MobileMenu_Youth,Classification_MobileMenu_Youth,{DEA10BFA-C182-4299-AA5B-21289B2733F9},Value,20160718T011723Z,Youth,Beste Jungprofis,Joven,Jeune,,,,,
+"
+    ",/sitecore/content/Translations/Classification_overallafter_Stage,Classification_overallafter_Stage,{81228BFD-85C1-4AEA-A993-E718000D8B03},Value,20160713T082006Z,for stage,nach Etappe,tras la etapa,sur l'étape,,,,,
+"
+    ",/sitecore/content/Translations/Classification_overallTotal_distance,Classification_overallTotal_distance,{2CB417FF-0A27-4501-9A06-2CE5F700093F},Value,20160705T071201Z,total distance,Gesamtstrecke,Distancia total,Distance totale,,,,,
+"
+    ",/sitecore/content/Translations/Classification_social_media,Classification_social_media,{E195F00F-C210-4788-A1C7-E865F62C9368},Value,20170213T223526Z,Social Media,,,Partager sur les réseaux,,,,,
+"
+    ",/sitecore/content/Translations/Classification_tap_to_share,Classification_tap_to_share,{5B7031D1-E2A0-46D4-8AC5-D2FF27DAE280},Value,20170213T223556Z,Tap to share on one of these services,,,Choisissez le service sur lequel vous souhaitez partager ce post,,,,,
+"
+    ",/sitecore/content/Translations/Classification_Total_distance,Classification_Total_distance,{43C56FE4-F03C-4B9A-9A11-6C339E23E22F},Value,20160629T064123Z,distance,Zurückgelegte Strecke,distancia,distance,,,,,
+"
+    ",/sitecore/content/Translations/Cloudy,Cloudy,{F8AE302F-D811-4DB1-BE79-EC9ED8FF8FB8},Value,20170220T090621Z,Cloudy,,,Nuageux,,,,,
+"
+    ",/sitecore/content/Translations/Colombia,Colombia,{8817A9BB-8DE3-4BC0-97E2-868C8C28D177},Value,20160713T020654Z,Colombia,Kolumbien,Colombia,Colombie,,,,,
+"
+    ",/sitecore/content/Translations/combatitiveClassificationTitleText,combatitiveClassificationTitleText,{BA72EC68-723C-45B5-A9A6-8B8151EBD9D5},Value,20160708T110230Z,Most Combatitive Rider,Kämpferischster Fahrer,Más combativo,Combatif,,,,,
+"
+    ",/sitecore/content/Translations/Combined_Classification,Combined_Classification,{BFF1F404-491D-46D2-95AE-2701C53B5ABC},Value,20160818T055822Z,Combined Classification,,Clasificación combinada,Classement combiné,,,,,
+"
+    ",/sitecore/content/Translations/Croatia,Croatia,{6E275881-8220-41D6-BAB9-F1E08572B234},Value,20160713T020732Z,Croatia,Kroatien,Croacia,Croatie,,,,,
+"
+    ",/sitecore/content/Translations/Currently_in_the,Currently_in_the,{D0FD4615-4FE7-4D39-8144-76FFBBF0428D},Value,20170223T233643Z,Currently in the,,,Actuellement dans le,,,,,
+"
+    ",/sitecore/content/Translations/CurrentlyInGroup,CurrentlyInGroup,{D811E6C3-CBD8-49CA-B560-A49B79CB7335},Value,20170221T051515Z,is currently in group,,,is currently in group,,,,,
+"
+    ",/sitecore/content/Translations/Czech_Republic,Czech_Republic,{A50869CD-4F87-4FD3-A086-D0E726FF94BA},Value,20160713T021238Z,Czech Republic,Tschechische Republik,República Checa,République Tchèque,,,,,
+"
+    ",/sitecore/content/Translations/Data_Zone_Current_Postion_on_Stage,Data_Zone_Current_Postion_on_Stage,{33EC19D6-36DF-4CB1-8419-B158E073C8F4},Value,20160623T044439Z,Current Postion on Stage,Aktuelle Position in der Etappe,Posición actual en la etapa,Position actuelle dans l'étape,,,,,
+"
+    ",/sitecore/content/Translations/Data_Zone_Current_Speed_At_Front_Of_Race,Data_Zone_Current_Speed_At_Front_Of_Race,{D8B3AE2F-7604-4B9F-A8B5-11A999397BA1},Value,20160623T044439Z,Speed at Front of Race,Geschwindigkeit an der Rennspitze,Velocidad en la cabeza de carrera,Vitesse de la tête de course,,,,,
+"
+    ",/sitecore/content/Translations/Data_Zone_Currently,Data_Zone_Currently,{E926A4E4-7D9B-4554-BD9C-303217A94230},Value,20160623T044439Z,Currently,Aktuell,Ahora,Actuellement,,,,,
+"
+    ",/sitecore/content/Translations/Data_Zone_Distance_To_Finish,Data_Zone_Distance_To_Finish,{85777FBD-C448-4943-963B-9F445000BA31},Value,20160623T044439Z,Distance to Finish,Restdistanz bis zum Ziel,Distancia hasta meta,Distance restante à parcourir,,,,,
+"
+    ",/sitecore/content/Translations/Data_Zone_Title,Data_Zone_Title,{635A744B-7DEA-4721-9604-96BC273E21C0},Value,20160627T053204Z,Data Zone,Datazone,Data Zone,Data Zone,,,,,
+"
+    ",/sitecore/content/Translations/DataCards_close,DataCards_close,{A1943072-80C8-43C1-A1DC-786632B6736A},Value,20170220T004407Z,Close,,,Fermer,,,,,
+"
+    ",/sitecore/content/Translations/DataCards_social_media,DataCards_social_media,{83965CD7-710B-4CB8-9EE0-0ED32DDC213F},Value,20170220T004241Z,Social Media,,,Partager sur les réseaux,,,,,
+"
+    ",/sitecore/content/Translations/DataCards_tap_to_share,DataCards_tap_to_share,{D7D7F67A-84EF-4F04-BAD3-453B468DAA04},Value,20170220T004515Z,Tap to share on one of these services,,,Choisissez le service sur lequel vous souhaitez partager ce post:,,,,,
+"
+    ",/sitecore/content/Translations/Date_Zone_Gap_From_First_To_Last,Date_Zone_Gap_From_First_To_Last,{33A07326-4353-4198-8122-0E29A21AAB8F},Value,20160623T044439Z,Gap from 1st to Last,Abstand zwischen dem ersten und dem letzten Fahrer,Diferencia entre primero y último,Ecart entre le premier et le dernier coureur,,,,,
+"
+    ",/sitecore/content/Translations/Denmark,Denmark,{964B3124-985A-40B1-819A-911A4259167B},Value,20160713T021314Z,Denmark,Dänemark,Dinamarca,Danemark,,,,,
+"
+    ",/sitecore/content/Translations/Eritrea,Eritrea,{B84ABC8F-6E6C-428F-A42E-38BA24E5EB15},Value,20160713T021513Z,Eritrea,Eritrea,Eritrea,Érythrée,,,,,
+"
+    ",/sitecore/content/Translations/Estonia,Estonia,{6F3A9641-34F2-451A-BAC5-4C0F55D69F30},Value,20160713T021621Z,Estonia,Estland,Estonia,Estonie,,,,,
+"
+    ",/sitecore/content/Translations/Ethiopia,Ethiopia,{D2881A4D-454C-4A8A-A092-2236167E2699},Value,20160713T021804Z,Ethiopia,Äthiopien,Etiopía,Ethiopie,,,,,
+"
+    ",/sitecore/content/Translations/Favourites,Favourites,{614E27C9-2FA9-4B44-B65E-FA4BACBACABE},Value,20160623T044439Z,My Favourites,Meine Favoriten,Mis favoritos,Mes favoris,,,,,
+"
+    ",/sitecore/content/Translations/Favourites_Add_All,Favourites_Add_All,{9525DF1D-51E6-4CD5-AC22-28602DA41C22},Value,20160623T044439Z,Add all,Alle hinzufügen,Añadir todo,Tout ajouter,,,,,
+"
+    ",/sitecore/content/Translations/Favourites_No_Riders_Available,Favourites_No_Riders_Available,{C94DAF11-173E-4E17-A3EE-F31C73128612},Value,20160623T044439Z,No riders available,Kein Fahrer verfügbar,Ningún corredor disponible,Aucun coureur disponible,,,,,
+"
+    ",/sitecore/content/Translations/Favourites_Rider_Name,Favourites_Rider_Name,{19B2C044-851D-480B-891E-97210BDE19AD},Value,20160623T044440Z,Rider name,Name,Nombre del corredor,Nom du Coureur,,,,,
+"
+    ",/sitecore/content/Translations/Favourites_Tag_All_Riders,Favourites_Tag_All_Riders,{2FE59F57-2857-4870-A95C-B7F370479EB1},Value,20160623T044440Z,All riders,Alle Fahrer,Todos los corredores,Tous les coureurs,,,,,
+"
+    ",/sitecore/content/Translations/Favourites_Tag_Nationality,Favourites_Tag_Nationality,{CB9B8711-832F-4318-90E2-5A73B62A7EE3},Value,20160623T044440Z,Nationalities,Nationalitäten,Por nacionalidad,Par nationalité,,,,,
+"
+    ",/sitecore/content/Translations/Favourites_Tag_Team,Favourites_Tag_Team,{556337E7-FF90-4A88-B143-6FBC31A5B4F7},Value,20160623T044440Z,Teams,Teams,Por equipo,Par équipe,,,,,
+"
+    ",/sitecore/content/Translations/Favourites_Tag_Top5,Favourites_Tag_Top5,{152CCAE7-8F93-4F46-81F6-DA65D66125FA},Value,20160623T044440Z,Top 5,Top 5,Top 5,Top cinq,,,,,
+"
+    ",/sitecore/content/Translations/Favourites_Tag_Top5_Climbers,Favourites_Tag_Top5_Climbers,{07B4F620-4BDC-4D2C-8FAB-4C3D774E5E25},Value,20160623T044440Z,Top 5 Climbers,Top 5 der besten Kletterer,Top 5 de montaña,Top 5 des meilleurs grimpeurs,,,,,
+"
+    ",/sitecore/content/Translations/Favourites_Tag_Top5_GC,Favourites_Tag_Top5_GC,{D30BD3A6-8A61-4108-BF87-DDD16DEDB34F},Value,20160623T044440Z,Top 5 GC,Top 5 des Gesamtklassements,Top 5 de la clasificación general,Top 5 du classement général,,,,,
+"
+    ",/sitecore/content/Translations/Favourites_Tag_Top5_Riders,Favourites_Tag_Top5_Riders,{39D67318-1987-4C9E-B27B-F3A4AAAC0B1A},Value,20160623T044440Z,Top 5 Riders,Top 5,Top 5 de corredores,Top 5 des coureurs,,,,,
+"
+    ",/sitecore/content/Translations/Favourites_Tag_Top5_Sprinter,Favourites_Tag_Top5_Sprinter,{30B81728-4962-45F4-8F95-4748EC20ED13},Value,20160623T044440Z,Top 5 Sprinters,Top 5 der besten Sprinter,Top 5 de velocistas,Top 5 des meilleurs sprinters,,,,,
+"
+    ",/sitecore/content/Translations/Favourites_Tag_Top5_Young_Riders,Favourites_Tag_Top5_Young_Riders,{A719023B-714B-47D9-B3D1-B166AF14655F},Value,20160623T044440Z,Top 5 Young Riders,Top 5 der besten Jungprofis,Top 5 de jóvenes,Top 5 des jeunes coureurs,,,,,
+"
+    ",/sitecore/content/Translations/Footer_Day,Footer_Day,{AE65E41A-EF4B-46EE-A99D-F18CA94DDF65},Value,20160706T051155Z,d,d,,j,,,,,
+"
+    ",/sitecore/content/Translations/footer_GapYellowJerseyBack,footer_GapYellowJerseyBack,{CF9EAE2C-5FEE-425B-A0FD-4890F1B584C8},Value,20160701T034902Z,null,null,null,null,,,,,
+"
+    ",/sitecore/content/Translations/Footer_startsIn,Footer_startsIn,{7E5E85A1-46C5-47F9-BDE6-01FE6F8A2063},Value,20160701T071446Z,Stage starts in,Etappe beginnt in,Sale en,L'étape démarrera dans,,,,,
+"
+    ",/sitecore/content/Translations/Footer_TimeTrial_Checkpoint,Footer_TimeTrial_Checkpoint,{908B2ADE-FC3C-4F30-8638-2E685E316E8A},Value,20160712T102907Z,Fastest rider at C,In Führung bei Zwischenzeit,Fastest rider at C,Coureur le plus rapide à C,,,,,
+"
+    ",/sitecore/content/Translations/Footer_TimeTrial_Finish,Footer_TimeTrial_Finish,{38FEE80E-1357-4D61-A418-648222E3ECE5},Value,20160712T103546Z,Fastest rider at Finish,In Führung im Ziel,Fastest rider at Finish,Coureur le plus rapide à l'arrivée,,,,,
+"
+    ",/sitecore/content/Translations/Footer_TimeTrial_Start,Footer_TimeTrial_Start,{7160D667-2720-4040-81DB-B109EBEC6CF5},Value,20160712T103315Z,Next Rider to Start,Nächster Fahrer am Start,Next Rider to Start,Prochain coureur à démarrer,,,,,
+"
+    ",/sitecore/content/Translations/ForecastWeatherAt,ForecastWeatherAt,{1275440A-57FE-4C4E-9B43-97037EAEFEFF},Value,20170220T100811Z,Forecast weather at,,,Prévisions météo à,,,,,
+"
+    ",/sitecore/content/Translations/France,France,{23F778CA-08CC-48D4-91B0-B79CAF291C00},Value,20160713T022112Z,France,Frankreich,Francia,France,,,,,
+"
+    ",/sitecore/content/Translations/from_the_finish,from_the_finish,{CC3D1DD3-BBCC-4A2A-A4B2-82467E2AB3C7},Value,20170306T080727Z,from the finish,,,,,,,,
+"
+    ",/sitecore/content/Translations/from_the_finish,from_the_finish,{711B37F1-AABC-4823-A64C-CD26D109A87D},Value,20170223T233422Z,from the finish,,,de l'arrivée,,,,,
+"
+    ",/sitecore/content/Translations/FromTheFinish,FromTheFinish,{4D1672A1-D93E-497B-8759-BEB854272174},Value,20170221T051619Z,"""""km from the finish"," travelling at""""",,,"""""km from the finish"," travelling at""""",,,
+"
+    ",/sitecore/content/Translations/FrontoftheRace,FrontoftheRace,{BD05063D-5D02-45A5-BC53-1353F5A81238},Value,20160702T121613Z,Front of the race,Rennspitze,Cabeza de carrera,Tête de course,,,,,
+"
+    ",/sitecore/content/Translations/GapFrom,GapFrom,{D5198A72-5806-4013-94AF-5FF08201DC19},Value,20170221T030119Z,Gap from,,,Écart de,,,,,
+"
+    ",/sitecore/content/Translations/GapToFrontDecreasing,GapToFrontDecreasing,{A80E2F8B-7120-4AD2-9EDE-51DE8DB25FAD},Value,20170226T221540Z,gap to front decreasing,,,gap to front decreasing,,,,,
+"
+    ",/sitecore/content/Translations/GapToFrontIncreasing,GapToFrontIncreasing,{812729B0-B95E-4EF0-B38E-3B1B14857759},Value,20170226T221712Z,gap to front increasing,,,gap to front increasing,,,,,
+"
+    ",/sitecore/content/Translations/GCStarter_Classficiation,GCStarter_Classficiation,{70CC4E93-289D-4AA8-A324-1802E8BD9E4A},Value,20160701T080008Z,Classification,Klassement,Clasificación,Classification,,,,,
+"
+    ",/sitecore/content/Translations/GCStarter_Starter,GCStarter_Starter,{AA09C868-4DBD-4C7E-A7E6-CCBD10E70A72},Value,20160701T080034Z,Starters,Starter,Corredores en la línea de salida,Partants,,,,,
+"
+    ",/sitecore/content/Translations/Germany,Germany,{2FDA121D-7862-40E1-8CED-15D099C600DF},Value,20160713T022303Z,Germany,Deutschland,Alemania,Allemagne,,,,,
+"
+    ",/sitecore/content/Translations/Group,Group,{F092A321-9F3D-4847-8B1D-FA0A011412C6},Value,20160530T230702Z,Group,Gruppe,Grupo,Groupe,,,,,
+"
+    ",/sitecore/content/Translations/Group_2eme_Peloton,Group_2eme_Peloton,{0B3FA8E4-B252-4913-83BC-362635DDA2B2},Value,20160710T050809Z,2nd peloton,2. Peloton,2° peloton,2ème Peloton,,,,,
+"
+    ",/sitecore/content/Translations/Group_2eme_Peloton,Group_2eme_Peloton,{EC16F422-21AF-4AC9-9BDC-8C4CDCAE54DD},Value,20160630T233857Z,2nd peloton,2. Peloton,2° peloton,2ème Peloton,,,,,
+"
+    ",/sitecore/content/Translations/Group_2nd_echelon,Group_2nd_echelon,{1D18D09F-47AC-4214-A721-97AA657CBF17},Value,20160623T044441Z,2nd echelon,2. Gestaffelte Gruppe,Intercalado,Intercalé,,,,,
+"
+    ",/sitecore/content/Translations/Group_2nd_echelon_Plural,Group_2nd_echelon_Plural,{E2FC32DE-B506-4F3E-B1F4-B2D572FAA30E},Value,20160623T044441Z,2nd echelon,2. Gestaffelte Gruppe,Intercalados,Intercalés,,,,,
+"
+    ",/sitecore/content/Translations/Group_2nd_peloton,Group_2nd_peloton,{0C5B7C11-9C1E-4308-9B4F-1AF6B423F4D0},Value,20160623T044441Z,2nd peloton,2. Peloton,2° pelotón,2ème Peloton,,,,,
+"
+    ",/sitecore/content/Translations/Group_Arriere_du_peloton,Group_Arriere_du_peloton,{56754E43-6844-4203-9AAD-7B2ED2FBF79D},Value,20160630T234137Z,Back of the peloton,Ende des Pelotons,Cola del pelotón,Arrière du peloton,,,,,
+"
+    ",/sitecore/content/Translations/Group_Arriere_du_peloton,Group_Arriere_du_peloton,{4BAA873B-8B45-4442-81EF-54048A9FF2AD},Value,20160703T124942Z,Back of the peloton,Ende des Pelotons,Cola del pelotón,Arrière du peloton,,,,,
+"
+    ",/sitecore/content/Translations/Group_Attarde,Group_Attarde,{3B0505F3-9BF7-400F-9C46-74CC9E93C0BA},Value,20160709T121251Z,Straggler,Nachzügler,Retrasado,Attardé,,,,,
+"
+    ",/sitecore/content/Translations/Group_Attarde,Group_Attarde,{60669B75-7908-4346-B40D-D1B68E8216F9},Value,20160630T233100Z,Straggler,Nachzügler,Retrasado,Attardé,,,,,
+"
+    ",/sitecore/content/Translations/Group_Attardes,Group_Attardes,{8AF42122-B846-4574-8BF4-5A2A6862C5C6},Value,20160630T233343Z,Stragglers,Nachzügler,Retrasados,Attardés,,,,,
+"
+    ",/sitecore/content/Translations/Group_Attardes,Group_Attardes,{9634C1F8-3006-488C-8430-7AD94B5F5169},Value,20160709T120826Z,Stragglers,Nachzügler,Retrasados,Attardés,,,,,
+"
+    ",/sitecore/content/Translations/Group_Back_of_the_peloton,Group_Back_of_the_peloton,{77EE9371-55AA-4438-905E-FC8ADBEC51C4},Value,20160623T044441Z,Back of the peloton,Ende des Pelotons,Cola del pelotón,Arrière du peloton,,,,,
+"
+    ",/sitecore/content/Translations/Group_Back_of_the_Race,Group_Back_of_the_Race,{B3C4BD36-796B-41CE-9759-5F4FF641DEFE},Value,20160702T114629Z,Back of the Race,Grupetto,Grupetto,Grupetto,,,,,
+"
+    ",/sitecore/content/Translations/Group_Behind,Group_Behind,{7EAF0B07-C4EF-4289-80AD-A608CE46E532},Value,20160703T015547Z,behind,hinter,después,après,,,,,
+"
+    ",/sitecore/content/Translations/Group_Breakaway,Group_Breakaway,{8AB258C0-2241-4D29-A6D6-9937CC1815BA},Value,20160530T230640Z,Breakaway,Ausreißer,Escapada,Echappée,,,,,
+"
+    ",/sitecore/content/Translations/Group_Counter_Attack,Group_Counter_Attack,{4C1F2321-5C6B-447B-9D3C-856D17574534},Value,20160623T044441Z,Counter attack,Verfolger,Perseguidor,Poursuivant,,,,,
+"
+    ",/sitecore/content/Translations/Group_Counter_Attack_Plural,Group_Counter_Attack_Plural,{6BF8B550-1281-419E-8448-C01B553940F6},Value,20160530T230700Z,Counter attack,Verfolger,Perseguidores,Poursuivants,,,,,
+"
+    ",/sitecore/content/Translations/Group_Distance,Group_Distance,{1DB5F24E-B138-4E48-8A4E-0B28E0A701A3},Value,20160709T150024Z,Dropped rider,Abgehängte Fahrer,Distanciado,Distancé,,,,,
+"
+    ",/sitecore/content/Translations/Group_Distance,Group_Distance,{9B2CA926-95E8-4981-A76C-D89409A44AD8},Value,20160630T232514Z,Dropped rider,Abgehängte Fahrer,Distanciado,Distancé,,,,,
+"
+    ",/sitecore/content/Translations/Group_Distances,Group_Distances,{D7840206-5826-4DA0-A7BA-E3CC15F2927A},Value,20160630T232757Z,Dropped riders,Abgehängte Fahrer,Distanciados,Distancés,,,,,
+"
+    ",/sitecore/content/Translations/Group_Distances,Group_Distances,{31EB0A2E-A923-49C4-A89A-A57E757C7712},Value,20160709T150236Z,Dropped riders,Abgehängte Fahrer,Distanciados,Distancés,,,,,
+"
+    ",/sitecore/content/Translations/Group_DistanceToFinish,Group_DistanceToFinish,{D942FFCE-D61D-40CC-8D0B-ADB9D44FF665},Value,20160702T074851Z,Distance to finish,noch,Distance to finish_es,Distance to finish_fr,,,,,
+"
+    ",/sitecore/content/Translations/Group_does_not_exist_anymore,Group_does_not_exist_anymore,{129198EB-ABDC-44FB-9649-F5A297A6C5BD},Value,20160718T063947Z,This group does not exist anymore,This group does not exist anymore,This group does not exist anymore,Ce groupe n'existe plus,,,,,
+"
+    ",/sitecore/content/Translations/Group_Dropped_rider,Group_Dropped_rider,{7B61EEEB-3588-4588-A27D-9C862D66F0BC},Value,20160623T044441Z,Dropped rider,Abgehängter Fahrer,Distanciado,Distancé,,,,,
+"
+    ",/sitecore/content/Translations/Group_Dropped_riders,Group_Dropped_riders,{2E048BF9-F203-4375-9145-F290B7B38719},Value,20160530T230700Z,Dropped riders,Abgehängte Fahrer,Distanciados,Distancés,,,,,
+"
+    ",/sitecore/content/Translations/Group_Echappee,Group_Echappee,{8CCB92BD-9BD9-4B95-AD1F-540285F0125B},Value,20160630T230504Z,Breakaway,Ausreißer,Escapada,Echappée,,,,,
+"
+    ",/sitecore/content/Translations/Group_Echappee,Group_Echappee,{F57809A0-77AB-40C7-A41C-1914CDA1E578},Value,20160710T051526Z,Breakaway,Ausreißer,Escapada,Echappée,,,,,
+"
+    ",/sitecore/content/Translations/Group_Front_of_the_Race,Group_Front_of_the_Race,{399BBC71-20D3-4FA2-91C2-1B108FF317B9},Value,20160627T072136Z,Front of the race,Rennspitze,Cabeza de carrera,Tête de course,,,,,
+"
+    ",/sitecore/content/Translations/Group_GapToLeading,Group_GapToLeading,{F09CBAE6-FC09-4941-B6C6-12E07313C9DD},Value,20160701T081417Z,Gap to Leading group,Abstand zur Rennspitze,Distancia de cabeza de la carrera,Ecart avec la tête de course,,,,,
+"
+    ",/sitecore/content/Translations/Group_Groupe_Maillot_Jaune,Group_Groupe_Maillot_Jaune,{0DE22B70-93A1-4633-8716-47019462F3F3},Value,20160630T233607Z,Leader group,Gruppe ums Gelbe Trikot,Grupo del maillot amarillo,Groupe Maillot Jaune,,,,,
+"
+    ",/sitecore/content/Translations/Group_In_Front,Group_In_Front,{6A86A219-BDCA-45FA-9F8A-2A49F8FD5571},Value,20160711T051450Z,Group in Front,Group in Front,Group in Front,Groupe précédent,,,,,
+"
+    ",/sitecore/content/Translations/group_including,group_including,{596B4B80-E552-44F7-9A59-9D27811B91A2},Value,20160701T082230Z,including,inkl.,incluyendo,comprenant,,,,,
+"
+    ",/sitecore/content/Translations/Group_Intercale,Group_Intercale,{E9534B8F-EA28-46BE-809E-9BB24894E15B},Value,20160630T231001Z,2nd echelon,Zwischengelagerter Fahrer,Intercalado,Intercalé,,,,,
+"
+    ",/sitecore/content/Translations/Group_Intercale,Group_Intercale,{65324FC7-2C74-415B-BFB9-B22B8AAAA15C},Value,20160710T051608Z,2nd echelon,Zwischengelagerter Fahrer,Intercalado,Intercalé,,,,,
+"
+    ",/sitecore/content/Translations/Group_Intercales,Group_Intercales,{3247B999-FDDE-43EE-BF84-AB2EC0382F6A},Value,20160630T231226Z,2nd echelon,Zwischengelagerte Fahrer,Intercalados,Intercalés,,,,,
+"
+    ",/sitecore/content/Translations/Group_Intercales,Group_Intercales,{9C4CD51B-6D46-4119-ABAA-E4C33463F552},Value,20160710T051923Z,2nd echelon,Zwischengelagerte Fahrer,Intercalados,Intercalés,,,,,
+"
+    ",/sitecore/content/Translations/Group_Leader_group,Group_Leader_group,{9C285B6C-49FD-4D89-B71D-AF1B398300D4},Value,20160623T044441Z,Leader group,Gruppe ums Gelbe Trikot,Grupo del maillot amarillo,Groupe Maillot Jaune,,,,,
+"
+    ",/sitecore/content/Translations/Group_Leader_Group,Group_Leader_Group,{A09D1DEF-B9BC-4CE6-AED3-C0062093D921},Value,20160708T142643Z,Leader group,Gruppe ums Gelbe Trikot,Grupo del maillot amarillo,Groupe Maillot Jaune,,,,,
+"
+    ",/sitecore/content/Translations/group_modal_popup_gap_text,group_modal_popup_gap_text,{829FA500-AF80-440B-A6AD-568FDD919FF0},Value,20170306T080424Z,Gap to front of race,,,Gap to front of race,,,,,
+"
+    ",/sitecore/content/Translations/group_modal_popup_next_group,group_modal_popup_next_group,{9FCBA183-C84E-4E1A-97DF-1DF8E58EA5A8},Value,20170306T080501Z,Gap to next group,,,Gap to next group,,,,,
+"
+    ",/sitecore/content/Translations/Group_Panel_PanelHeader,Group_Panel_PanelHeader,{3A36642F-A968-4F16-B1E3-7896C6AFD6C5},Value,20160627T053338Z,Current Groups,Aktuelle Rennsituation,Grupos,Groupes Actuels,,,,,
+"
+    ",/sitecore/content/Translations/Group_Peloton,Group_Peloton,{48F48D65-BC55-423F-8A91-0542264240FC},Value,20160623T044441Z,Peloton,Peloton,Pelotón,Peloton,,,,,
+"
+    ",/sitecore/content/Translations/Group_Peloton2,Group_Peloton2,{63E9E53C-9772-4C9C-A6AB-1011059F425F},Value,20170306T070408Z,Peloton Group 2,,,Peloton Groupe Deux,,,,,
+"
+    ",/sitecore/content/Translations/Group_Poursuivant,Group_Poursuivant,{CD448B1B-6662-47C7-9FEC-4B4980230790},Value,20160630T230810Z,Counter attack,Verfolger,Perseguidor,Poursuivant,,,,,
+"
+    ",/sitecore/content/Translations/Group_Poursuivants,Group_Poursuivants,{F8CCC6A6-69F7-47D8-AB8F-3B8025605F06},Value,20160630T035035Z,Counter attack,Verfolger,Perseguidores,Poursuivants,,,,,
+"
+    ",/sitecore/content/Translations/group_riders,group_riders,{6E16E88B-F441-4CCF-B616-2074C53EF2AC},Value,20160709T124503Z,rider(s),Fahrer,corredore(s),coureur(s),,,,,
+"
+    ",/sitecore/content/Translations/Group_Straggler,Group_Straggler,{E36AD796-9F66-4EEE-ABC3-66604215DAC8},Value,20160530T230701Z,Straggler,Nachzügler,Retrasado,Attardé,,,,,
+"
+    ",/sitecore/content/Translations/Group_Straggler_Group,Group_Straggler_Group,{2229F6EB-61DB-4776-92A9-9E6DB111D29F},Value,20160702T122841Z,Straggler,Nachzügler,Retrasado,Attardé,,,,,
+"
+    ",/sitecore/content/Translations/Group_Stragglers,Group_Stragglers,{CF9F7CAB-2D05-4D1D-8C8F-E7367A3D18B1},Value,20160530T230701Z,Stragglers,Nachzügler,Retrasados,Attardés,,,,,
+"
+    ",/sitecore/content/Translations/Group_Stragglers_Group,Group_Stragglers_Group,{0008CA47-D00A-465C-B58A-ED6419232CB4},Value,20160702T115204Z,Stragglers,Nachzügler,Retrasados,Attardés,,,,,
+"
+    ",/sitecore/content/Translations/Group_Tete_de_course,Group_Tete_de_course,{56993EBE-9B32-4D55-AA81-87EAE828F128},Value,20160702T121211Z,Front of the race,Rennspitze,Cabeza de carrera,Tête de course,,,,,
+"
+    ",/sitecore/content/Translations/Group_Tete_de_la_course,Group_Tete_de_la_course,{36C4F88C-9744-48F6-9C42-27565358AECC},Value,20160630T045736Z,Front of the race,Rennspitze,Cabeza de carrera,Tête de course,,,,,
+"
+    ",/sitecore/content/Translations/Group_Tete_de_la_course,Group_Tete_de_la_course,{40607037-7EEE-41CD-9DE6-1F786C5C3343},Value,20160710T052047Z,Front of the race,Rennspitze,Cabeza de carrera,Tête de course,,,,,
+"
+    ",/sitecore/content/Translations/Group_ToFinish,Group_ToFinish,{5280034E-3A0A-493E-A9C7-5675C3495887},Value,20160701T082421Z,to finish,zum Ziel,de la meta,de l'arrivée,,,,,
+"
+    ",/sitecore/content/Translations/Group_Tute_de_course,Group_Tute_de_course,{8848FD8A-D64E-4D51-B02E-9A37A59BD651},Value,20160714T110158Z,Front of the race,Rennspitze,Cabeza de carrera,Tête de course,,,,,
+"
+    ",/sitecore/content/Translations/GroupCard_TagAll,GroupCard_TagAll,{9E341A42-F2EB-40F8-9C81-DFCE1E67C4B5},Value,20160701T082520Z,TAG ALL,ALLE AUSWÄHLEN,SELECCIONAR TODO,TOUT SELECTIONNER,,,,,
+"
+    ",/sitecore/content/Translations/Header_Stage,Header_Stage,{FBB7B567-24DC-4B78-BBE1-9A7E2A8137ED},Value,20160623T044442Z,Stage,Etappe,Etapa,Etape,,,,,
+"
+    ",/sitecore/content/Translations/Headwind,Headwind,{31992B9E-E9E3-4038-80A8-DDFBDD9D1D35},Value,20170220T091928Z,Headwind,,,Vent de face,,,,,
+"
+    ",/sitecore/content/Translations/Incline,Incline,{A6AC9BFF-34FB-4616-A159-6E24061D8625},Value,20170223T051703Z,Incline,,,Incline,,,,,
+"
+    ",/sitecore/content/Translations/Info_Data_Analytics_Powered_By,Info_Data_Analytics_Powered_By,{429CF476-3A14-4432-AD6F-5D5113C7067C},Value,20160701T082615Z,Data analytics powered by,Datenanalyse powered by,Análisis de datos facilitado por,Analyse de données alimentée par,,,,,
+"
+    ",/sitecore/content/Translations/Italy,Italy,{A106A176-1A98-40FA-9059-4A0F08724E42},Value,20160713T022504Z,Italy,Italien,Italia,Italie,,,,,
+"
+    ",/sitecore/content/Translations/Japan,Japan,{C2AC4EE9-71F4-4D94-AFEB-EE416DF5021D},Value,20160713T022544Z,Japan,Japan,Japón,Japon,,,,,
+"
+    ",/sitecore/content/Translations/Jersey_Holder_Text,Jersey_Holder_Text,{CEC469A8-327A-4E6F-810B-8DD7C417A909},Value,20160826T041411Z,Jersey Wearers,Trikotträger,Portadores de maillots,Porteurs de maillots,,,,,
+"
+    ",/sitecore/content/Translations/jersey_worn_by,jersey_worn_by,{311F8E36-D908-406E-82C6-9EE67CBD76B0},Value,20160816T051642Z,worn by,,usado por,porté par,,,,,
+"
+    ",/sitecore/content/Translations/Kazakhstan,Kazakhstan,{755308BF-7726-4B9C-943E-0FE23ECF3E67},Value,20160713T022922Z,Kazakhstan,Kasachstan,Kazajstán,Kazakhstan,,,,,
+"
+    ",/sitecore/content/Translations/KmGap,KmGap,{8911E1A6-51AA-489E-838C-813D5CA78732},Value,20170223T052559Z,km Gap,,,km gap,,,,,
+"
+    ",/sitecore/content/Translations/KmToFinish,KmToFinish,{0E84D7CC-36E5-48CB-8B7E-3F8265301A00},Value,20170221T034716Z,kms to finish,,,kms de l'Arrivée,,,,,
+"
+    ",/sitecore/content/Translations/Leaderboard_AverageSpeed,Leaderboard_AverageSpeed,{056501B7-B841-4D4B-99B9-FF978B189D5C},Value,20160623T044442Z,Average speed,Durchschnittsgeschwindigkeit,Velocidad media,Vitesse moyenne,,,,,
+"
+    ",/sitecore/content/Translations/Leaderboard_CurrentGradient,Leaderboard_CurrentGradient,{BAB3FCBF-9960-4F97-8B81-CBB7170EA8DF},Value,20160701T082642Z,Current Gradient,Momentane Neigung,Desnivel,Pente,,,,,
+"
+    ",/sitecore/content/Translations/Leaderboard_CurrentSpeed,Leaderboard_CurrentSpeed,{F4E990BE-5682-4C38-A477-11980654D69A},Value,20160623T044442Z,Current speed,Aktuelle Geschwindigkeit,Velocidad actual,Vitesse actuelle,,,,,
+"
+    ",/sitecore/content/Translations/Leaderboard_DistanceToFinish,Leaderboard_DistanceToFinish,{425AE08B-5221-4737-BEC5-A55E00010EE1},Value,20160623T044442Z,to go,Noch zu fahren,para la meta,restant à parcourir,,,,,
+"
+    ",/sitecore/content/Translations/Leaderboard_MaxSpeed,Leaderboard_MaxSpeed,{163DC780-08A9-4044-AAA3-D17AB8165D1A},Value,20160623T044442Z,Max speed,Höchstgeschwindigkeit,Velocidad máxima,Vitesse maximale,,,,,
+"
+    ",/sitecore/content/Translations/Leaderboard_TimeSinceStart,Leaderboard_TimeSinceStart,{B9B1A6C2-84B7-4576-B6B6-38294CAACBD5},Value,20160623T044442Z,Riding for,Verstrichene Zeit,Tiempo transcurrido,Temps écoulé,,,,,
+"
+    ",/sitecore/content/Translations/Leaderboard_Weather,Leaderboard_Weather,{6C25A3B0-47A3-4FC6-9E9E-EC8B7F9225C6},Value,20160715T024647Z,Weather,Weather,Weather,Température,,,,,
+"
+    ",/sitecore/content/Translations/Leaderboard_Wind,Leaderboard_Wind,{D25CE6DA-1B01-4FE4-93B5-D8190227DDF8},Value,20160715T024832Z,Wind,Wind,Wind,Vent,,,,,
+"
+    ",/sitecore/content/Translations/Left_Cross_Headwind,Left_Cross_Headwind,{FD03B259-4D55-4094-A141-8C909EAB3F01},Value,20170227T032702Z,Cross headwind from left,,,Cross headwind from left,,,,,
+"
+    ",/sitecore/content/Translations/Left_Cross_Tailwind,Left_Cross_Tailwind,{D9D7DF24-7D1B-4DA8-9922-D3FBDB8041FF},Value,20170227T032759Z,Cross tailwind from left,,,Cross tailwind from left,,,,,
+"
+    ",/sitecore/content/Translations/Left_Crosswind,Left_Crosswind,{06549887-97C1-405B-9495-865A528D2953},Value,20170227T032903Z,Crosswind from left,,,Vent de travers venant de gauche,,,,,
+"
+    ",/sitecore/content/Translations/Less,Less,{69CC71F1-F535-4625-97A1-E881EF47604B},Value,20160708T072341Z,Less,Weniger anzeigen,Less,Moins,,,,,
+"
+    ",/sitecore/content/Translations/Link_RiderProfile,Link_RiderProfile,{30DFDA85-73CB-45CF-AD37-290AAA95F680},Value,20160701T082912Z,http://www.letour.fr/le-tour/2016/us/riders/,http://www.letour.fr/le-tour/2016/de/riders/,http://www.letour.fr/le-tour/2015/es/coureurs/,http://www.letour.fr/le-tour/2016/fr/coureurs/,,,,,
+"
+    ",/sitecore/content/Translations/Lithuania,Lithuania,{33FB64BC-0A0B-4ADB-A477-C548E61DA9FE},Value,20160713T023110Z,Lithuania,Litauen,Lituania,Lituanie,,,,,
+"
+    ",/sitecore/content/Translations/Loading_Text,Loading_Text,{B2B06543-2828-4C63-A356-FDA22D81E7F9},Value,20170213T052537Z,Loading,,,,,,,,
+"
+    ",/sitecore/content/Translations/local_April,local_April,{3038D6A2-B8FD-45DA-99EB-550E30BA89F2},Value,20160701T103107Z,April,April,Abril,Avril,,,,,
+"
+    ",/sitecore/content/Translations/local_August,local_August,{FB201722-06D0-4BCD-B86B-8916280072A7},Value,20160701T103115Z,August,August,Agosto,Aout,,,,,
+"
+    ",/sitecore/content/Translations/local_Dec,local_Dec,{7EBFC2CB-7302-4530-A074-6C886B35D5C8},Value,20160701T103210Z,December,Dezember,Diciembre,Décembre,,,,,
+"
+    ",/sitecore/content/Translations/local_Feb,local_Feb,{837838DB-0333-40B8-BECE-F36EE539F9AA},Value,20160701T103216Z,February,Februar,Febrero,Février,,,,,
+"
+    ",/sitecore/content/Translations/local_Jan,local_Jan,{54B817AF-7C1B-4B31-B2CF-3EE06FB037C3},Value,20160701T103250Z,January,Januar,Enero,Janvier,,,,,
+"
+    ",/sitecore/content/Translations/local_July,local_July,{154B4A04-03E7-460E-8F42-B8634FCAA452},Value,20160701T103259Z,July,Juli,Julio,Juillet,,,,,
+"
+    ",/sitecore/content/Translations/local_June,local_June,{B1C8D6A0-79E8-4609-B33C-725EA5E36D6C},Value,20160701T103324Z,June,Juni,Junio,Juin,,,,,
+"
+    ",/sitecore/content/Translations/local_March,local_March,{C4F8D014-CD43-4463-BFF6-55F684BB3131},Value,20160701T103332Z,March,März,Marzo,Mars,,,,,
+"
+    ",/sitecore/content/Translations/local_May,local_May,{FEAC14B8-7196-44CA-9609-059430A2A29C},Value,20160701T103354Z,May,Mai,Mayo,Mai,,,,,
+"
+    ",/sitecore/content/Translations/local_Nov,local_Nov,{36C27E74-73A1-415C-8740-F03D20663347},Value,20160701T103401Z,November,November,Noviembre,Novembre,,,,,
+"
+    ",/sitecore/content/Translations/local_Oct,local_Oct,{311E224E-A718-4DD3-A38B-18D8A8976361},Value,20160701T103423Z,October,Oktober,Octubre,Octobre,,,,,
+"
+    ",/sitecore/content/Translations/local_Sept,local_Sept,{8982C5AE-0AC9-4C82-A19A-289B8CAE4D7E},Value,20160701T103430Z,September,September,Septiembre,Septembre,,,,,
+"
+    ",/sitecore/content/Translations/Luxembourg,Luxembourg,{5D57A57B-FBAB-43B7-8071-E0A1FE19CE5E},Value,20160713T023310Z,Luxembourg,Luxemburg,Luxemburgo,Luxembourg,,,,,
+"
+    ",/sitecore/content/Translations/Map_Analytics_Text,Map_Analytics_Text,{134D6F08-D844-466D-89DF-D7E6568CB83B},Value,20160713T022616Z,Data analytics powered by Dimension Data,Datenanalyse von Dimension Data,Data analytics powered by Dimension Data,Analyse de données fournie par Dimension Data,,,,,
+"
+    ",/sitecore/content/Translations/Map_Stage,Map_Stage,{49DEB903-C3B2-4E93-AA50-776EAC85CB0F},Value,20160701T080828Z,Stage,Etappe,Etapa,Etape,,,,,
+"
+    ",/sitecore/content/Translations/Map_Winner,Map_Winner,{FBF3F46D-F050-4CE8-AC07-95A006F91EE5},Value,20160702T074200Z,Winner,Sieger,Vencedor,Gagnant,,,,,
+"
+    ",/sitecore/content/Translations/Menu_DataZone,Menu_DataZone,{F563D7FC-2D44-4446-B6E9-A1FDF662C576},Value,20160623T044443Z,Data zone,Datazone,Data Zone,Data zone,,,,,
+"
+    ",/sitecore/content/Translations/Menu_Map,Menu_Map,{83C9E334-930C-4FDB-9D9A-0AECC0D75CC1},Value,20160623T044443Z,Map,Landkarte,Mapa,Carte,,,,,
+"
+    ",/sitecore/content/Translations/Menu_Twitter,Menu_Twitter,{2F064933-0552-4D82-99B9-C30ECBBF0CC1},Value,20160623T044444Z,Twitter,Twitter,Twitter,Twitter,,,,,
+"
+    ",/sitecore/content/Translations/More,More,{9352C490-8AEA-4491-B79A-A2832B3E11BD},Value,20160708T072244Z,More,Mehr anzeigen,Mas,Plus,,,,,
+"
+    ",/sitecore/content/Translations/Nationalities_Text,Nationalities_Text,{1561C92B-D371-4B52-B8C2-261FF2578845},Value,20160702T101002Z,Nationalities,Nationalitäten,Nacionalidades,Nationalités,,,,,
+"
+    ",/sitecore/content/Translations/Netherlands,Netherlands,{CD3AEC39-7B6E-4930-B0A6-0716EBFB8B79},Value,20160713T023456Z,Netherlands,Niederlande,Países Bajos,Pays-Bas,,,,,
+"
+    ",/sitecore/content/Translations/New_Zealand,New_Zealand,{3926FF12-43B1-4EAC-8667-9110DF01624E},Value,20160713T024034Z,New Zealand,Neuseeland,Nueva Zelanda,nouvelle Zélande,,,,,
+"
+    ",/sitecore/content/Translations/No_Favourites_Selected,No_Favourites_Selected,{3C10AB8E-7E6B-456E-A9F2-46C0DDD1EFCE},Value,20160623T044444Z,No Favourites selected,Keine Favoriten ausgewählt,Ningún favorito seleccionado,Aucun favoris sélectionné,,,,,
+"
+    ",/sitecore/content/Translations/No_Results_Found,No_Results_Found,{AABC1123-FCE9-4989-9388-B9F99FBD97AF},Value,20160711T064344Z,No result found,No result found,Sin resultados,Pas de résultat trouvé,,,,,
+"
+    ",/sitecore/content/Translations/NoDataAvailable_Text,NoDataAvailable_Text,{E5FCF2DC-5566-4D7D-8D5C-CCE12015873F},Value,20160709T020944Z,No Data Available,Keine Daten verfügbar,No Data Available,Information non disponible,,,,,
+"
+    ",/sitecore/content/Translations/Norway,Norway,{565B9ED6-03C5-437A-9306-26CED1568EDD},Value,20160713T024302Z,Norway,Norwegen,Noruega,Norvège,,,,,
+"
+    ",/sitecore/content/Translations/OverallClassification,OverallClassification,{1FF31FB6-706A-4A4E-AF9B-91461600254E},Value,20170221T035102Z,Overall Classification,,,Classement Général,,,,,
+"
+    ",/sitecore/content/Translations/Page_Coming_Soon,Page_Coming_Soon,{BE0318FF-4C41-45D3-9978-43A27ED0A59A},Value,20160708T072644Z,Page coming soon,Seite erscheint in Kürze,,Bientôt disponible,,,,,
+"
+    ",/sitecore/content/Translations/Page_Title,Page_Title,{1A5BEF89-2B81-4EED-A7FC-F9B383CB483B},Value,20170307T053050Z,Paris Nice,Live-Tracking,Live Tracking,Paris Nice - Suivre la course en direct,,,,,
+"
+    ",/sitecore/content/Translations/Partly_Cloudy,Partly_Cloudy,{43C5E2AA-52E4-42FF-8FAD-C1A9BBD3AE14},Value,20170220T091121Z,Partly Cloudy,,,soleil + Nuage,,,,,
+"
+    ",/sitecore/content/Translations/Poland,Poland,{D1941369-6238-441E-96AF-52647032C6F3},Value,20160713T024506Z,Poland,Polen,Polonia,Pologne,,,,,
+"
+    ",/sitecore/content/Translations/Portugal,Portugal,{569D1ADA-D10D-48D3-9F03-CF11164449C3},Value,20160713T024535Z,Portugal,Portugal,Portugal,le Portugal,,,,,
+"
+    ",/sitecore/content/Translations/powered_by,powered_by,{27F85D0C-683A-4BD8-A466-9069E8E4C2BC},Value,20160712T033314Z,Powered by,Powered by,Powered by,Fourni par,,,,,
+"
+    ",/sitecore/content/Translations/Rain,Rain,{B56835CB-B7F6-4C75-A33A-30DD8438921E},Value,20170220T091152Z,Rain,,,Pluie fine,,,,,
+"
+    ",/sitecore/content/Translations/Really_Cloudy,Really_Cloudy,{B8E7E5BA-AE0E-4C18-8216-F532D6A481FD},Value,20170220T091024Z,Really Cloudy,,,Tres Nuageux,,,,,
+"
+    ",/sitecore/content/Translations/Result_List_Angle,Result_List_Angle,{4DAF3338-C0E5-4B4B-8346-455F915C77BA},Value,20160623T044444Z,Angle,Steigung,Ángulo,Angle,,,,,
+"
+    ",/sitecore/content/Translations/Result_List_Category,Result_List_Category,{90242665-60FE-42AB-8A71-6E710A0B66D0},Value,20160623T044444Z,Category,Kategorie,Categoría,Catégorie,,,,,
+"
+    ",/sitecore/content/Translations/Result_List_Lenght_Of_Stage,Result_List_Lenght_Of_Stage,{84433A28-D78E-4C27-AC95-B4CF36BED248},Value,20160623T044444Z,Length of stage,Länge des Anstiegs,Longitud de la etapa,Longueur de l'étape,,,,,
+"
+    ",/sitecore/content/Translations/Result_List_Meters_Above_Sea_Level,Result_List_Meters_Above_Sea_Level,{6C51193C-CD6F-4627-884F-6DCB8BEC72C1},Value,20160623T044444Z,Metres above sea level,Meter über dem Meeresspiegel,Metros sobre el nivel del mar,Mètres au dessus du niveau de la mer,,,,,
+"
+    ",/sitecore/content/Translations/Result_List_Results,Result_List_Results,{2FEC8E70-FCAA-4A4C-B794-07D67A9D71A0},Value,20160623T044445Z,Results,Resultate,Resultados,Résultats,,,,,
+"
+    ",/sitecore/content/Translations/Rider_BestPerformance_Career,Rider_BestPerformance_Career,{D6898255-30BB-4180-90BB-BD7D1AED6983},Value,20160701T084116Z,Best performances in career,Karriere-Highlights,Mejor resultado en su carrera,Meilleures performances au cours de la carrière,,,,,
+"
+    ",/sitecore/content/Translations/Rider_BestPerformance_Tour,Rider_BestPerformance_Tour,{DFE63CCF-83AC-4B19-BB69-CF786467D292},Value,20160706T140554Z,Best performance on the Tour,Teilnahmen bei der Tour,Mejor resultado en el Tour,Meilleur résultat sur le Tour,,,,,
+"
+    ",/sitecore/content/Translations/Rider_CurrentRanking_Tour,Rider_CurrentRanking_Tour,{41A8298E-0E9C-4E2F-A939-6B666BCD5902},Value,20160701T084313Z,Current ranking on the Tour,Aktuelle Platzierung,Clasificación actual en el Tour,Classement actuel sur le Tour,,,,,
+"
+    ",/sitecore/content/Translations/Rider_WithdrawlReason,Rider_WithdrawlReason,{745DBB25-32D0-46B1-BE7C-A6CB0056FE9C},Value,20160710T130932Z,Withdrawal Reason,Grund für Aufgabe,Causa del abandono,Raisons pour abandon,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_AboveSeaLevel,RiderCard_AboveSeaLevel,{26EB9162-2FFD-49D3-85F6-3CFF714E57D2},Value,20160701T084727Z,Above sea level,Meter über dem Meeresspiegel,Altitud,Altitude au dessus du niveau de la mer,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_AddFav,RiderCard_AddFav,{0E28F3B7-B2BE-494E-A64A-56C7655BA6A1},Value,20160703T133325Z,Add to favourites,Zu Favoriten hinzufügen,Agregar a los favoritos,Ajouter aux favoris,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Angle,RiderCard_Angle,{2018C8E7-AD40-4CEB-9F11-D3BB1F725305},Value,20160709T073913Z,Gradient,Steigung,Ángulo,Angle,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Avg_Speed,RiderCard_Avg_Speed,{FC396CC6-4147-4BBB-BF54-43EE0B9D51C9},Value,20160623T044445Z,Avg Speed,Durchschnittsgeschwindigkeit,Velocidad media,Vitesse moyenne,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Behind_Front_Of_Race,RiderCard_Behind_Front_Of_Race,{B443C689-D640-481C-86D4-6B16191BBB7D},Value,20160623T044445Z,Behind front of race,Hinter der Rennspitze,Distancia con la cabeza de carrera,Ecart avec la tête de course,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Behind_Yellow_On_Stage,RiderCard_Behind_Yellow_On_Stage,{AA3917F3-7EF0-4D16-8E8B-730186EBA296},Value,20160623T044445Z,Behind yellow on stage,Abstand zu Gelb,Distancia con el maillot amarillo,Ecart avec le Maillot Jaune,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Best_Performances_in_Career,RiderCard_Best_Performances_in_Career,{85979C9D-E777-45AA-BBAA-06373D2BCE74},Value,20160701T085132Z,Best Performances in Career,Karriere-Highlights,Mejores resultados en su carrera,Meilleures performances au cours de la carrière,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Best_Performances_on_Tour,RiderCard_Best_Performances_on_Tour,{7799BF37-2978-49F2-A41D-D60F4B7794D4},Value,20160701T085139Z,Best Performances on Tour,Tour-Highlights,Mejores resultados en el Tour,Meilleures performances sur le Tour,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Category,RiderCard_Category,{EB9BA7A4-BF33-4DCC-AB22-69401837CFE9},Value,20160701T085253Z,Category,Kategorie,Categoría,Categorie,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Current_Ranking_on_Tour,RiderCard_Current_Ranking_on_Tour,{365638E3-6A5A-49D2-BD8A-CD58F8828A50},Value,20160701T085024Z,GC Ranking,Aktuelle Platzierung,Clasificación actual en el Tour,Classement actuel sur le Tour,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Current_Speed,RiderCard_Current_Speed,{17F30EF5-DEB4-4A4D-BC1D-2174FE8E746A},Value,20160629T063757Z,Current Speed,Momentane Geschwindigkeit,Velocidad actual,Vitesse actuelle,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_CurrentGapToLead,RiderCard_CurrentGapToLead,{1AADD02A-8F1A-4E9A-9D92-8BA9F67B18C9},Value,20160711T072711Z,Current Gap to Lead,Current Gap to Lead,Current Gap to Lead,Ecart avec le coureur de tête,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_General_Classification,RiderCard_General_Classification,{FD7295F9-27C0-4333-B342-B8606434BAC8},Value,20160623T044445Z,General Classification,Gesamtklassement,Clasificación general,Classement Général,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_General_Classification_Acronym,RiderCard_General_Classification_Acronym,{CA7B7E9E-5A42-4C3B-A8D4-65EC0DAE4C55},Value,20160623T044445Z,GC,GK,CG,CG,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Header,RiderCard_Header,{9ECDD30E-41A3-41B7-9579-635C60EC1306},Value,20160629T063730Z,Rider Profile,Fahrerprofil,Perfil del corredor,Profil du coureur,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_LengthStage,RiderCard_LengthStage,{15ACE21D-C055-464C-9A67-A847BEECA61F},Value,20160705T073310Z,Length of the climb,Länge des Anstiegs,Distancia de la etapa,Longueur de la montée,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Max_Speed,RiderCard_Max_Speed,{178B276D-48FC-4E29-A2BE-059EF6C872D4},Value,20160623T044445Z,Max Speed,Höchstgeschwindigkeit,Velocidad máxima,Vitesse maximale,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Mountain_Classification,RiderCard_Mountain_Classification,{59B826DC-23F0-4295-A61C-3C5965321074},Value,20160623T044445Z,Mountain Classification,Bergklassement,Clasificación de la montaña,Classement meilleur grimpeur,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_No_Live_Data_Message,RiderCard_No_Live_Data_Message,{00BF875D-DEBC-4B12-A7AB-42824C615D00},Value,20160623T044445Z,We are currently not receiving live data for this rider.,Wir erhalten derzeit keine Live-Daten zu diesem Fahrer,"""""En estos momentos"," no estamos recibiendo datos sobre este corredor.""""",Nous ne recevons pas de donnée pour ce coureur actuellement.,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_OverallClassification,RiderCard_OverallClassification,{A61D99F5-026C-4241-BB28-9EF0E33D13C0},Value,20170228T002734Z,Overall classification,,,Overall classification,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_OverallClassification,RiderCard_OverallClassification,{F5C7E3D4-0928-405C-A9CF-A27B5E0A4D3C},Value,20170228T001455Z,General Classification Time,,,,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_RaceTime,RiderCard_RaceTime,{E4567789-423E-4E36-931D-42DB48372ECA},Value,20160711T072334Z,Race Time,Race Time,Race Time,Temps de course,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_RemoveFav,RiderCard_RemoveFav,{0AF1E5A5-0F14-49EF-87B4-172CB58DF8DA},Value,20160703T133311Z,Remove from favourites,Von Favoriten entfernen,Quitar de los favoritos,Supprimer les favoris,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Results,RiderCard_Results,{DD8D2DE7-B55D-4600-92E9-8D1F81F2E5A1},Value,20160704T090229Z,Results,Resultate,Resultados,Résultats,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Sprint_Classification,RiderCard_Sprint_Classification,{D92CCE3B-5269-4F0A-8758-0D633DAC203E},Value,20160623T044445Z,Sprint Classification,Sprintklassement,Clasificación al esprint,Classement au Sprint,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_View_Full_Profile,RiderCard_View_Full_Profile,{14BF25E2-4A1C-4AE7-B5E1-5A4A4622D956},Value,20160623T044445Z,View full profile,Zum Fahrerprofil,Perfil completo,Profil complet,,,,,
+"
+    ",/sitecore/content/Translations/RiderCard_Young_Riders,RiderCard_Young_Riders,{7331ACF4-C1C1-407F-88F0-EA7D0FFF814B},Value,20160623T044445Z,Young Riders,Beste Jungprofis,Clasificación jóvenes,Classement jeunes coureurs,,,,,
+"
+    ",/sitecore/content/Translations/RiderFilter_AllRiderCategory_Text,RiderFilter_AllRiderCategory_Text,{78B26DB5-2077-433B-B701-830BEB8A5C5A},Value,20160628T031717Z,All Riders,Alle Fahrer,Todos los corredores,Tous les coureurs,,,,,
+"
+    ",/sitecore/content/Translations/RiderFilter_FavouriteTab_Text,RiderFilter_FavouriteTab_Text,{9E6FDA03-4F08-48E2-9A1C-625A4D65E6CC},Value,20160628T031537Z,Favourites,Favoriten,Favoritos,Favoris,,,,,
+"
+    ",/sitecore/content/Translations/RiderFilter_NationalityCategory_Text,RiderFilter_NationalityCategory_Text,{C96B86E7-7E36-4ADD-9034-7723EF167985},Value,20160628T031745Z,Nationality,Nationalität,Nacionalidad,Nationalité,,,,,
+"
+    ",/sitecore/content/Translations/RiderFilter_SearchBox_PlaceHolder,RiderFilter_SearchBox_PlaceHolder,{E06A61AD-25A8-4FB6-90DF-74E9A30F2680},Value,20160701T091938Z,Rider Name or Bib number,Fahrername/ Startnummer eingeben,Nombre o número del corredor,Nom ou le numero du coureur,,,,,
+"
+    ",/sitecore/content/Translations/RiderFilter_SearchTab_Text,RiderFilter_SearchTab_Text,{CE647A01-2240-4FF2-9E96-6A5763141BE3},Value,20160628T031201Z,Search,Suche,Buscar,Chercher,,,,,
+"
+    ",/sitecore/content/Translations/RiderFilter_TeamsCategory_Text,RiderFilter_TeamsCategory_Text,{BAD7558C-30E9-4A14-8643-35B6C5D1FD7A},Value,20160628T031853Z,Teams,Teams,Equipos,Équipes,,,,,
+"
+    ",/sitecore/content/Translations/RiderFilter_TimeTrialTab_Text,RiderFilter_TimeTrialTab_Text,{08B6D089-6C60-464B-915B-DE4AA44A2244},Value,20160713T111825Z,Time Trial,,,CLM,,,,,
+"
+    ",/sitecore/content/Translations/RiderFilter_Top5Category_Text,RiderFilter_Top5Category_Text,{7965C69A-7698-49B0-9845-143D0896A049},Value,20160628T031931Z,Top 5,Top 5,Top 5,Top cinq,,,,,
+"
+    ",/sitecore/content/Translations/Riders,Riders,{C887684E-32B6-47F6-B42D-0EEA98512EB7},Value,20170223T052458Z,Riders,,,Riders,,,,,
+"
+    ",/sitecore/content/Translations/RidersGap,RidersGap,{4EB74ED1-D51F-4E44-88EF-2D3D82270FD8},Value,20170224T015429Z,Rider(s) - Gap to,,,Rider(s) - Gap to,,,,,
+"
+    ",/sitecore/content/Translations/Right_Cross_Headwind,Right_Cross_Headwind,{910BCC6B-19D0-41D4-99F5-677F03307886},Value,20170227T032720Z,Cross headwind from right,,,Cross Headwind from right,,,,,
+"
+    ",/sitecore/content/Translations/Right_Cross_Tailwind,Right_Cross_Tailwind,{C1214BED-FFCC-4114-B1CC-D6E190E938BE},Value,20170227T032812Z,Cross tailwind from right,,,Cross tailwind from right,,,,,
+"
+    ",/sitecore/content/Translations/Right_Crosswind,Right_Crosswind,{344B4B3A-0112-4D73-911B-9BA6DBA3A0CE},Value,20170227T032932Z,Crosswind from right,,,Vent de travers venant de droite,,,,,
+"
+    ",/sitecore/content/Translations/Russian_Federation,Russian_Federation,{224D38C3-3581-4DC0-B805-085F81550886},Value,20160713T024854Z,Russian Federation,Russland,Federación Rusa,Fédération Russe,,,,,
+"
+    ",/sitecore/content/Translations/schedule_btn_average,schedule_btn_average,{1F6690C2-CF2B-4D80-95A7-850D7E09A326},Value,20160701T092253Z,AVERAGE,Mittel,Velocidad media,VITESSE MOYENNE,,,,,
+"
+    ",/sitecore/content/Translations/schedule_btn_faster,schedule_btn_faster,{320C1073-C4F0-433E-8C62-7FE8DA52EB18},Value,20160701T092328Z,FASTER,Schneller,Más rápido,PLUS VITE,,,,,
+"
+    ",/sitecore/content/Translations/schedule_btn_slower,schedule_btn_slower,{E5D40AE7-2361-4168-A694-B5E3B1E182B3},Value,20160701T092339Z,SLOWER,Langsamer,Más lento,PLUS LENTEMENT,,,,,
+"
+    ",/sitecore/content/Translations/schedule_ETA,schedule_ETA,{B0F09B7A-04B1-48AE-BE5B-60BA9AB40EC1},Value,20160718T025741Z,ETA,ETA,ETA,Arrivée estimée,,,,,
+"
+    ",/sitecore/content/Translations/schedule_EtaAtAverage,schedule_EtaAtAverage,{F3B0EE2C-1360-4DB2-A741-6FFD58D781A7},Value,20160701T092404Z,ETA at Average,Voraussichtliche Ankunftszeit (mittel),Llegada prevista - Progresión media,Arrivée prévue - progression moyenne,,,,,
+"
+    ",/sitecore/content/Translations/schedule_EtaAtFaster,schedule_EtaAtFaster,{30D41A87-8163-4F0C-B9AF-BB1E2A7ADC52},Value,20160701T092750Z,ETA at Faster,Voraussichtliche Ankunftszeit (schnell),Llegada prevista - Progresión rápida,Arrivée prévue - progression rapide,,,,,
+"
+    ",/sitecore/content/Translations/schedule_EtaAtSlower,schedule_EtaAtSlower,{1A98515B-E70F-4ED5-8EF4-11BBA15BC675},Value,20160629T065217Z,ETA at Slower en,Voraussichtliche Ankunftszeit (langsam),Llegada prevista - Profresión lenta,Arrivée prévue - progression lente,,,,,
+"
+    ",/sitecore/content/Translations/schedule_iternary,schedule_iternary,{276D0273-12B7-4017-B407-F81D0D349687},Value,20160701T092920Z,Itinerary,Routenplan,Itinerario,Itinéraire,,,,,
+"
+    ",/sitecore/content/Translations/schedule_StillToTravel,schedule_StillToTravel,{0E7593DE-F117-4713-8125-EC7AC4FC53DF},Value,20160701T093031Z,Still to travel,Noch zu fahren,Por recorrer,A parcourir,,,,,
+"
+    ",/sitecore/content/Translations/schedule_travelled,schedule_travelled,{EC9E9DF6-88DC-41EB-88A6-148B38E1A05B},Value,20160701T093407Z,Travelled,Gefahren,Recorrido,Parcouru,,,,,
+"
+    ",/sitecore/content/Translations/See_Full_Rankings,See_Full_Rankings,{DE2E9D62-4E07-4610-A7F2-FDC1B54B9F50},Value,20160720T081456Z,See full rankings,Zur ausführlichen Rangliste,Ver las clasificaciones completas,Voir les classements complets,,,,,
+"
+    ",/sitecore/content/Translations/Slovakia,Slovakia,{EC4CE402-4D82-4757-AB66-4AD189D22559},Value,20160713T024927Z,Slovakia,Slowakei,Eslovaquia,Slovaquie,,,,,
+"
+    ",/sitecore/content/Translations/Slovenia,Slovenia,{E8C28424-9F1E-4A0A-93B4-1C350238842C},Value,20160713T025144Z,Slovenia,Slowenien,Eslovenia,Slovénie,,,,,
+"
+    ",/sitecore/content/Translations/Social_shared_body,Social_shared_body,{DC0725E0-0869-4466-AB56-D073CCB22553},Value,20160819T011044Z,La Vuelta 2016: Content from stage {stageno} is shared with you,Tour de France 2016: Neuigkeiten von Etappe {stageno} wurden mit Ihnen geteilt,La Vuelta 2016: el contenido de la etapa {stageno} compartido contigo,La Vuelta 2016 : Le contenu de l'étape {stageno} est partagé avec vous,,,,,
+"
+    ",/sitecore/content/Translations/Social_shared_body_classifications,Social_shared_body_classifications,{7782DD34-2808-46E0-A047-FEC21E481728},Value,20170221T225113Z,Overall {classification_panel} - {rider_name} Rider no. {rider_no} Team {rider_team} {rider_data}. See the full Classifications at {url},,,{classification_panel} général - {rider_name} (n° {rider_no}) de l'équipe {rider_team} {rider_data}. Tous les classements sont disponibles sur {url},,,,,
+"
+    ",/sitecore/content/Translations/Social_shared_body_classifications_stage,Social_shared_body_classifications_stage,{111AD357-FA55-49F9-AD9B-6A91778E3384},Value,20170224T033554Z,{classification_panel}  for stage {stage_no} - {rider_name} Rider no. {rider_no} Team {rider_team} {rider_data}. See the full Classifications at {url}.,,,{classification_panel} de l'étape {stage_no} - {rider_name} (n° {rider_no}) de l'équipe {rider_team} {rider_data}. Tous les classements sont disponibles sur {url},,,,,
+"
+    ",/sitecore/content/Translations/Social_shared_subject,Social_shared_subject,{209C380C-C956-41BC-9E40-A2119F284301},Value,20170301T062609Z,Paris Nice,Bleiben Sie auf dem Laufenden mit den neuesten Tour News,Sigue las últimas noticias de la Vuelta,Paris Nice,,,,,
+"
+    ",/sitecore/content/Translations/Social_shared_subject_classifications,Social_shared_subject_classifications,{3C77A6AE-C22A-4A9E-8EFD-214B907D7BD0},Value,20170222T002648Z,{classification_panel} after the Stage {stage_no},,,{classification_panel} à l'issue de l'étape {stage_no},,,,,
+"
+    ",/sitecore/content/Translations/Social_shared_subject_classifications_stage,Social_shared_subject_classifications_stage,{12CFA503-8C0F-4785-BD26-6E4163A9D51F},Value,20170224T031557Z,{classification_panel} for Stage {stage_no},,,{classification_panel} de l'étape {stage_no},,,,,
+"
+    ",/sitecore/content/Translations/Social_shared_twitter_overall_classifications,Social_shared_twitter_overall_classifications,{4F5E020C-785D-400A-B814-DE89F0362F18},Value,20170221T235607Z,Overall {classification_panel} - {rider_name} ({rider_team}) {rider_data}.,,,{classification_panel} général - {rider_name} ({rider_team}) {rider_data},,,,,
+"
+    ",/sitecore/content/Translations/Social_shared_twitter_stage_classifications,Social_shared_twitter_stage_classifications,{443D72FC-7B58-48FB-B40B-3F1318376777},Value,20170224T051748Z,{classification_panel} - {rider_name} ({rider_team}) {rider_data},,,{classification_panel} - {rider_name} ({rider_team}) {rider_data},,,,,
+"
+    ",/sitecore/content/Translations/South_Africa,South_Africa,{AE4138E0-F4EC-4973-A8A8-D9D8BA81D7B9},Value,20160713T025230Z,South Africa,Südafrika,Sudáfrica,Afrique du Sud,,,,,
+"
+    ",/sitecore/content/Translations/Spain,Spain,{1551A133-DD02-43FE-AC32-4D1F3921DF65},Value,20160713T025508Z,Spain,Spanien,España,l'Espagne,,,,,
+"
+    ",/sitecore/content/Translations/Splash_Screen_Body_Text,Splash_Screen_Body_Text,{0435DB49-7B19-420C-8391-93461E0CBF8D},Value,20160701T093425Z,"""""This is a Beta site", trialling some new technologies, so there might be a few things that look a bit strange, or times when the signal drops out. We'll be adding new features and improving the site all the way through the Tour de France," so keep checking back regularly.""""",,Esta página es una versión beta que usa nuevas tecnologías. Es posibile que algunas cosas no salgan bien en su pantalla. Se añadirán nuevas opciones durante el Tour. Do dudes en volver a descubrir dichas novedades.,"""""Il s'agit d'une version beta du site utilisant des nouvelles technologies de tracking. Il est donc possible que certaines choses paraissent étranges ou que le signal disparaisse parfois. Tout au long du Tour de France"," nous allons ajouter de nouvelles fonctionnalités et allons améliorer le site. N'hésitez pas à passer régulièrement."""""
+"
+    ",/sitecore/content/Translations/Splash_Screen_Line_1_Part_1,Splash_Screen_Line_1_Part_1,{82877B2F-ADBF-4F11-B9FF-34EDB88A6EB5},Value,20160623T044446Z,Welcome to a revolutionary new live tracking experience.,Willkommen beim revolutionären neuen Live-Tracking-Erlebnis,Bienvenido/a a una experiencia inédita de seguimiento en directo.,Bienvenue dans une experience inédite de suivi en direct.,,,,,
+"
+    ",/sitecore/content/Translations/Stage_Abbreviated,Stage_Abbreviated,{9693EC77-04A9-4C48-AE09-225CDEBF2956},Value,20160708T072445Z,S,E,E,E,,,,,
+"
+    ",/sitecore/content/Translations/Stage_Type_Flat,Stage_Type_Flat,{9E29FF80-6234-4442-8DD3-BB09E6AD33D7},Value,20160627T045852Z,Flat,Flach,Llano,Plat,,,,,
+"
+    ",/sitecore/content/Translations/Stage_Type_Hill,Stage_Type_Hill,{EC263C70-51A1-4CD6-8BA1-626DDBBA40F5},Value,20160627T045725Z,Hill,Hügel,Colina,Colline,,,,,
+"
+    ",/sitecore/content/Translations/Stage_Type_Mountain,Stage_Type_Mountain,{85FE36DC-AD67-42C6-85B0-7EF4FA6D6E8A},Value,20160627T045646Z,Mountain,Berg,Montaña,Montagne,,,,,
+"
+    ",/sitecore/content/Translations/Stage_Type_TimeTrial,Stage_Type_TimeTrial,{8CF18516-9D88-4E42-83C3-7E289CD4FC75},Value,20160627T045521Z,Time Trial,Zeitfahren,Contrareloj,Contre la montre,,,,,
+"
+    ",/sitecore/content/Translations/Stage_Type_To,Stage_Type_To,{A666A66D-F6B6-4C4F-A030-0EDD049B14F6},Value,20160627T045451Z,To,nach,en,à,,,,,
+"
+    ",/sitecore/content/Translations/Stage_Winners,Stage_Winners,{49C04467-A227-4D7A-9741-EBCCFF594E38},Value,20170223T002000Z,Stage Winners,,,,,,,,
+"
+    ",/sitecore/content/Translations/Stage_Winners_Heading,Stage_Winners_Heading,{7D9FC523-494C-42DD-89C5-613A30A6FF18},Value,20170304T105438Z,Stage Winners,,,Gagnants d'étape,,,,,
+"
+    ",/sitecore/content/Translations/StageProfile_LastUpdated,StageProfile_LastUpdated,{96499CB3-236C-4722-9EE2-BD116899CA93},Value,20160627T053051Z,Last Updated,Zuletzt aktualisiert,Última puesta al día,Dernière mise à jour,,,,,
+"
+    ",/sitecore/content/Translations/StageStart_back,StageStart_back,{A6FC9FAB-9396-46DA-ACBC-530C2680E0C9},Value,20160701T094028Z,Back,Zurück,Atrás,Retour,,,,,
+"
+    ",/sitecore/content/Translations/Start_Splash_Image_Url,Start_Splash_Image_Url,{D5DB3933-AD38-46D2-A608-B62094773F6C},Value,20160504T020953Z,\Images\splash-desktop-english.png,\Images\splash-desktop-german.png,,\Images\splash-desktop-french.png,,,,,
+"
+    ",/sitecore/content/Translations/Starters_SportingManager,Starters_SportingManager,{2770E00F-AAAD-48D6-8769-DE52AFB7393C},Value,20160701T093802Z,Sporting Managers,Sportdirektor,Director deportivo,Managers sportifs,,,,,
+"
+    ",/sitecore/content/Translations/Starts_In_Prompt,Starts_In_Prompt,{C161CAED-0320-451F-8CD2-5FB774C6440C},Value,20160623T044446Z,Starts in,Startet in,Comienza en,Commence dans,,,,,
+"
+    ",/sitecore/content/Translations/Storm,Storm,{765CB6D3-77B6-47E3-B13C-3683754481EB},Value,20170220T091254Z,Storm,,,Orage,,,,,
+"
+    ",/sitecore/content/Translations/Sunny,Sunny,{7531FB98-71D1-42A9-922B-DCFE44A5B141},Value,20170220T090408Z,Sunny,,,Grand soleil,,,,,
+"
+    ",/sitecore/content/Translations/Sunny_with_some_clouds,Sunny_with_some_clouds,{38142B1E-586C-4764-B647-DF9111066CBA},Value,20170220T090457Z,Sunny with some clouds,,,Soleil avec un peu de nuage,,,,,
+"
+    ",/sitecore/content/Translations/Switzerland,Switzerland,{BF5F04FA-F05D-4686-8E90-E402FEF83D4B},Value,20160713T025544Z,Switzerland,Schweiz,Suiza,Suisse,,,,,
+"
+    ",/sitecore/content/Translations/Tailwind,Tailwind,{CF2DFF77-7F93-44FF-992F-B7DE8B8AD10A},Value,20170220T091945Z,Tailwind,,,Vent de dos,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_Add_another_rider,Telemetry_Add_another_rider,{CD6F198A-77BB-48D9-B1DB-27C447F78F21},Value,20160714T072643Z,Add another rider,Add another rider,Add another rider,Ajouter un nouveau coureur,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_BibNumber,Telemetry_BibNumber,{F73CA7D4-9462-463A-A57F-C2C0B56E3EE1},Value,20160710T053011Z,Bib number,Bib number,Bib number,Numéro de dossard,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_ClearFilter,Telemetry_ClearFilter,{3F929DA0-193B-45ED-8CE6-71FF939364EA},Value,20160710T052335Z,Clear Filter,Clear Filter,Clear Filter,Réinitialiser le filtre,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_Country,Telemetry_Country,{8DA1673F-D58E-404D-993F-2AF9F791BFEF},Value,20160710T053200Z,Nationality,Nationality,Nationality,Nationalité,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_CurrentSpeed,Telemetry_CurrentSpeed,{FCC72783-2B6B-4CB2-99E9-263445E8B34F},Value,20160710T053441Z,Speed,Speed,Speed,Vitesse,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_DistTofinish,Telemetry_DistTofinish,{174559A3-6CD6-4ADD-8C5C-BB8EC6FF75B2},Value,20160710T053319Z,Distance to finish,Distance to finish,Distance to finish,Distance à parcourir,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_GapToLeader,Telemetry_GapToLeader,{CA18ACF5-6B5E-4DF8-A93F-07F858AE3958},Value,20160710T054009Z,Gap to front of the race,Gap to front of the race,Gap to front of the race,Ecart avec la tête de course,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_GapToLeader_Timetrial,Telemetry_GapToLeader_Timetrial,{1019E1FD-E1DF-4AD7-83CF-6A3157D5A332},Value,20160714T065112Z,Gap to leader,Gap to leader,Gap to leader,Ecart avec le premier coureur,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_Gradient,Telemetry_Gradient,{C737B68B-F52B-4625-AF7B-50B6DB463A6C},Value,20160710T053555Z,Gradient,Gradient,Gradient,Pente,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_Name,Telemetry_Name,{FCD8BF6C-AE12-4C8A-905F-B1E94EF380AE},Value,20160710T052915Z,Rider name,Rider name,Rider name,Nom du coureur,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_NoData,Telemetry_NoData,{87A48F60-13FA-4B8B-B0C8-65D2B794CA32},Value,20160712T124143Z,No data available for this rider,No data available for this rider,No data available for this rider,Pas d'information disponible pour ce coureur,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_NoPalmaresData,Telemetry_NoPalmaresData,{7C9AD76C-39B0-40F0-8E4E-AD944FAB0EF5},Value,20160710T052458Z,No data available for this rider,No data available for this rider,No data available for this rider,Pas d'information disponible pour ce coureur,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_Podium,Telemetry_Podium,{3EF92061-8A51-4B0E-B987-21716D3F5741},Value,20160712T050756Z,Podium,Podium,Podium,Podium,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_Podiums,Telemetry_Podiums,{F37B9755-0061-4683-A8F7-A7CDBBE629AF},Value,20160712T050700Z,Podiums,Podiums,Podiums,Podiums,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_Position,Telemetry_Position,{5120F1D5-0FD3-4AD1-B237-5921D027EE83},Value,20160714T072516Z,Position,Position,Position,Position,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_Statement,Telemetry_Statement,{E3EC2F2D-0EBC-4A03-9370-2C31AE232D4A},Value,20160710T052605Z,"""""Live telemetry data is subject to occasional errors and loss of signal"," so may not be available for all riders at all times""""","""""Live telemetry data is subject to occasional errors and loss of signal"," so may not be available for all riders at all times""""","""""Live telemetry data is subject to occasional errors and loss of signal"," so may not be available for all riders at all times""""",Les données de télémétrie en temps réel peuvent faire l'objet d'erreur ou de perte de signal et peuvent ne pas être tout le temps disponibles ni pour tous les coureurs,,
+"
+    ",/sitecore/content/Translations/Telemetry_Victories,Telemetry_Victories,{58A78065-7F2E-4D34-AF70-12A63F35388E},Value,20160712T033802Z,Victories,Erste Plätze,Victories,Victoires,,,,,
+"
+    ",/sitecore/content/Translations/Telemetry_Victory,Telemetry_Victory,{633D8289-1433-4DB6-81A5-5ADADD883AC7},Value,20160712T033617Z,Victory,Erster Platz,Victory,Victoire,,,,,
+"
+    ",/sitecore/content/Translations/Temp_TTLive_Text,Temp_TTLive_Text,{1121CE5A-2685-4D50-89C2-8C0B11156FD3},Value,20160715T122740Z,TT LIVE,TT LIVE,TT LIVE,CLM LIVE,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_At,TimeTrial_At,{28E4C28F-3D31-484A-AF25-CE643E902A7E},Value,20170303T004629Z,at,null,null,à,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_BestFinTime,TimeTrial_BestFinTime,{6103C389-2F74-4ECA-B42B-F0AC2A2A5598},Value,20170303T020442Z,Best finishing time,,,Meilleur temps de finition,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_Checkpoint,TimeTrial_Checkpoint,{E990E71D-FC96-4256-AF64-B9FB1F12C024},Value,20170302T231803Z,Checkpoint No.,Zwischenzeit {cpid} bei {cpdistance} (nach {cpcount} von {total} Fahrern),Checkpoint {cpid} after {cpdistance} ({cpcount} of {total} Riders completed),Checkpoint,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_CheckpointHeading,TimeTrial_CheckpointHeading,{963BEF96-DE33-45ED-908E-C38261FFC28D},Value,20160715T024438Z,Currently {riderCount} riders racing,Currently {riderCount} riders racing,Currently {riderCount} riders racing,{riderCount} coureurs actuellement sur la route,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_Classification,TimeTrial_Classification,{1D2456F5-30D6-4C5C-9270-67836E4D8760},Value,20170302T234917Z,Classification,,,Classement,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_Error,TimeTrial_Error,{AB5EB049-8428-4B2A-82BD-BA68CCD86478},Value,20170308T031452Z,"""""Sorry"," something went wrong""""",null,null,"""""Désolé"," quelque chose s'est mal passé""""",,,
+"
+    ",/sitecore/content/Translations/TimeTrial_Finish,TimeTrial_Finish,{AEDD7A7E-32A4-4F2E-88CB-A9AD17D27F29},Value,20170302T231024Z,Finish,Ziel nach {count} Fahrern,Finish after {count} Rider,Terminer,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_FinishAfter,TimeTrial_FinishAfter,{D7499C26-B265-4412-B342-879B4E13A899},Value,20160701T094122Z,Finish after,Fahrer im Ziel,Termina en,Termine dans,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_In,TimeTrial_In,{60CE1583-27E6-4032-8CBA-AA48CEEE5B08},Value,20170303T004640Z,in,null,null,dans,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_LastRiderFinish,TimeTrial_LastRiderFinish,{25E6DCDD-453F-4D47-94B5-5C76A02FDCFF},Value,20170302T233846Z,Last Rider to Finish,Ziel nach {count} Fahrern,Finish after {count} Rider,Dernier coureur à terminer,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_LastRiderOffRamp,TimeTrial_LastRiderOffRamp,{F2676CAE-D329-41D2-8712-60CFF9FB7CBA},Value,20170302T235326Z,Last Riders off the Ramp,Ziel nach {count} Fahrern,Finish after {count} Rider,Derniers coureurs hors de la rampe,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_LastRiderPassed,TimeTrial_LastRiderPassed,{E0FAFBC1-6B27-4CC4-94CB-9071A5688125},Value,20170302T234032Z,Last Rider to Pass,Ziel nach {count} Fahrern,Finish after {count} Rider,Dernier coureur à passer,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_NotTTStage,TimeTrial_NotTTStage,{7C8A2405-6AA9-49B3-87DC-906E667E5C08},Value,20170303T005620Z,Not a Time Trial Stage,,,Pas de contre-la-montre,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_RiderFinished,TimeTrial_RiderFinished,{1F0FAC79-B71D-4924-8072-5C92A88AC730},Value,20170302T234246Z,Riders have Finished,Ziel nach {count} Fahrern,Finish after {count} Rider,Les coureurs ont terminé,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_RiderPassed,TimeTrial_RiderPassed,{0A797C36-AD39-4411-B024-EE72B9807546},Value,20170302T234535Z,Riders have gone past,Ziel nach {count} Fahrern,Finish after {count} Rider,Les coureurs sont passés,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_RiderStarted,TimeTrial_RiderStarted,{1215261B-9BAC-4AEB-A9DE-CAF2BE2D9D0C},Value,20170302T233639Z,Riders have started,Nächste Starter,Corredores por salir,Les coureurs ont commencé,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_RiderStillToStart,TimeTrial_RiderStillToStart,{18BB9782-4701-42A3-8C6C-9E4A7EF25B7B},Value,20160701T094200Z,Riders still to start,Nächste Starter,Corredores por salir,Coureurs prêts à partir,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_Start,TimeTrial_Start,{48850D86-FC9C-4681-85A3-F4ED7DF2C141},Value,20170302T232202Z,Start Ramp,Noch {count} Fahrer am Start,{count} Riders still to start,Début rampe,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_Start_Time,TimeTrial_Start_Time,{E30C17E2-4863-40F4-A860-59A3360C902B},Value,20170302T233146Z,Start Times,Noch {count} Fahrer am Start,{count} Riders still to start,Heures de départ,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_Tab_Finished,TimeTrial_Tab_Finished,{8D7BB8EC-0AD3-4872-8A31-257A795D2380},Value,20160713T112115Z,Finished,,,Arrivés,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_Tab_InProgress,TimeTrial_Tab_InProgress,{CD356209-3288-4CC8-9099-DD3DACD03353},Value,20160713T112208Z,On the track,,,Sur la route,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_Tab_NotStarted,TimeTrial_Tab_NotStarted,{D47C4752-FD8F-4522-9073-7B1CEF3C31DB},Value,20160713T112426Z,Start,,,A partir,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_View,TimeTrial_View,{A216C6AA-49B5-4EB2-B9B9-2CB3E1DDD630},Value,20170302T232845Z,View all,,,Vue tout,,,,,
+"
+    ",/sitecore/content/Translations/TimeTrial_YetToStart,TimeTrial_YetToStart,{004DA464-6FB9-4BF9-8427-A625B71CA36F},Value,20170303T020523Z,Riders yet to start,,,Les coureurs à venir,,,,,
+"
+    ",/sitecore/content/Translations/To,To,{4B143186-3945-442B-B2AF-4E974D442180},Value,20170221T030444Z,to,,,à,,,,,
+"
+    ",/sitecore/content/Translations/to_go,to_go,{A370DCA6-06AC-43EA-95B9-6E75A7EC3A36},Value,20160703T094158Z,to go,zum Ziel,por recorrer,à parcourir,,,,,
+"
+    ",/sitecore/content/Translations/Top5_Climbers,Top5_Climbers,{202EDB0C-0B98-4998-95F5-D36BD43F1B3B},Value,20160701T094455Z,Top 5 Climbers,Top 5 Bergfahrer,Top 5 de los escaladores,Top 5 des meilleurs grimpeurs,,,,,
+"
+    ",/sitecore/content/Translations/Top5_Gc,Top5_Gc,{51C9630A-AAA4-42BE-AECC-396436A76E1B},Value,20160710T131146Z,Top 5 GC,Top 5 Gesamtklassement,Top 5 de la general,Top 5 du classement général,,,,,
+"
+    ",/sitecore/content/Translations/Top5_Sprinters,Top5_Sprinters,{AA340039-7729-454E-A62A-C8962C05D536},Value,20160710T131210Z,Top 5 Sprinters,Top 5 Sprinter,Top 5 de los sprinters,Top 5 des meilleurs sprinters,,,,,
+"
+    ",/sitecore/content/Translations/Top5_Young,Top5_Young,{4178FC89-09B4-43E2-8310-CAA8A1555913},Value,20160703T033859Z,Top 5 Young Riders,Top 5 Jungprofis,Top 5 de los jóvenes,Top 5 des jeunes coureurs,,,,,
+"
+    ",/sitecore/content/Translations/travelling_at,travelling_at,{DD2C38CC-8D7E-4D4D-BBBA-B510ECBD0E07},Value,20170223T233443Z,travelling at,,,à une vitesse de,,,,,
+"
+    ",/sitecore/content/Translations/Ukraine,Ukraine,{CA15C171-5669-48DC-BFC5-8626D1CB1681},Value,20160713T025803Z,Ukraine,Ukraïne,Ucrania,Ukraine,,,,,
+"
+    ",/sitecore/content/Translations/United_Kingdom,United_Kingdom,{96605D14-BDAF-404F-B8DD-61DFC5132047},Value,20160713T025846Z,United Kingdom,Großbritannien,Reino Unido,Royaume-Uni,,,,,
+"
+    ",/sitecore/content/Translations/United_States,United_States,{2AE875D1-04FC-4F3C-A49E-51D6C17A7FB1},Value,20160713T030122Z,United States,USA,Estados Unidos,États Unis,,,,,
+"
+    ",/sitecore/content/Translations/WeatherAtFrontOfRace,WeatherAtFrontOfRace,{2C1F7745-7F36-4EDE-AB71-27F1DC86D3B5},Value,20170223T021455Z,Weather at the front of the race,,,Météo à Tête de course,,,,,
+"
+    ",/sitecore/content/Translations/Windspeed,Windspeed,{38A67469-A245-47DF-9644-3C3039CEDDFE},Value,20170220T091734Z,windspeed,,,vitesse du ven,,,,,
+"
+    ",/sitecore/content/Translations/Windspeed_is,Windspeed_is,{8EE188EC-953B-419E-A4DE-5C3A83B6B9A4},Value,20170220T100333Z,Windspeed is,,,vitesse du ven is,,,,,

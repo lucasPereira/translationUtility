@@ -1,0 +1,2111 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_all" key="ActivityFeed_all" itemid="{6AA96E43-D7F4-4214-A29D-5037BC705E89}" fieldid="Value" updated="20160517T051030Z">
+    <en>All</en>
+    <de-DE>Alles</de-DE>
+    <es-ES>Todo</es-ES>
+    <fr-FR>Tous</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_BackToTop" key="ActivityFeed_BackToTop" itemid="{55536A6E-2E71-4E17-8C3D-F55907E203DD}" fieldid="Value" updated="20160627T044838Z">
+    <en>Back To Top</en>
+    <de-DE>Zurück nach oben</de-DE>
+    <es-ES>Vuelve al inicio</es-ES>
+    <fr-FR>Retour au début</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_close" key="ActivityFeed_close" itemid="{0FE8AB13-AC5B-4BA4-960B-E259FFCEC5A9}" fieldid="Value" updated="20160623T044243Z">
+    <en>Close</en>
+    <de-DE>Schließen</de-DE>
+    <es-ES>Cerrar</es-ES>
+    <fr-FR>Fermer</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_highlights" key="ActivityFeed_highlights" itemid="{DFE95DCB-886D-4A36-BD34-8DEBD2FE4F6F}" fieldid="Value" updated="20160623T044335Z">
+    <en>Highlights</en>
+    <de-DE>Höhepunkte</de-DE>
+    <es-ES>Puntos destacados</es-ES>
+    <fr-FR>Points forts</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_loading" key="ActivityFeed_loading" itemid="{59030479-199A-4F2A-9321-E7CEAB35A0CA}" fieldid="Value" updated="20160517T052511Z">
+    <en>Loading</en>
+    <de-DE>Laden</de-DE>
+    <es-ES>Cargando</es-ES>
+    <fr-FR>Chargement</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_Modal_Title" key="ActivityFeed_Modal_Title" itemid="{AD1415A1-EB9D-44F9-ACB0-6EE37C565409}" fieldid="Value" updated="20170217T013126Z">
+    <en>Search teams and riders</en>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_multimedia" key="ActivityFeed_multimedia" itemid="{821C36C1-45FB-4CDB-862F-C8E5C6CE4119}" fieldid="Value" updated="20160517T051633Z">
+    <en>Multimedia</en>
+    <de-DE>Multimedia</de-DE>
+    <es-ES>Multimedia</es-ES>
+    <fr-FR>Multimédia</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_refresh" key="ActivityFeed_refresh" itemid="{644CD1EE-1A5D-4E04-A484-97EB85FCE3C7}" fieldid="Value" updated="20160623T044438Z">
+    <en>Refresh</en>
+    <de-DE>Aktualisieren</de-DE>
+    <es-ES>Actualizar</es-ES>
+    <fr-FR>Rafraîchir</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_search" key="ActivityFeed_search" itemid="{0EB839C5-7B71-48BA-BCF7-CE03EAE05D8A}" fieldid="Value" updated="20160517T052039Z">
+    <en>Search</en>
+    <de-DE>Suche</de-DE>
+    <es-ES>Buscar</es-ES>
+    <fr-FR>Chercher</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_search_not_found" key="ActivityFeed_search_not_found" itemid="{67772D1A-FC91-4EFD-9466-6E042D01DAA6}" fieldid="Value" updated="20160623T044438Z">
+    <en>No items match your search</en>
+    <de-DE>Wir haben leider keine Artikel gefunden die Ihrer Suche entsprechen</de-DE>
+    <es-ES>Ningún elemento coincide con tu búsqueda</es-ES>
+    <fr-FR>Aucun élément ne correspond à votre recherche</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_SearchBox_PlaceHolderText" key="ActivityFeed_SearchBox_PlaceHolderText" itemid="{20415766-2143-4C42-B193-D426C17EAC38}" fieldid="Value" updated="20160627T053238Z">
+    <en>Type Rider or Team Name</en>
+    <de-DE>Fahrer- oder Teamname eingeben</de-DE>
+    <es-ES>Escribe el nombre del corredor o del equipo</es-ES>
+    <fr-FR>Entrez le nom d'un coureur ou d'une équipe</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_social" key="ActivityFeed_social" itemid="{EEFEBD78-03D0-436A-A85D-6719EEFDEFE2}" fieldid="Value" updated="20160623T044438Z">
+    <en>Social</en>
+    <de-DE>Social</de-DE>
+    <es-ES>Social</es-ES>
+    <fr-FR>Réseaux sociaux</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_social_media" key="ActivityFeed_social_media" itemid="{E4FBA3D8-1721-46AD-80CB-AD99C951715D}" fieldid="Value" updated="20160623T044438Z">
+    <en>Social Media</en>
+    <de-DE>Soziale Medien</de-DE>
+    <es-ES>Redes sociales</es-ES>
+    <fr-FR>Partager sur les réseaux</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_tap_to_share" key="ActivityFeed_tap_to_share" itemid="{1B909E77-17A4-4920-9268-3D623A1BDA9F}" fieldid="Value" updated="20160623T044439Z">
+    <en>Tap to share on one of these services</en>
+    <de-DE>Wählen Sie ein soziales Netzwerk um zu teilen:</de-DE>
+    <es-ES>Da un toque para compartir uno de estos servicios</es-ES>
+    <fr-FR>Choisissez le service sur lequel vous souhaitez partager ce post</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_to_go" key="ActivityFeed_to_go" itemid="{F4993F09-549D-4722-BD14-A41F12A3B6D7}" fieldid="Value" updated="20160623T044439Z">
+    <en>to go</en>
+    <de-DE>bis zum Ziel</de-DE>
+    <es-ES>para llegar a meta</es-ES>
+    <fr-FR>à parcourir</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ActivityFeed_Yesterday" key="ActivityFeed_Yesterday" itemid="{A7F426E6-6878-4081-BE92-857429D44648}" fieldid="Value" updated="20160702T074048Z">
+    <en>Yesterday</en>
+    <de-DE>Gestern</de-DE>
+    <es-ES>Ayer</es-ES>
+    <fr-FR>Hier</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Age" key="Age" itemid="{5885E732-5FD1-4997-9F66-DCED238C56D5}" fieldid="Value" updated="20160706T113738Z">
+    <en>Age</en>
+    <de-DE>Alter</de-DE>
+    <es-ES>Años</es-ES>
+    <fr-FR>Age</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Argentina" key="Argentina" itemid="{782734C8-B3C3-41E2-BB5E-FB077314D56D}" fieldid="Value" updated="20160713T004027Z">
+    <en>Argentina</en>
+    <de-DE>Argentinien</de-DE>
+    <es-ES>Argentina</es-ES>
+    <fr-FR>Argentine</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Australia" key="Australia" itemid="{DB987DD2-622A-4EF9-BB1A-36E4892AFD07}" fieldid="Value" updated="20160713T004241Z">
+    <en>Australia</en>
+    <de-DE>Australien</de-DE>
+    <es-ES>Australia</es-ES>
+    <fr-FR>Australie</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Austria" key="Austria" itemid="{81EAECA8-3385-45B2-871C-A0463FAE3740}" fieldid="Value" updated="20160713T004347Z">
+    <en>Austria</en>
+    <de-DE>Österreich</de-DE>
+    <es-ES>Austria</es-ES>
+    <fr-FR>Autriche</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/AverageSpeed" key="AverageSpeed" itemid="{50D62B77-E023-4096-9830-5A367B5C2CAF}" fieldid="Value" updated="20170221T030619Z">
+    <en>average speed</en>
+    <fr-FR>Vitesse moyenne sur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/AverageSpeedComparison" key="AverageSpeedComparison" itemid="{6F54B966-AB14-46DE-A78B-5CBC1DDCC2F7}" fieldid="Value" updated="20170224T011702Z">
+    <en>Average Speed Comparison</en>
+    <fr-FR>Comparaison vitesse moyenne</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Back_to_LIVE_Race" key="Back_to_LIVE_Race" itemid="{E7CF82DD-5C47-47C9-8A71-DC90C7CB72B1}" fieldid="Value" updated="20160714T064702Z">
+    <en>Back to LIVE Race</en>
+    <de-DE>Zurück zur LIVE-Etappe</de-DE>
+    <es-ES>Volver al directo de la etapa</es-ES>
+    <fr-FR>Retour à la course en LIVE</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/behindFrontofrace" key="behindFrontofrace" itemid="{F2288706-4D36-42FA-BDB2-4E9D66BD8D04}" fieldid="Value" updated="20160702T125231Z">
+    <en>behind</en>
+    <de-DE>hinter</de-DE>
+    <es-ES>después</es-ES>
+    <fr-FR>après</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Belarus" key="Belarus" itemid="{FEE57D37-2408-4608-BF45-978CE4E0AB18}" fieldid="Value" updated="20160713T004500Z">
+    <en>Belarus</en>
+    <de-DE>Weißrussland</de-DE>
+    <es-ES>Belarús</es-ES>
+    <fr-FR>Belarus</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Belgium" key="Belgium" itemid="{246F3878-269D-49E3-9567-03A85E0BF2BD}" fieldid="Value" updated="20160713T004755Z">
+    <en>Belgium</en>
+    <de-DE>Belgien</de-DE>
+    <es-ES>Bélgica</es-ES>
+    <fr-FR>Belgique</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Big_Rain" key="Big_Rain" itemid="{11D09105-A5F1-48D6-8363-8714FABC9B88}" fieldid="Value" updated="20170220T091228Z">
+    <en>Big Rain</en>
+    <fr-FR>Pluie</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Big_Storm" key="Big_Storm" itemid="{C72E5F06-A523-4E29-B3A6-489D3B18911E}" fieldid="Value" updated="20170220T091309Z">
+    <en>Big Storm</en>
+    <fr-FR>Gros orage</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Breakaway" key="Breakaway" itemid="{F10A4DED-C239-4372-9601-05D20399DB00}" fieldid="Value" updated="20170220T103210Z">
+    <en>Breakaway</en>
+    <fr-FR>Echappée</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Canada" key="Canada" itemid="{FADD814A-95F2-40DB-A612-E443BF6D1265}" fieldid="Value" updated="20160713T005908Z">
+    <en>Canada</en>
+    <de-DE>Kanada</de-DE>
+    <es-ES>Canadá</es-ES>
+    <fr-FR>Canada</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_after_Stage" key="Classification_after_Stage" itemid="{5B1244E2-EE86-4043-8AAA-1B1DD14421E9}" fieldid="Value" updated="20160713T081930Z">
+    <en>for stage</en>
+    <de-DE>nach Etappe</de-DE>
+    <es-ES>tras la etapa</es-ES>
+    <fr-FR>sur l'étape</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_close" key="Classification_close" itemid="{54DC9F8B-7472-4B8C-9FFD-351B4E2A1B5C}" fieldid="Value" updated="20170213T223614Z">
+    <en>Close</en>
+    <fr-FR>Fermer</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Link_Less" key="Classification_Link_Less" itemid="{C0F48B68-E19E-4A02-84A4-A1D76E932877}" fieldid="Value" updated="20160627T045348Z">
+    <en>Less</en>
+    <de-DE>Weniger zeigen</de-DE>
+    <es-ES>Menos</es-ES>
+    <fr-FR>Moins</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Link_More" key="Classification_Link_More" itemid="{ED819E36-B863-4080-B5E6-12CF63A46F59}" fieldid="Value" updated="20160627T045301Z">
+    <en>More</en>
+    <de-DE>Mehr zeigen</de-DE>
+    <es-ES>Más</es-ES>
+    <fr-FR>Plus</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Menu_Climber" key="Classification_Menu_Climber" itemid="{C953BE8D-F9AE-4317-AC6E-4D4D16419FFD}" fieldid="Value" updated="20160629T064002Z">
+    <en>Climber</en>
+    <de-DE>Bergfahrer</de-DE>
+    <es-ES>Escalador</es-ES>
+    <fr-FR>Grimpeur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Menu_Combatitive" key="Classification_Menu_Combatitive" itemid="{A139AD0A-FF34-4839-AD64-8AD122F70ECB}" fieldid="Value" updated="20160629T064106Z">
+    <en>Combatitive</en>
+    <de-DE>Kämpferisch</de-DE>
+    <es-ES>Más combativo</es-ES>
+    <fr-FR>Combatif</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Menu_Combined" key="Classification_Menu_Combined" itemid="{9B5824B0-77BC-48B0-B94B-C75EB7634205}" fieldid="Value" updated="20160816T052550Z">
+    <en>Combined</en>
+    <es-ES>Combinada</es-ES>
+    <fr-FR>Combiné</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Menu_Individual" key="Classification_Menu_Individual" itemid="{366CEDC3-8A04-41C1-941A-E312969DF807}" fieldid="Value" updated="20160629T063911Z">
+    <en>Individual</en>
+    <de-DE>Einzel</de-DE>
+    <es-ES>Individual</es-ES>
+    <fr-FR>Individuel</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Menu_Overall" key="Classification_Menu_Overall" itemid="{3A12F4CF-1B84-40E5-B8F2-7A92BECE906B}" fieldid="Value" updated="20160629T063829Z">
+    <en>Overall</en>
+    <de-DE>Gesamt</de-DE>
+    <es-ES>General</es-ES>
+    <fr-FR>Géneral</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Menu_Point" key="Classification_Menu_Point" itemid="{D208FF21-3D96-425D-9363-AEB6DD79F73B}" fieldid="Value" updated="20160701T032606Z">
+    <en>Points</en>
+    <de-DE>Punkte</de-DE>
+    <es-ES>Puntos</es-ES>
+    <fr-FR>Points</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Menu_Stage" key="Classification_Menu_Stage" itemid="{D19C8FFF-8FF9-4152-99BD-C67CB0841B0A}" fieldid="Value" updated="20160629T063853Z">
+    <en>Stage</en>
+    <de-DE>Etappe</de-DE>
+    <es-ES>Etapa</es-ES>
+    <fr-FR>Etape</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Menu_Team" key="Classification_Menu_Team" itemid="{6F26CEF7-6A6F-46A7-904B-1D7F9C2F7BD3}" fieldid="Value" updated="20160629T063948Z">
+    <en>Team</en>
+    <de-DE>Team</de-DE>
+    <es-ES>Equipo</es-ES>
+    <fr-FR>Equipe</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Menu_Withdrawn" key="Classification_Menu_Withdrawn" itemid="{765052A4-4E26-4BFC-BFF2-2EF9078D0040}" fieldid="Value" updated="20160629T064053Z">
+    <en>Withdrawn</en>
+    <de-DE>Aufgegeben</de-DE>
+    <es-ES>Abandonos</es-ES>
+    <fr-FR>Abandons</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Menu_Youth" key="Classification_Menu_Youth" itemid="{3EDB04BA-C2D2-46DE-9E96-30BE5AB2EB04}" fieldid="Value" updated="20160629T064019Z">
+    <en>Youth</en>
+    <de-DE>Jungprofis</de-DE>
+    <es-ES>Joven</es-ES>
+    <fr-FR>Jeune</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_MobileMenu_Combatitive" key="Classification_MobileMenu_Combatitive" itemid="{5190493E-1C6E-41A0-AD48-FA6885C00289}" fieldid="Value" updated="20160718T011756Z">
+    <en>Combatitive</en>
+    <de-DE>Kämpferischster Fahrer</de-DE>
+    <es-ES>Más combativo</es-ES>
+    <fr-FR>Combatif</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_MobileMenu_Combined" key="Classification_MobileMenu_Combined" itemid="{E758DABA-7E60-460D-A455-33C35E8DA433}" fieldid="Value" updated="20160816T052704Z">
+    <en>Combined</en>
+    <es-ES>Combinada</es-ES>
+    <fr-FR>Combiné</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_MobileMenu_General" key="Classification_MobileMenu_General" itemid="{80463A58-9959-4AE3-A543-E322146D9C50}" fieldid="Value" updated="20160718T011744Z">
+    <en>Individual</en>
+    <de-DE>Gesamtklassement</de-DE>
+    <es-ES>Clasificación general</es-ES>
+    <fr-FR>Classement général</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_MobileMenu_Mountain" key="Classification_MobileMenu_Mountain" itemid="{D647F508-8E85-4751-9C03-4C1356D021BD}" fieldid="Value" updated="20160718T011646Z">
+    <en>Climber</en>
+    <de-DE>Bergklassement</de-DE>
+    <es-ES>Mejor escalador</es-ES>
+    <fr-FR>Meilleur Grimpeur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_MobileMenu_Sprint" key="Classification_MobileMenu_Sprint" itemid="{4C5315CF-37EC-430C-80CB-CB4829BDDE9C}" fieldid="Value" updated="20160718T011701Z">
+    <en>Points</en>
+    <de-DE>Sprintklassement</de-DE>
+    <es-ES>Puntos</es-ES>
+    <fr-FR>Points</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_MobileMenu_Team" key="Classification_MobileMenu_Team" itemid="{087E5D31-2DCF-4C5A-8FF9-21997AF24F91}" fieldid="Value" updated="20160718T011711Z">
+    <en>Team</en>
+    <de-DE>Teamklassement</de-DE>
+    <es-ES>Equipo</es-ES>
+    <fr-FR>Equipe</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_MobileMenu_Withdrawn" key="Classification_MobileMenu_Withdrawn" itemid="{D36BE0CA-B590-4F71-9578-7BE80C954F5E}" fieldid="Value" updated="20160718T011628Z">
+    <en>Withdrawn</en>
+    <de-DE>Aufgegeben</de-DE>
+    <es-ES>Abandonos</es-ES>
+    <fr-FR>Abandons</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_MobileMenu_Youth" key="Classification_MobileMenu_Youth" itemid="{DEA10BFA-C182-4299-AA5B-21289B2733F9}" fieldid="Value" updated="20160718T011723Z">
+    <en>Youth</en>
+    <de-DE>Beste Jungprofis</de-DE>
+    <es-ES>Joven</es-ES>
+    <fr-FR>Jeune</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_overallafter_Stage" key="Classification_overallafter_Stage" itemid="{81228BFD-85C1-4AEA-A993-E718000D8B03}" fieldid="Value" updated="20160713T082006Z">
+    <en>for stage</en>
+    <de-DE>nach Etappe</de-DE>
+    <es-ES>tras la etapa</es-ES>
+    <fr-FR>sur l'étape</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_overallTotal_distance" key="Classification_overallTotal_distance" itemid="{2CB417FF-0A27-4501-9A06-2CE5F700093F}" fieldid="Value" updated="20160705T071201Z">
+    <en>total distance</en>
+    <de-DE>Gesamtstrecke</de-DE>
+    <es-ES>Distancia total</es-ES>
+    <fr-FR>Distance totale</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_social_media" key="Classification_social_media" itemid="{E195F00F-C210-4788-A1C7-E865F62C9368}" fieldid="Value" updated="20170213T223526Z">
+    <en>Social Media</en>
+    <fr-FR>Partager sur les réseaux</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_tap_to_share" key="Classification_tap_to_share" itemid="{5B7031D1-E2A0-46D4-8AC5-D2FF27DAE280}" fieldid="Value" updated="20170213T223556Z">
+    <en>Tap to share on one of these services</en>
+    <fr-FR>Choisissez le service sur lequel vous souhaitez partager ce post</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Classification_Total_distance" key="Classification_Total_distance" itemid="{43C56FE4-F03C-4B9A-9A11-6C339E23E22F}" fieldid="Value" updated="20160629T064123Z">
+    <en>distance</en>
+    <de-DE>Zurückgelegte Strecke</de-DE>
+    <es-ES>distancia</es-ES>
+    <fr-FR>distance</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Cloudy" key="Cloudy" itemid="{F8AE302F-D811-4DB1-BE79-EC9ED8FF8FB8}" fieldid="Value" updated="20170220T090621Z">
+    <en>Cloudy</en>
+    <fr-FR>Nuageux</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Colombia" key="Colombia" itemid="{8817A9BB-8DE3-4BC0-97E2-868C8C28D177}" fieldid="Value" updated="20160713T020654Z">
+    <en>Colombia</en>
+    <de-DE>Kolumbien</de-DE>
+    <es-ES>Colombia</es-ES>
+    <fr-FR>Colombie</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/combatitiveClassificationTitleText" key="combatitiveClassificationTitleText" itemid="{BA72EC68-723C-45B5-A9A6-8B8151EBD9D5}" fieldid="Value" updated="20160708T110230Z">
+    <en>Most Combatitive Rider</en>
+    <de-DE>Kämpferischster Fahrer</de-DE>
+    <es-ES>Más combativo</es-ES>
+    <fr-FR>Combatif</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Combined_Classification" key="Combined_Classification" itemid="{BFF1F404-491D-46D2-95AE-2701C53B5ABC}" fieldid="Value" updated="20160818T055822Z">
+    <en>Combined Classification</en>
+    <es-ES>Clasificación combinada</es-ES>
+    <fr-FR>Classement combiné</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Croatia" key="Croatia" itemid="{6E275881-8220-41D6-BAB9-F1E08572B234}" fieldid="Value" updated="20160713T020732Z">
+    <en>Croatia</en>
+    <de-DE>Kroatien</de-DE>
+    <es-ES>Croacia</es-ES>
+    <fr-FR>Croatie</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Currently_in_the" key="Currently_in_the" itemid="{D0FD4615-4FE7-4D39-8144-76FFBBF0428D}" fieldid="Value" updated="20170223T233643Z">
+    <en>Currently in the</en>
+    <fr-FR>Actuellement dans le</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/CurrentlyInGroup" key="CurrentlyInGroup" itemid="{D811E6C3-CBD8-49CA-B560-A49B79CB7335}" fieldid="Value" updated="20170221T051515Z">
+    <en>is currently in group</en>
+    <fr-FR>is currently in group</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Czech_Republic" key="Czech_Republic" itemid="{A50869CD-4F87-4FD3-A086-D0E726FF94BA}" fieldid="Value" updated="20160713T021238Z">
+    <en>Czech Republic</en>
+    <de-DE>Tschechische Republik</de-DE>
+    <es-ES>República Checa</es-ES>
+    <fr-FR>République Tchèque</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Data_Zone_Current_Postion_on_Stage" key="Data_Zone_Current_Postion_on_Stage" itemid="{33EC19D6-36DF-4CB1-8419-B158E073C8F4}" fieldid="Value" updated="20160623T044439Z">
+    <en>Current Postion on Stage</en>
+    <de-DE>Aktuelle Position in der Etappe</de-DE>
+    <es-ES>Posición actual en la etapa</es-ES>
+    <fr-FR>Position actuelle dans l'étape</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Data_Zone_Current_Speed_At_Front_Of_Race" key="Data_Zone_Current_Speed_At_Front_Of_Race" itemid="{D8B3AE2F-7604-4B9F-A8B5-11A999397BA1}" fieldid="Value" updated="20160623T044439Z">
+    <en>Speed at Front of Race</en>
+    <de-DE>Geschwindigkeit an der Rennspitze</de-DE>
+    <es-ES>Velocidad en la cabeza de carrera</es-ES>
+    <fr-FR>Vitesse de la tête de course</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Data_Zone_Currently" key="Data_Zone_Currently" itemid="{E926A4E4-7D9B-4554-BD9C-303217A94230}" fieldid="Value" updated="20160623T044439Z">
+    <en>Currently</en>
+    <de-DE>Aktuell</de-DE>
+    <es-ES>Ahora</es-ES>
+    <fr-FR>Actuellement</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Data_Zone_Distance_To_Finish" key="Data_Zone_Distance_To_Finish" itemid="{85777FBD-C448-4943-963B-9F445000BA31}" fieldid="Value" updated="20160623T044439Z">
+    <en>Distance to Finish</en>
+    <de-DE>Restdistanz bis zum Ziel</de-DE>
+    <es-ES>Distancia hasta meta</es-ES>
+    <fr-FR>Distance restante à parcourir</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Data_Zone_Title" key="Data_Zone_Title" itemid="{635A744B-7DEA-4721-9604-96BC273E21C0}" fieldid="Value" updated="20160627T053204Z">
+    <en>Data Zone</en>
+    <de-DE>Datazone</de-DE>
+    <es-ES>Data Zone</es-ES>
+    <fr-FR>Data Zone</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/DataCards_close" key="DataCards_close" itemid="{A1943072-80C8-43C1-A1DC-786632B6736A}" fieldid="Value" updated="20170220T004407Z">
+    <en>Close</en>
+    <fr-FR>Fermer</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/DataCards_social_media" key="DataCards_social_media" itemid="{83965CD7-710B-4CB8-9EE0-0ED32DDC213F}" fieldid="Value" updated="20170220T004241Z">
+    <en>Social Media</en>
+    <fr-FR>Partager sur les réseaux</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/DataCards_tap_to_share" key="DataCards_tap_to_share" itemid="{D7D7F67A-84EF-4F04-BAD3-453B468DAA04}" fieldid="Value" updated="20170220T004515Z">
+    <en>Tap to share on one of these services</en>
+    <fr-FR>Choisissez le service sur lequel vous souhaitez partager ce post:</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Date_Zone_Gap_From_First_To_Last" key="Date_Zone_Gap_From_First_To_Last" itemid="{33A07326-4353-4198-8122-0E29A21AAB8F}" fieldid="Value" updated="20160623T044439Z">
+    <en>Gap from 1st to Last</en>
+    <de-DE>Abstand zwischen dem ersten und dem letzten Fahrer</de-DE>
+    <es-ES>Diferencia entre primero y último</es-ES>
+    <fr-FR>Ecart entre le premier et le dernier coureur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Denmark" key="Denmark" itemid="{964B3124-985A-40B1-819A-911A4259167B}" fieldid="Value" updated="20160713T021314Z">
+    <en>Denmark</en>
+    <de-DE>Dänemark</de-DE>
+    <es-ES>Dinamarca</es-ES>
+    <fr-FR>Danemark</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Eritrea" key="Eritrea" itemid="{B84ABC8F-6E6C-428F-A42E-38BA24E5EB15}" fieldid="Value" updated="20160713T021513Z">
+    <en>Eritrea</en>
+    <de-DE>Eritrea</de-DE>
+    <es-ES>Eritrea</es-ES>
+    <fr-FR>Érythrée</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Estonia" key="Estonia" itemid="{6F3A9641-34F2-451A-BAC5-4C0F55D69F30}" fieldid="Value" updated="20160713T021621Z">
+    <en>Estonia</en>
+    <de-DE>Estland</de-DE>
+    <es-ES>Estonia</es-ES>
+    <fr-FR>Estonie</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Ethiopia" key="Ethiopia" itemid="{D2881A4D-454C-4A8A-A092-2236167E2699}" fieldid="Value" updated="20160713T021804Z">
+    <en>Ethiopia</en>
+    <de-DE>Äthiopien</de-DE>
+    <es-ES>Etiopía</es-ES>
+    <fr-FR>Ethiopie</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites" key="Favourites" itemid="{614E27C9-2FA9-4B44-B65E-FA4BACBACABE}" fieldid="Value" updated="20160623T044439Z">
+    <en>My Favourites</en>
+    <de-DE>Meine Favoriten</de-DE>
+    <es-ES>Mis favoritos</es-ES>
+    <fr-FR>Mes favoris</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites_Add_All" key="Favourites_Add_All" itemid="{9525DF1D-51E6-4CD5-AC22-28602DA41C22}" fieldid="Value" updated="20160623T044439Z">
+    <en>Add all</en>
+    <de-DE>Alle hinzufügen</de-DE>
+    <es-ES>Añadir todo</es-ES>
+    <fr-FR>Tout ajouter</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites_No_Riders_Available" key="Favourites_No_Riders_Available" itemid="{C94DAF11-173E-4E17-A3EE-F31C73128612}" fieldid="Value" updated="20160623T044439Z">
+    <en>No riders available</en>
+    <de-DE>Kein Fahrer verfügbar</de-DE>
+    <es-ES>Ningún corredor disponible</es-ES>
+    <fr-FR>Aucun coureur disponible</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites_Rider_Name" key="Favourites_Rider_Name" itemid="{19B2C044-851D-480B-891E-97210BDE19AD}" fieldid="Value" updated="20160623T044440Z">
+    <en>Rider name</en>
+    <de-DE>Name</de-DE>
+    <es-ES>Nombre del corredor</es-ES>
+    <fr-FR>Nom du Coureur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites_Tag_All_Riders" key="Favourites_Tag_All_Riders" itemid="{2FE59F57-2857-4870-A95C-B7F370479EB1}" fieldid="Value" updated="20160623T044440Z">
+    <en>All riders</en>
+    <de-DE>Alle Fahrer</de-DE>
+    <es-ES>Todos los corredores</es-ES>
+    <fr-FR>Tous les coureurs</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites_Tag_Nationality" key="Favourites_Tag_Nationality" itemid="{CB9B8711-832F-4318-90E2-5A73B62A7EE3}" fieldid="Value" updated="20160623T044440Z">
+    <en>Nationalities</en>
+    <de-DE>Nationalitäten</de-DE>
+    <es-ES>Por nacionalidad</es-ES>
+    <fr-FR>Par nationalité</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites_Tag_Team" key="Favourites_Tag_Team" itemid="{556337E7-FF90-4A88-B143-6FBC31A5B4F7}" fieldid="Value" updated="20160623T044440Z">
+    <en>Teams</en>
+    <de-DE>Teams</de-DE>
+    <es-ES>Por equipo</es-ES>
+    <fr-FR>Par équipe</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites_Tag_Top5" key="Favourites_Tag_Top5" itemid="{152CCAE7-8F93-4F46-81F6-DA65D66125FA}" fieldid="Value" updated="20160623T044440Z">
+    <en>Top 5</en>
+    <de-DE>Top 5</de-DE>
+    <es-ES>Top 5</es-ES>
+    <fr-FR>Top cinq</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites_Tag_Top5_Climbers" key="Favourites_Tag_Top5_Climbers" itemid="{07B4F620-4BDC-4D2C-8FAB-4C3D774E5E25}" fieldid="Value" updated="20160623T044440Z">
+    <en>Top 5 Climbers</en>
+    <de-DE>Top 5 der besten Kletterer</de-DE>
+    <es-ES>Top 5 de montaña</es-ES>
+    <fr-FR>Top 5 des meilleurs grimpeurs</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites_Tag_Top5_GC" key="Favourites_Tag_Top5_GC" itemid="{D30BD3A6-8A61-4108-BF87-DDD16DEDB34F}" fieldid="Value" updated="20160623T044440Z">
+    <en>Top 5 GC</en>
+    <de-DE>Top 5 des Gesamtklassements</de-DE>
+    <es-ES>Top 5 de la clasificación general</es-ES>
+    <fr-FR>Top 5 du classement général</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites_Tag_Top5_Riders" key="Favourites_Tag_Top5_Riders" itemid="{39D67318-1987-4C9E-B27B-F3A4AAAC0B1A}" fieldid="Value" updated="20160623T044440Z">
+    <en>Top 5 Riders</en>
+    <de-DE>Top 5 </de-DE>
+    <es-ES>Top 5 de corredores</es-ES>
+    <fr-FR>Top 5 des coureurs</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites_Tag_Top5_Sprinter" key="Favourites_Tag_Top5_Sprinter" itemid="{30B81728-4962-45F4-8F95-4748EC20ED13}" fieldid="Value" updated="20160623T044440Z">
+    <en>Top 5 Sprinters</en>
+    <de-DE>Top 5 der besten Sprinter</de-DE>
+    <es-ES>Top 5 de velocistas</es-ES>
+    <fr-FR>Top 5 des meilleurs sprinters</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Favourites_Tag_Top5_Young_Riders" key="Favourites_Tag_Top5_Young_Riders" itemid="{A719023B-714B-47D9-B3D1-B166AF14655F}" fieldid="Value" updated="20160623T044440Z">
+    <en>Top 5 Young Riders</en>
+    <de-DE>Top 5 der besten Jungprofis</de-DE>
+    <es-ES>Top 5 de jóvenes</es-ES>
+    <fr-FR>Top 5 des jeunes coureurs</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Footer_Day" key="Footer_Day" itemid="{AE65E41A-EF4B-46EE-A99D-F18CA94DDF65}" fieldid="Value" updated="20160706T051155Z">
+    <en>d</en>
+    <de-DE>d</de-DE>
+    <fr-FR>j</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/footer_GapYellowJerseyBack" key="footer_GapYellowJerseyBack" itemid="{CF9EAE2C-5FEE-425B-A0FD-4890F1B584C8}" fieldid="Value" updated="20160701T034902Z">
+    <en />
+    <de-DE />
+    <es-ES />
+    <fr-FR />
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Footer_startsIn" key="Footer_startsIn" itemid="{7E5E85A1-46C5-47F9-BDE6-01FE6F8A2063}" fieldid="Value" updated="20160701T071446Z">
+    <en>Stage starts in</en>
+    <de-DE>Etappe beginnt in</de-DE>
+    <es-ES>Sale en</es-ES>
+    <fr-FR>L'étape démarrera dans</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Footer_TimeTrial_Checkpoint" key="Footer_TimeTrial_Checkpoint" itemid="{908B2ADE-FC3C-4F30-8638-2E685E316E8A}" fieldid="Value" updated="20160712T102907Z">
+    <en>Fastest rider at C</en>
+    <de-DE>In Führung bei Zwischenzeit</de-DE>
+    <es-ES>Fastest rider at C</es-ES>
+    <fr-FR>Coureur le plus rapide à C</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Footer_TimeTrial_Finish" key="Footer_TimeTrial_Finish" itemid="{38FEE80E-1357-4D61-A418-648222E3ECE5}" fieldid="Value" updated="20160712T103546Z">
+    <en>Fastest rider at Finish</en>
+    <de-DE>In Führung im Ziel</de-DE>
+    <es-ES>Fastest rider at Finish</es-ES>
+    <fr-FR>Coureur le plus rapide à l'arrivée</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Footer_TimeTrial_Start" key="Footer_TimeTrial_Start" itemid="{7160D667-2720-4040-81DB-B109EBEC6CF5}" fieldid="Value" updated="20160712T103315Z">
+    <en>Next Rider to Start</en>
+    <de-DE>Nächster Fahrer am Start</de-DE>
+    <es-ES>Next Rider to Start</es-ES>
+    <fr-FR>Prochain coureur à démarrer</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/ForecastWeatherAt" key="ForecastWeatherAt" itemid="{1275440A-57FE-4C4E-9B43-97037EAEFEFF}" fieldid="Value" updated="20170220T100811Z">
+    <en>Forecast weather at</en>
+    <fr-FR>Prévisions météo à</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/France" key="France" itemid="{23F778CA-08CC-48D4-91B0-B79CAF291C00}" fieldid="Value" updated="20160713T022112Z">
+    <en>France</en>
+    <de-DE>Frankreich</de-DE>
+    <es-ES>Francia</es-ES>
+    <fr-FR>France</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/from_the_finish" key="from_the_finish" itemid="{CC3D1DD3-BBCC-4A2A-A4B2-82467E2AB3C7}" fieldid="Value" updated="20170306T080727Z">
+    <en>from the finish</en>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/from_the_finish" key="from_the_finish" itemid="{711B37F1-AABC-4823-A64C-CD26D109A87D}" fieldid="Value" updated="20170223T233422Z">
+    <en>from the finish</en>
+    <fr-FR>de l'arrivée</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/FromTheFinish" key="FromTheFinish" itemid="{4D1672A1-D93E-497B-8759-BEB854272174}" fieldid="Value" updated="20170221T051619Z">
+    <en>km from the finish, travelling at</en>
+    <fr-FR>km from the finish, travelling at</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/FrontoftheRace" key="FrontoftheRace" itemid="{BD05063D-5D02-45A5-BC53-1353F5A81238}" fieldid="Value" updated="20160702T121613Z">
+    <en>Front of the race</en>
+    <de-DE>Rennspitze</de-DE>
+    <es-ES>Cabeza de carrera</es-ES>
+    <fr-FR>Tête de course</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/GapFrom" key="GapFrom" itemid="{D5198A72-5806-4013-94AF-5FF08201DC19}" fieldid="Value" updated="20170221T030119Z">
+    <en>Gap from</en>
+    <fr-FR>Écart de</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/GapToFrontDecreasing" key="GapToFrontDecreasing" itemid="{A80E2F8B-7120-4AD2-9EDE-51DE8DB25FAD}" fieldid="Value" updated="20170226T221540Z">
+    <en>gap to front decreasing</en>
+    <fr-FR>gap to front decreasing</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/GapToFrontIncreasing" key="GapToFrontIncreasing" itemid="{812729B0-B95E-4EF0-B38E-3B1B14857759}" fieldid="Value" updated="20170226T221712Z">
+    <en>gap to front increasing</en>
+    <fr-FR>gap to front increasing</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/GCStarter_Classficiation" key="GCStarter_Classficiation" itemid="{70CC4E93-289D-4AA8-A324-1802E8BD9E4A}" fieldid="Value" updated="20160701T080008Z">
+    <en>Classification</en>
+    <de-DE>Klassement</de-DE>
+    <es-ES>Clasificación</es-ES>
+    <fr-FR>Classification</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/GCStarter_Starter" key="GCStarter_Starter" itemid="{AA09C868-4DBD-4C7E-A7E6-CCBD10E70A72}" fieldid="Value" updated="20160701T080034Z">
+    <en>Starters</en>
+    <de-DE>Starter</de-DE>
+    <es-ES>Corredores en la línea de salida</es-ES>
+    <fr-FR>Partants</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Germany" key="Germany" itemid="{2FDA121D-7862-40E1-8CED-15D099C600DF}" fieldid="Value" updated="20160713T022303Z">
+    <en>Germany</en>
+    <de-DE>Deutschland</de-DE>
+    <es-ES>Alemania</es-ES>
+    <fr-FR>Allemagne</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group" key="Group" itemid="{F092A321-9F3D-4847-8B1D-FA0A011412C6}" fieldid="Value" updated="20160530T230702Z">
+    <en>Group</en>
+    <de-DE>Gruppe</de-DE>
+    <es-ES>Grupo</es-ES>
+    <fr-FR>Groupe</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_2eme_Peloton" key="Group_2eme_Peloton" itemid="{0B3FA8E4-B252-4913-83BC-362635DDA2B2}" fieldid="Value" updated="20160710T050809Z">
+    <en>2nd peloton</en>
+    <de-DE>2. Peloton</de-DE>
+    <es-ES>2° peloton</es-ES>
+    <fr-FR>2ème Peloton</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_2eme_Peloton" key="Group_2eme_Peloton" itemid="{EC16F422-21AF-4AC9-9BDC-8C4CDCAE54DD}" fieldid="Value" updated="20160630T233857Z">
+    <en>2nd peloton</en>
+    <de-DE>2. Peloton</de-DE>
+    <es-ES>2° peloton</es-ES>
+    <fr-FR>2ème Peloton</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_2nd_echelon" key="Group_2nd_echelon" itemid="{1D18D09F-47AC-4214-A721-97AA657CBF17}" fieldid="Value" updated="20160623T044441Z">
+    <en>2nd echelon</en>
+    <de-DE>2. Gestaffelte Gruppe</de-DE>
+    <es-ES>Intercalado</es-ES>
+    <fr-FR>Intercalé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_2nd_echelon_Plural" key="Group_2nd_echelon_Plural" itemid="{E2FC32DE-B506-4F3E-B1F4-B2D572FAA30E}" fieldid="Value" updated="20160623T044441Z">
+    <en>2nd echelon</en>
+    <de-DE>2. Gestaffelte Gruppe</de-DE>
+    <es-ES>Intercalados</es-ES>
+    <fr-FR>Intercalés</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_2nd_peloton" key="Group_2nd_peloton" itemid="{0C5B7C11-9C1E-4308-9B4F-1AF6B423F4D0}" fieldid="Value" updated="20160623T044441Z">
+    <en>2nd peloton</en>
+    <de-DE>2. Peloton</de-DE>
+    <es-ES>2° pelotón</es-ES>
+    <fr-FR>2ème Peloton</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Arriere_du_peloton" key="Group_Arriere_du_peloton" itemid="{56754E43-6844-4203-9AAD-7B2ED2FBF79D}" fieldid="Value" updated="20160630T234137Z">
+    <en>Back of the peloton</en>
+    <de-DE>Ende des Pelotons</de-DE>
+    <es-ES>Cola del pelotón</es-ES>
+    <fr-FR>Arrière du peloton</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Arriere_du_peloton" key="Group_Arriere_du_peloton" itemid="{4BAA873B-8B45-4442-81EF-54048A9FF2AD}" fieldid="Value" updated="20160703T124942Z">
+    <en>Back of the peloton</en>
+    <de-DE>Ende des Pelotons</de-DE>
+    <es-ES>Cola del pelotón</es-ES>
+    <fr-FR>Arrière du peloton</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Attarde" key="Group_Attarde" itemid="{3B0505F3-9BF7-400F-9C46-74CC9E93C0BA}" fieldid="Value" updated="20160709T121251Z">
+    <en>Straggler</en>
+    <de-DE>Nachzügler</de-DE>
+    <es-ES>Retrasado</es-ES>
+    <fr-FR>Attardé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Attarde" key="Group_Attarde" itemid="{60669B75-7908-4346-B40D-D1B68E8216F9}" fieldid="Value" updated="20160630T233100Z">
+    <en>Straggler</en>
+    <de-DE>Nachzügler</de-DE>
+    <es-ES>Retrasado</es-ES>
+    <fr-FR>Attardé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Attardes" key="Group_Attardes" itemid="{8AF42122-B846-4574-8BF4-5A2A6862C5C6}" fieldid="Value" updated="20160630T233343Z">
+    <en>Stragglers</en>
+    <de-DE>Nachzügler</de-DE>
+    <es-ES>Retrasados</es-ES>
+    <fr-FR>Attardés</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Attardes" key="Group_Attardes" itemid="{9634C1F8-3006-488C-8430-7AD94B5F5169}" fieldid="Value" updated="20160709T120826Z">
+    <en>Stragglers</en>
+    <de-DE>Nachzügler</de-DE>
+    <es-ES>Retrasados</es-ES>
+    <fr-FR>Attardés</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Back_of_the_peloton" key="Group_Back_of_the_peloton" itemid="{77EE9371-55AA-4438-905E-FC8ADBEC51C4}" fieldid="Value" updated="20160623T044441Z">
+    <en>Back of the peloton</en>
+    <de-DE>Ende des Pelotons</de-DE>
+    <es-ES>Cola del pelotón</es-ES>
+    <fr-FR>Arrière du peloton</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Back_of_the_Race" key="Group_Back_of_the_Race" itemid="{B3C4BD36-796B-41CE-9759-5F4FF641DEFE}" fieldid="Value" updated="20160702T114629Z">
+    <en>Back of the Race</en>
+    <de-DE>Grupetto</de-DE>
+    <es-ES>Grupetto</es-ES>
+    <fr-FR>Grupetto</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Behind" key="Group_Behind" itemid="{7EAF0B07-C4EF-4289-80AD-A608CE46E532}" fieldid="Value" updated="20160703T015547Z">
+    <en>behind</en>
+    <de-DE>hinter</de-DE>
+    <es-ES>después</es-ES>
+    <fr-FR>après</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Breakaway" key="Group_Breakaway" itemid="{8AB258C0-2241-4D29-A6D6-9937CC1815BA}" fieldid="Value" updated="20160530T230640Z">
+    <en>Breakaway</en>
+    <de-DE>Ausreißer</de-DE>
+    <es-ES>Escapada</es-ES>
+    <fr-FR>Echappée</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Counter_Attack" key="Group_Counter_Attack" itemid="{4C1F2321-5C6B-447B-9D3C-856D17574534}" fieldid="Value" updated="20160623T044441Z">
+    <en>Counter attack</en>
+    <de-DE>Verfolger</de-DE>
+    <es-ES>Perseguidor</es-ES>
+    <fr-FR>Poursuivant</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Counter_Attack_Plural" key="Group_Counter_Attack_Plural" itemid="{6BF8B550-1281-419E-8448-C01B553940F6}" fieldid="Value" updated="20160530T230700Z">
+    <en>Counter attack</en>
+    <de-DE>Verfolger</de-DE>
+    <es-ES>Perseguidores</es-ES>
+    <fr-FR>Poursuivants</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Distance" key="Group_Distance" itemid="{1DB5F24E-B138-4E48-8A4E-0B28E0A701A3}" fieldid="Value" updated="20160709T150024Z">
+    <en>Dropped rider</en>
+    <de-DE>Abgehängte Fahrer</de-DE>
+    <es-ES>Distanciado</es-ES>
+    <fr-FR>Distancé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Distance" key="Group_Distance" itemid="{9B2CA926-95E8-4981-A76C-D89409A44AD8}" fieldid="Value" updated="20160630T232514Z">
+    <en>Dropped rider</en>
+    <de-DE>Abgehängte Fahrer</de-DE>
+    <es-ES>Distanciado</es-ES>
+    <fr-FR>Distancé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Distances" key="Group_Distances" itemid="{D7840206-5826-4DA0-A7BA-E3CC15F2927A}" fieldid="Value" updated="20160630T232757Z">
+    <en>Dropped riders</en>
+    <de-DE>Abgehängte Fahrer</de-DE>
+    <es-ES>Distanciados</es-ES>
+    <fr-FR>Distancés</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Distances" key="Group_Distances" itemid="{31EB0A2E-A923-49C4-A89A-A57E757C7712}" fieldid="Value" updated="20160709T150236Z">
+    <en>Dropped riders</en>
+    <de-DE>Abgehängte Fahrer</de-DE>
+    <es-ES>Distanciados</es-ES>
+    <fr-FR>Distancés</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_DistanceToFinish" key="Group_DistanceToFinish" itemid="{D942FFCE-D61D-40CC-8D0B-ADB9D44FF665}" fieldid="Value" updated="20160702T074851Z">
+    <en>Distance to finish </en>
+    <de-DE>noch </de-DE>
+    <es-ES>Distance to finish_es</es-ES>
+    <fr-FR>Distance to finish_fr</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_does_not_exist_anymore" key="Group_does_not_exist_anymore" itemid="{129198EB-ABDC-44FB-9649-F5A297A6C5BD}" fieldid="Value" updated="20160718T063947Z">
+    <en>This group does not exist anymore</en>
+    <de-DE>This group does not exist anymore</de-DE>
+    <es-ES>This group does not exist anymore</es-ES>
+    <fr-FR>Ce groupe n'existe plus</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Dropped_rider" key="Group_Dropped_rider" itemid="{7B61EEEB-3588-4588-A27D-9C862D66F0BC}" fieldid="Value" updated="20160623T044441Z">
+    <en>Dropped rider</en>
+    <de-DE>Abgehängter Fahrer</de-DE>
+    <es-ES>Distanciado</es-ES>
+    <fr-FR>Distancé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Dropped_riders" key="Group_Dropped_riders" itemid="{2E048BF9-F203-4375-9145-F290B7B38719}" fieldid="Value" updated="20160530T230700Z">
+    <en>Dropped riders</en>
+    <de-DE>Abgehängte Fahrer</de-DE>
+    <es-ES>Distanciados</es-ES>
+    <fr-FR>Distancés</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Echappee" key="Group_Echappee" itemid="{8CCB92BD-9BD9-4B95-AD1F-540285F0125B}" fieldid="Value" updated="20160630T230504Z">
+    <en>Breakaway</en>
+    <de-DE>Ausreißer</de-DE>
+    <es-ES>Escapada</es-ES>
+    <fr-FR>Echappée</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Echappee" key="Group_Echappee" itemid="{F57809A0-77AB-40C7-A41C-1914CDA1E578}" fieldid="Value" updated="20160710T051526Z">
+    <en>Breakaway</en>
+    <de-DE>Ausreißer</de-DE>
+    <es-ES>Escapada</es-ES>
+    <fr-FR>Echappée</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Front_of_the_Race" key="Group_Front_of_the_Race" itemid="{399BBC71-20D3-4FA2-91C2-1B108FF317B9}" fieldid="Value" updated="20160627T072136Z">
+    <en>Front of the race</en>
+    <de-DE>Rennspitze</de-DE>
+    <es-ES>Cabeza de carrera</es-ES>
+    <fr-FR>Tête de course</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_GapToLeading" key="Group_GapToLeading" itemid="{F09CBAE6-FC09-4941-B6C6-12E07313C9DD}" fieldid="Value" updated="20160701T081417Z">
+    <en>Gap to Leading group</en>
+    <de-DE>Abstand zur Rennspitze</de-DE>
+    <es-ES>Distancia de cabeza de la carrera</es-ES>
+    <fr-FR>Ecart avec la tête de course</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Groupe_Maillot_Jaune" key="Group_Groupe_Maillot_Jaune" itemid="{0DE22B70-93A1-4633-8716-47019462F3F3}" fieldid="Value" updated="20160630T233607Z">
+    <en>Leader group</en>
+    <de-DE>Gruppe ums Gelbe Trikot</de-DE>
+    <es-ES>Grupo del maillot amarillo</es-ES>
+    <fr-FR>Groupe Maillot Jaune</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_In_Front" key="Group_In_Front" itemid="{6A86A219-BDCA-45FA-9F8A-2A49F8FD5571}" fieldid="Value" updated="20160711T051450Z">
+    <en>Group in Front</en>
+    <de-DE>Group in Front</de-DE>
+    <es-ES>Group in Front</es-ES>
+    <fr-FR>Groupe précédent</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/group_including" key="group_including" itemid="{596B4B80-E552-44F7-9A59-9D27811B91A2}" fieldid="Value" updated="20160701T082230Z">
+    <en>including</en>
+    <de-DE>inkl.</de-DE>
+    <es-ES>incluyendo</es-ES>
+    <fr-FR>comprenant </fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Intercale" key="Group_Intercale" itemid="{E9534B8F-EA28-46BE-809E-9BB24894E15B}" fieldid="Value" updated="20160630T231001Z">
+    <en>2nd echelon</en>
+    <de-DE>Zwischengelagerter Fahrer</de-DE>
+    <es-ES>Intercalado</es-ES>
+    <fr-FR>Intercalé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Intercale" key="Group_Intercale" itemid="{65324FC7-2C74-415B-BFB9-B22B8AAAA15C}" fieldid="Value" updated="20160710T051608Z">
+    <en>2nd echelon</en>
+    <de-DE>Zwischengelagerter Fahrer</de-DE>
+    <es-ES>Intercalado</es-ES>
+    <fr-FR>Intercalé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Intercales" key="Group_Intercales" itemid="{3247B999-FDDE-43EE-BF84-AB2EC0382F6A}" fieldid="Value" updated="20160630T231226Z">
+    <en>2nd echelon</en>
+    <de-DE>Zwischengelagerte Fahrer</de-DE>
+    <es-ES>Intercalados</es-ES>
+    <fr-FR>Intercalés</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Intercales" key="Group_Intercales" itemid="{9C4CD51B-6D46-4119-ABAA-E4C33463F552}" fieldid="Value" updated="20160710T051923Z">
+    <en>2nd echelon</en>
+    <de-DE>Zwischengelagerte Fahrer</de-DE>
+    <es-ES>Intercalados</es-ES>
+    <fr-FR>Intercalés</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Leader_group" key="Group_Leader_group" itemid="{9C285B6C-49FD-4D89-B71D-AF1B398300D4}" fieldid="Value" updated="20160623T044441Z">
+    <en>Leader group</en>
+    <de-DE>Gruppe ums Gelbe Trikot</de-DE>
+    <es-ES>Grupo del maillot amarillo</es-ES>
+    <fr-FR>Groupe Maillot Jaune</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Leader_Group" key="Group_Leader_Group" itemid="{A09D1DEF-B9BC-4CE6-AED3-C0062093D921}" fieldid="Value" updated="20160708T142643Z">
+    <en>Leader group</en>
+    <de-DE>Gruppe ums Gelbe Trikot</de-DE>
+    <es-ES>Grupo del maillot amarillo</es-ES>
+    <fr-FR>Groupe Maillot Jaune</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/group_modal_popup_gap_text" key="group_modal_popup_gap_text" itemid="{829FA500-AF80-440B-A6AD-568FDD919FF0}" fieldid="Value" updated="20170306T080424Z">
+    <en>Gap to front of race</en>
+    <fr-FR>Gap to front of race</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/group_modal_popup_next_group" key="group_modal_popup_next_group" itemid="{9FCBA183-C84E-4E1A-97DF-1DF8E58EA5A8}" fieldid="Value" updated="20170306T080501Z">
+    <en>Gap to next group</en>
+    <fr-FR>Gap to next group</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Panel_PanelHeader" key="Group_Panel_PanelHeader" itemid="{3A36642F-A968-4F16-B1E3-7896C6AFD6C5}" fieldid="Value" updated="20160627T053338Z">
+    <en>Current Groups</en>
+    <de-DE>Aktuelle Rennsituation</de-DE>
+    <es-ES>Grupos</es-ES>
+    <fr-FR>Groupes Actuels </fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Peloton" key="Group_Peloton" itemid="{48F48D65-BC55-423F-8A91-0542264240FC}" fieldid="Value" updated="20160623T044441Z">
+    <en>Peloton</en>
+    <de-DE>Peloton</de-DE>
+    <es-ES>Pelotón</es-ES>
+    <fr-FR>Peloton</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Peloton2" key="Group_Peloton2" itemid="{63E9E53C-9772-4C9C-A6AB-1011059F425F}" fieldid="Value" updated="20170306T070408Z">
+    <en>Peloton Group 2</en>
+    <fr-FR>Peloton Groupe Deux</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Poursuivant" key="Group_Poursuivant" itemid="{CD448B1B-6662-47C7-9FEC-4B4980230790}" fieldid="Value" updated="20160630T230810Z">
+    <en>Counter attack</en>
+    <de-DE>Verfolger</de-DE>
+    <es-ES>Perseguidor</es-ES>
+    <fr-FR>Poursuivant</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Poursuivants" key="Group_Poursuivants" itemid="{F8CCC6A6-69F7-47D8-AB8F-3B8025605F06}" fieldid="Value" updated="20160630T035035Z">
+    <en>Counter attack</en>
+    <de-DE>Verfolger</de-DE>
+    <es-ES>Perseguidores</es-ES>
+    <fr-FR>Poursuivants</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/group_riders" key="group_riders" itemid="{6E16E88B-F441-4CCF-B616-2074C53EF2AC}" fieldid="Value" updated="20160709T124503Z">
+    <en>rider(s)</en>
+    <de-DE> Fahrer</de-DE>
+    <es-ES>corredore(s)</es-ES>
+    <fr-FR>coureur(s)</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Straggler" key="Group_Straggler" itemid="{E36AD796-9F66-4EEE-ABC3-66604215DAC8}" fieldid="Value" updated="20160530T230701Z">
+    <en>Straggler</en>
+    <de-DE>Nachzügler</de-DE>
+    <es-ES>Retrasado</es-ES>
+    <fr-FR>Attardé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Straggler_Group" key="Group_Straggler_Group" itemid="{2229F6EB-61DB-4776-92A9-9E6DB111D29F}" fieldid="Value" updated="20160702T122841Z">
+    <en>Straggler</en>
+    <de-DE>Nachzügler</de-DE>
+    <es-ES>Retrasado</es-ES>
+    <fr-FR>Attardé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Stragglers" key="Group_Stragglers" itemid="{CF9F7CAB-2D05-4D1D-8C8F-E7367A3D18B1}" fieldid="Value" updated="20160530T230701Z">
+    <en>Stragglers</en>
+    <de-DE>Nachzügler</de-DE>
+    <es-ES>Retrasados</es-ES>
+    <fr-FR>Attardés</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Stragglers_Group" key="Group_Stragglers_Group" itemid="{0008CA47-D00A-465C-B58A-ED6419232CB4}" fieldid="Value" updated="20160702T115204Z">
+    <en>Stragglers</en>
+    <de-DE>Nachzügler</de-DE>
+    <es-ES>Retrasados</es-ES>
+    <fr-FR>Attardés</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Tete_de_course" key="Group_Tete_de_course" itemid="{56993EBE-9B32-4D55-AA81-87EAE828F128}" fieldid="Value" updated="20160702T121211Z">
+    <en>Front of the race</en>
+    <de-DE>Rennspitze</de-DE>
+    <es-ES>Cabeza de carrera</es-ES>
+    <fr-FR>Tête de course</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Tete_de_la_course" key="Group_Tete_de_la_course" itemid="{36C4F88C-9744-48F6-9C42-27565358AECC}" fieldid="Value" updated="20160630T045736Z">
+    <en>Front of the race</en>
+    <de-DE>Rennspitze</de-DE>
+    <es-ES>Cabeza de carrera</es-ES>
+    <fr-FR>Tête de course</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Tete_de_la_course" key="Group_Tete_de_la_course" itemid="{40607037-7EEE-41CD-9DE6-1F786C5C3343}" fieldid="Value" updated="20160710T052047Z">
+    <en>Front of the race</en>
+    <de-DE>Rennspitze</de-DE>
+    <es-ES>Cabeza de carrera</es-ES>
+    <fr-FR>Tête de course</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_ToFinish" key="Group_ToFinish" itemid="{5280034E-3A0A-493E-A9C7-5675C3495887}" fieldid="Value" updated="20160701T082421Z">
+    <en>to finish</en>
+    <de-DE>zum Ziel</de-DE>
+    <es-ES>de la meta</es-ES>
+    <fr-FR>de l'arrivée</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Group_Tute_de_course" key="Group_Tute_de_course" itemid="{8848FD8A-D64E-4D51-B02E-9A37A59BD651}" fieldid="Value" updated="20160714T110158Z">
+    <en>Front of the race</en>
+    <de-DE>Rennspitze</de-DE>
+    <es-ES>Cabeza de carrera</es-ES>
+    <fr-FR>Tête de course</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/GroupCard_TagAll" key="GroupCard_TagAll" itemid="{9E341A42-F2EB-40F8-9C81-DFCE1E67C4B5}" fieldid="Value" updated="20160701T082520Z">
+    <en>TAG ALL</en>
+    <de-DE>ALLE AUSWÄHLEN</de-DE>
+    <es-ES>SELECCIONAR TODO</es-ES>
+    <fr-FR>TOUT SELECTIONNER</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Header_Stage" key="Header_Stage" itemid="{FBB7B567-24DC-4B78-BBE1-9A7E2A8137ED}" fieldid="Value" updated="20160623T044442Z">
+    <en>Stage</en>
+    <de-DE>Etappe</de-DE>
+    <es-ES>Etapa</es-ES>
+    <fr-FR>Etape</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Headwind" key="Headwind" itemid="{31992B9E-E9E3-4038-80A8-DDFBDD9D1D35}" fieldid="Value" updated="20170220T091928Z">
+    <en>Headwind</en>
+    <fr-FR>Vent de face</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Incline" key="Incline" itemid="{A6AC9BFF-34FB-4616-A159-6E24061D8625}" fieldid="Value" updated="20170223T051703Z">
+    <en>Incline</en>
+    <fr-FR>Incline</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Info_Data_Analytics_Powered_By" key="Info_Data_Analytics_Powered_By" itemid="{429CF476-3A14-4432-AD6F-5D5113C7067C}" fieldid="Value" updated="20160701T082615Z">
+    <en>Data analytics powered by</en>
+    <de-DE>Datenanalyse powered by</de-DE>
+    <es-ES>Análisis de datos facilitado por</es-ES>
+    <fr-FR>Analyse de données alimentée par</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Italy" key="Italy" itemid="{A106A176-1A98-40FA-9059-4A0F08724E42}" fieldid="Value" updated="20160713T022504Z">
+    <en>Italy</en>
+    <de-DE>Italien</de-DE>
+    <es-ES>Italia</es-ES>
+    <fr-FR>Italie</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Japan" key="Japan" itemid="{C2AC4EE9-71F4-4D94-AFEB-EE416DF5021D}" fieldid="Value" updated="20160713T022544Z">
+    <en>Japan</en>
+    <de-DE>Japan</de-DE>
+    <es-ES>Japón</es-ES>
+    <fr-FR>Japon</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Jersey_Holder_Text" key="Jersey_Holder_Text" itemid="{CEC469A8-327A-4E6F-810B-8DD7C417A909}" fieldid="Value" updated="20160826T041411Z">
+    <en>Jersey Wearers</en>
+    <de-DE>Trikotträger</de-DE>
+    <es-ES>Portadores de maillots</es-ES>
+    <fr-FR>Porteurs de maillots</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/jersey_worn_by" key="jersey_worn_by" itemid="{311F8E36-D908-406E-82C6-9EE67CBD76B0}" fieldid="Value" updated="20160816T051642Z">
+    <en>worn by</en>
+    <es-ES>usado por</es-ES>
+    <fr-FR>porté par</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Kazakhstan" key="Kazakhstan" itemid="{755308BF-7726-4B9C-943E-0FE23ECF3E67}" fieldid="Value" updated="20160713T022922Z">
+    <en>Kazakhstan</en>
+    <de-DE>Kasachstan</de-DE>
+    <es-ES>Kazajstán</es-ES>
+    <fr-FR>Kazakhstan</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/KmGap" key="KmGap" itemid="{8911E1A6-51AA-489E-838C-813D5CA78732}" fieldid="Value" updated="20170223T052559Z">
+    <en>km Gap</en>
+    <fr-FR>km gap</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/KmToFinish" key="KmToFinish" itemid="{0E84D7CC-36E5-48CB-8B7E-3F8265301A00}" fieldid="Value" updated="20170221T034716Z">
+    <en>kms to finish</en>
+    <fr-FR>kms de l'Arrivée</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Leaderboard_AverageSpeed" key="Leaderboard_AverageSpeed" itemid="{056501B7-B841-4D4B-99B9-FF978B189D5C}" fieldid="Value" updated="20160623T044442Z">
+    <en>Average speed</en>
+    <de-DE>Durchschnittsgeschwindigkeit</de-DE>
+    <es-ES>Velocidad media</es-ES>
+    <fr-FR>Vitesse moyenne</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Leaderboard_CurrentGradient" key="Leaderboard_CurrentGradient" itemid="{BAB3FCBF-9960-4F97-8B81-CBB7170EA8DF}" fieldid="Value" updated="20160701T082642Z">
+    <en>Current Gradient</en>
+    <de-DE>Momentane Neigung</de-DE>
+    <es-ES>Desnivel</es-ES>
+    <fr-FR>Pente</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Leaderboard_CurrentSpeed" key="Leaderboard_CurrentSpeed" itemid="{F4E990BE-5682-4C38-A477-11980654D69A}" fieldid="Value" updated="20160623T044442Z">
+    <en>Current speed</en>
+    <de-DE>Aktuelle Geschwindigkeit</de-DE>
+    <es-ES>Velocidad actual</es-ES>
+    <fr-FR>Vitesse actuelle</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Leaderboard_DistanceToFinish" key="Leaderboard_DistanceToFinish" itemid="{425AE08B-5221-4737-BEC5-A55E00010EE1}" fieldid="Value" updated="20160623T044442Z">
+    <en>to go</en>
+    <de-DE>Noch zu fahren</de-DE>
+    <es-ES>para la meta</es-ES>
+    <fr-FR>restant à parcourir</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Leaderboard_MaxSpeed" key="Leaderboard_MaxSpeed" itemid="{163DC780-08A9-4044-AAA3-D17AB8165D1A}" fieldid="Value" updated="20160623T044442Z">
+    <en>Max speed</en>
+    <de-DE>Höchstgeschwindigkeit</de-DE>
+    <es-ES>Velocidad máxima</es-ES>
+    <fr-FR>Vitesse maximale</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Leaderboard_TimeSinceStart" key="Leaderboard_TimeSinceStart" itemid="{B9B1A6C2-84B7-4576-B6B6-38294CAACBD5}" fieldid="Value" updated="20160623T044442Z">
+    <en>Riding for</en>
+    <de-DE>Verstrichene Zeit</de-DE>
+    <es-ES>Tiempo transcurrido</es-ES>
+    <fr-FR>Temps écoulé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Leaderboard_Weather" key="Leaderboard_Weather" itemid="{6C25A3B0-47A3-4FC6-9E9E-EC8B7F9225C6}" fieldid="Value" updated="20160715T024647Z">
+    <en>Weather</en>
+    <de-DE>Weather</de-DE>
+    <es-ES>Weather</es-ES>
+    <fr-FR>Température</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Leaderboard_Wind" key="Leaderboard_Wind" itemid="{D25CE6DA-1B01-4FE4-93B5-D8190227DDF8}" fieldid="Value" updated="20160715T024832Z">
+    <en>Wind</en>
+    <de-DE>Wind</de-DE>
+    <es-ES>Wind</es-ES>
+    <fr-FR>Vent</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Left_Cross_Headwind" key="Left_Cross_Headwind" itemid="{FD03B259-4D55-4094-A141-8C909EAB3F01}" fieldid="Value" updated="20170227T032702Z">
+    <en>Cross headwind from left</en>
+    <fr-FR>Cross headwind from left</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Left_Cross_Tailwind" key="Left_Cross_Tailwind" itemid="{D9D7DF24-7D1B-4DA8-9922-D3FBDB8041FF}" fieldid="Value" updated="20170227T032759Z">
+    <en>Cross tailwind from left</en>
+    <fr-FR>Cross tailwind from left</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Left_Crosswind" key="Left_Crosswind" itemid="{06549887-97C1-405B-9495-865A528D2953}" fieldid="Value" updated="20170227T032903Z">
+    <en>Crosswind from left</en>
+    <fr-FR>Vent de travers venant de gauche</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Less" key="Less" itemid="{69CC71F1-F535-4625-97A1-E881EF47604B}" fieldid="Value" updated="20160708T072341Z">
+    <en>Less</en>
+    <de-DE>Weniger anzeigen</de-DE>
+    <es-ES>Less</es-ES>
+    <fr-FR>Moins</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Link_RiderProfile" key="Link_RiderProfile" itemid="{30DFDA85-73CB-45CF-AD37-290AAA95F680}" fieldid="Value" updated="20160701T082912Z">
+    <en>http://www.letour.fr/le-tour/2016/us/riders/</en>
+    <de-DE>http://www.letour.fr/le-tour/2016/de/riders/</de-DE>
+    <es-ES>http://www.letour.fr/le-tour/2015/es/coureurs/</es-ES>
+    <fr-FR>http://www.letour.fr/le-tour/2016/fr/coureurs/</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Lithuania" key="Lithuania" itemid="{33FB64BC-0A0B-4ADB-A477-C548E61DA9FE}" fieldid="Value" updated="20160713T023110Z">
+    <en>Lithuania</en>
+    <de-DE>Litauen</de-DE>
+    <es-ES>Lituania</es-ES>
+    <fr-FR>Lituanie</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Loading_Text" key="Loading_Text" itemid="{B2B06543-2828-4C63-A356-FDA22D81E7F9}" fieldid="Value" updated="20170213T052537Z">
+    <en>Loading</en>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/local_April" key="local_April" itemid="{3038D6A2-B8FD-45DA-99EB-550E30BA89F2}" fieldid="Value" updated="20160701T103107Z">
+    <en>April</en>
+    <de-DE>April</de-DE>
+    <es-ES>Abril</es-ES>
+    <fr-FR>Avril</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/local_August" key="local_August" itemid="{FB201722-06D0-4BCD-B86B-8916280072A7}" fieldid="Value" updated="20160701T103115Z">
+    <en>August</en>
+    <de-DE>August</de-DE>
+    <es-ES>Agosto</es-ES>
+    <fr-FR>Aout</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/local_Dec" key="local_Dec" itemid="{7EBFC2CB-7302-4530-A074-6C886B35D5C8}" fieldid="Value" updated="20160701T103210Z">
+    <en>December</en>
+    <de-DE>Dezember</de-DE>
+    <es-ES>Diciembre</es-ES>
+    <fr-FR>Décembre</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/local_Feb" key="local_Feb" itemid="{837838DB-0333-40B8-BECE-F36EE539F9AA}" fieldid="Value" updated="20160701T103216Z">
+    <en>February</en>
+    <de-DE>Februar</de-DE>
+    <es-ES>Febrero</es-ES>
+    <fr-FR>Février</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/local_Jan" key="local_Jan" itemid="{54B817AF-7C1B-4B31-B2CF-3EE06FB037C3}" fieldid="Value" updated="20160701T103250Z">
+    <en>January</en>
+    <de-DE>Januar</de-DE>
+    <es-ES>Enero</es-ES>
+    <fr-FR>Janvier</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/local_July" key="local_July" itemid="{154B4A04-03E7-460E-8F42-B8634FCAA452}" fieldid="Value" updated="20160701T103259Z">
+    <en>July</en>
+    <de-DE>Juli</de-DE>
+    <es-ES>Julio</es-ES>
+    <fr-FR>Juillet</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/local_June" key="local_June" itemid="{B1C8D6A0-79E8-4609-B33C-725EA5E36D6C}" fieldid="Value" updated="20160701T103324Z">
+    <en>June</en>
+    <de-DE>Juni</de-DE>
+    <es-ES>Junio</es-ES>
+    <fr-FR>Juin</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/local_March" key="local_March" itemid="{C4F8D014-CD43-4463-BFF6-55F684BB3131}" fieldid="Value" updated="20160701T103332Z">
+    <en>March</en>
+    <de-DE>März</de-DE>
+    <es-ES>Marzo</es-ES>
+    <fr-FR>Mars</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/local_May" key="local_May" itemid="{FEAC14B8-7196-44CA-9609-059430A2A29C}" fieldid="Value" updated="20160701T103354Z">
+    <en>May</en>
+    <de-DE>Mai</de-DE>
+    <es-ES>Mayo</es-ES>
+    <fr-FR>Mai</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/local_Nov" key="local_Nov" itemid="{36C27E74-73A1-415C-8740-F03D20663347}" fieldid="Value" updated="20160701T103401Z">
+    <en>November</en>
+    <de-DE>November</de-DE>
+    <es-ES>Noviembre</es-ES>
+    <fr-FR>Novembre</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/local_Oct" key="local_Oct" itemid="{311E224E-A718-4DD3-A38B-18D8A8976361}" fieldid="Value" updated="20160701T103423Z">
+    <en>October</en>
+    <de-DE>Oktober</de-DE>
+    <es-ES>Octubre</es-ES>
+    <fr-FR>Octobre</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/local_Sept" key="local_Sept" itemid="{8982C5AE-0AC9-4C82-A19A-289B8CAE4D7E}" fieldid="Value" updated="20160701T103430Z">
+    <en>September</en>
+    <de-DE>September</de-DE>
+    <es-ES>Septiembre</es-ES>
+    <fr-FR>Septembre</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Luxembourg" key="Luxembourg" itemid="{5D57A57B-FBAB-43B7-8071-E0A1FE19CE5E}" fieldid="Value" updated="20160713T023310Z">
+    <en>Luxembourg</en>
+    <de-DE>Luxemburg</de-DE>
+    <es-ES>Luxemburgo</es-ES>
+    <fr-FR>Luxembourg</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Map_Analytics_Text" key="Map_Analytics_Text" itemid="{134D6F08-D844-466D-89DF-D7E6568CB83B}" fieldid="Value" updated="20160713T022616Z">
+    <en>Data analytics powered by Dimension Data</en>
+    <de-DE>Datenanalyse von Dimension Data</de-DE>
+    <es-ES>Data analytics powered by Dimension Data</es-ES>
+    <fr-FR>Analyse de données fournie par Dimension Data</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Map_Stage" key="Map_Stage" itemid="{49DEB903-C3B2-4E93-AA50-776EAC85CB0F}" fieldid="Value" updated="20160701T080828Z">
+    <en>Stage</en>
+    <de-DE>Etappe</de-DE>
+    <es-ES>Etapa</es-ES>
+    <fr-FR>Etape</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Map_Winner" key="Map_Winner" itemid="{FBF3F46D-F050-4CE8-AC07-95A006F91EE5}" fieldid="Value" updated="20160702T074200Z">
+    <en>Winner</en>
+    <de-DE>Sieger</de-DE>
+    <es-ES>Vencedor</es-ES>
+    <fr-FR>Gagnant</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Menu_DataZone" key="Menu_DataZone" itemid="{F563D7FC-2D44-4446-B6E9-A1FDF662C576}" fieldid="Value" updated="20160623T044443Z">
+    <en>Data zone</en>
+    <de-DE>Datazone</de-DE>
+    <es-ES>Data Zone</es-ES>
+    <fr-FR>Data zone</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Menu_Map" key="Menu_Map" itemid="{83C9E334-930C-4FDB-9D9A-0AECC0D75CC1}" fieldid="Value" updated="20160623T044443Z">
+    <en>Map</en>
+    <de-DE>Landkarte</de-DE>
+    <es-ES>Mapa</es-ES>
+    <fr-FR>Carte</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Menu_Twitter" key="Menu_Twitter" itemid="{2F064933-0552-4D82-99B9-C30ECBBF0CC1}" fieldid="Value" updated="20160623T044444Z">
+    <en>Twitter</en>
+    <de-DE>Twitter</de-DE>
+    <es-ES>Twitter</es-ES>
+    <fr-FR>Twitter</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/More" key="More" itemid="{9352C490-8AEA-4491-B79A-A2832B3E11BD}" fieldid="Value" updated="20160708T072244Z">
+    <en>More</en>
+    <de-DE>Mehr anzeigen</de-DE>
+    <es-ES>Mas</es-ES>
+    <fr-FR>Plus</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Nationalities_Text" key="Nationalities_Text" itemid="{1561C92B-D371-4B52-B8C2-261FF2578845}" fieldid="Value" updated="20160702T101002Z">
+    <en>Nationalities</en>
+    <de-DE>Nationalitäten</de-DE>
+    <es-ES>Nacionalidades</es-ES>
+    <fr-FR>Nationalités</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Netherlands" key="Netherlands" itemid="{CD3AEC39-7B6E-4930-B0A6-0716EBFB8B79}" fieldid="Value" updated="20160713T023456Z">
+    <en>Netherlands</en>
+    <de-DE>Niederlande</de-DE>
+    <es-ES>Países Bajos</es-ES>
+    <fr-FR>Pays-Bas</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/New_Zealand" key="New_Zealand" itemid="{3926FF12-43B1-4EAC-8667-9110DF01624E}" fieldid="Value" updated="20160713T024034Z">
+    <en>New Zealand</en>
+    <de-DE>Neuseeland</de-DE>
+    <es-ES>Nueva Zelanda</es-ES>
+    <fr-FR>nouvelle Zélande</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/No_Favourites_Selected" key="No_Favourites_Selected" itemid="{3C10AB8E-7E6B-456E-A9F2-46C0DDD1EFCE}" fieldid="Value" updated="20160623T044444Z">
+    <en>No Favourites selected</en>
+    <de-DE>Keine Favoriten ausgewählt</de-DE>
+    <es-ES>Ningún favorito seleccionado</es-ES>
+    <fr-FR>Aucun favoris sélectionné</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/No_Results_Found" key="No_Results_Found" itemid="{AABC1123-FCE9-4989-9388-B9F99FBD97AF}" fieldid="Value" updated="20160711T064344Z">
+    <en>No result found</en>
+    <de-DE>No result found</de-DE>
+    <es-ES>Sin resultados</es-ES>
+    <fr-FR>Pas de résultat trouvé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/NoDataAvailable_Text" key="NoDataAvailable_Text" itemid="{E5FCF2DC-5566-4D7D-8D5C-CCE12015873F}" fieldid="Value" updated="20160709T020944Z">
+    <en>No Data Available</en>
+    <de-DE>Keine Daten verfügbar</de-DE>
+    <es-ES>No Data Available</es-ES>
+    <fr-FR>Information non disponible</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Norway" key="Norway" itemid="{565B9ED6-03C5-437A-9306-26CED1568EDD}" fieldid="Value" updated="20160713T024302Z">
+    <en>Norway</en>
+    <de-DE>Norwegen</de-DE>
+    <es-ES>Noruega</es-ES>
+    <fr-FR>Norvège</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/OverallClassification" key="OverallClassification" itemid="{1FF31FB6-706A-4A4E-AF9B-91461600254E}" fieldid="Value" updated="20170221T035102Z">
+    <en>Overall Classification</en>
+    <fr-FR>Classement Général</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Page_Coming_Soon" key="Page_Coming_Soon" itemid="{BE0318FF-4C41-45D3-9978-43A27ED0A59A}" fieldid="Value" updated="20160708T072644Z">
+    <en>Page coming soon</en>
+    <de-DE>Seite erscheint in Kürze</de-DE>
+    <fr-FR>Bientôt disponible</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Page_Title" key="Page_Title" itemid="{1A5BEF89-2B81-4EED-A7FC-F9B383CB483B}" fieldid="Value" updated="20170307T053050Z">
+    <en>Paris Nice</en>
+    <de-DE>Live-Tracking</de-DE>
+    <es-ES>Live Tracking</es-ES>
+    <fr-FR>Paris Nice - Suivre la course en direct</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Partly_Cloudy" key="Partly_Cloudy" itemid="{43C5E2AA-52E4-42FF-8FAD-C1A9BBD3AE14}" fieldid="Value" updated="20170220T091121Z">
+    <en>Partly Cloudy</en>
+    <fr-FR>soleil + Nuage</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Poland" key="Poland" itemid="{D1941369-6238-441E-96AF-52647032C6F3}" fieldid="Value" updated="20160713T024506Z">
+    <en>Poland</en>
+    <de-DE>Polen</de-DE>
+    <es-ES>Polonia</es-ES>
+    <fr-FR>Pologne</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Portugal" key="Portugal" itemid="{569D1ADA-D10D-48D3-9F03-CF11164449C3}" fieldid="Value" updated="20160713T024535Z">
+    <en>Portugal</en>
+    <de-DE>Portugal</de-DE>
+    <es-ES>Portugal</es-ES>
+    <fr-FR>le Portugal</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/powered_by" key="powered_by" itemid="{27F85D0C-683A-4BD8-A466-9069E8E4C2BC}" fieldid="Value" updated="20160712T033314Z">
+    <en>Powered by</en>
+    <de-DE>Powered by</de-DE>
+    <es-ES>Powered by</es-ES>
+    <fr-FR>Fourni par</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Rain" key="Rain" itemid="{B56835CB-B7F6-4C75-A33A-30DD8438921E}" fieldid="Value" updated="20170220T091152Z">
+    <en>Rain</en>
+    <fr-FR>Pluie fine</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Really_Cloudy" key="Really_Cloudy" itemid="{B8E7E5BA-AE0E-4C18-8216-F532D6A481FD}" fieldid="Value" updated="20170220T091024Z">
+    <en>Really Cloudy</en>
+    <fr-FR>Tres Nuageux</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Result_List_Angle" key="Result_List_Angle" itemid="{4DAF3338-C0E5-4B4B-8346-455F915C77BA}" fieldid="Value" updated="20160623T044444Z">
+    <en>Angle</en>
+    <de-DE>Steigung</de-DE>
+    <es-ES>Ángulo</es-ES>
+    <fr-FR>Angle</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Result_List_Category" key="Result_List_Category" itemid="{90242665-60FE-42AB-8A71-6E710A0B66D0}" fieldid="Value" updated="20160623T044444Z">
+    <en>Category</en>
+    <de-DE>Kategorie</de-DE>
+    <es-ES>Categoría</es-ES>
+    <fr-FR>Catégorie</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Result_List_Lenght_Of_Stage" key="Result_List_Lenght_Of_Stage" itemid="{84433A28-D78E-4C27-AC95-B4CF36BED248}" fieldid="Value" updated="20160623T044444Z">
+    <en>Length of stage</en>
+    <de-DE>Länge des Anstiegs</de-DE>
+    <es-ES>Longitud de la etapa</es-ES>
+    <fr-FR>Longueur de l'étape</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Result_List_Meters_Above_Sea_Level" key="Result_List_Meters_Above_Sea_Level" itemid="{6C51193C-CD6F-4627-884F-6DCB8BEC72C1}" fieldid="Value" updated="20160623T044444Z">
+    <en>Metres above sea level</en>
+    <de-DE>Meter über dem Meeresspiegel</de-DE>
+    <es-ES>Metros sobre el nivel del mar</es-ES>
+    <fr-FR>Mètres au dessus du niveau de la mer</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Result_List_Results" key="Result_List_Results" itemid="{2FEC8E70-FCAA-4A4C-B794-07D67A9D71A0}" fieldid="Value" updated="20160623T044445Z">
+    <en>Results</en>
+    <de-DE>Resultate</de-DE>
+    <es-ES>Resultados</es-ES>
+    <fr-FR>Résultats</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Rider_BestPerformance_Career" key="Rider_BestPerformance_Career" itemid="{D6898255-30BB-4180-90BB-BD7D1AED6983}" fieldid="Value" updated="20160701T084116Z">
+    <en>Best performances in career</en>
+    <de-DE>Karriere-Highlights</de-DE>
+    <es-ES>Mejor resultado en su carrera</es-ES>
+    <fr-FR>Meilleures performances au cours de la carrière</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Rider_BestPerformance_Tour" key="Rider_BestPerformance_Tour" itemid="{DFE63CCF-83AC-4B19-BB69-CF786467D292}" fieldid="Value" updated="20160706T140554Z">
+    <en>Best performance on the Tour</en>
+    <de-DE>Teilnahmen bei der Tour</de-DE>
+    <es-ES>Mejor resultado en el Tour</es-ES>
+    <fr-FR>Meilleur résultat sur le Tour</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Rider_CurrentRanking_Tour" key="Rider_CurrentRanking_Tour" itemid="{41A8298E-0E9C-4E2F-A939-6B666BCD5902}" fieldid="Value" updated="20160701T084313Z">
+    <en>Current ranking on the Tour</en>
+    <de-DE>Aktuelle Platzierung</de-DE>
+    <es-ES>Clasificación actual en el Tour</es-ES>
+    <fr-FR>Classement actuel sur le Tour</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Rider_WithdrawlReason" key="Rider_WithdrawlReason" itemid="{745DBB25-32D0-46B1-BE7C-A6CB0056FE9C}" fieldid="Value" updated="20160710T130932Z">
+    <en>Withdrawal Reason</en>
+    <de-DE>Grund für Aufgabe</de-DE>
+    <es-ES>Causa del abandono</es-ES>
+    <fr-FR>Raisons pour abandon</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_AboveSeaLevel" key="RiderCard_AboveSeaLevel" itemid="{26EB9162-2FFD-49D3-85F6-3CFF714E57D2}" fieldid="Value" updated="20160701T084727Z">
+    <en>Above sea level</en>
+    <de-DE>Meter über dem Meeresspiegel</de-DE>
+    <es-ES>Altitud</es-ES>
+    <fr-FR>Altitude au dessus du niveau de la mer</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_AddFav" key="RiderCard_AddFav" itemid="{0E28F3B7-B2BE-494E-A64A-56C7655BA6A1}" fieldid="Value" updated="20160703T133325Z">
+    <en>Add to favourites</en>
+    <de-DE>Zu Favoriten hinzufügen</de-DE>
+    <es-ES>Agregar a los favoritos</es-ES>
+    <fr-FR>Ajouter aux favoris</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Angle" key="RiderCard_Angle" itemid="{2018C8E7-AD40-4CEB-9F11-D3BB1F725305}" fieldid="Value" updated="20160709T073913Z">
+    <en>Gradient</en>
+    <de-DE>Steigung</de-DE>
+    <es-ES>Ángulo</es-ES>
+    <fr-FR>Angle</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Avg_Speed" key="RiderCard_Avg_Speed" itemid="{FC396CC6-4147-4BBB-BF54-43EE0B9D51C9}" fieldid="Value" updated="20160623T044445Z">
+    <en>Avg Speed</en>
+    <de-DE>Durchschnittsgeschwindigkeit</de-DE>
+    <es-ES>Velocidad media</es-ES>
+    <fr-FR>Vitesse moyenne</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Behind_Front_Of_Race" key="RiderCard_Behind_Front_Of_Race" itemid="{B443C689-D640-481C-86D4-6B16191BBB7D}" fieldid="Value" updated="20160623T044445Z">
+    <en>Behind front of race</en>
+    <de-DE>Hinter der Rennspitze </de-DE>
+    <es-ES>Distancia con la cabeza de carrera</es-ES>
+    <fr-FR>Ecart avec la tête de course</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Behind_Yellow_On_Stage" key="RiderCard_Behind_Yellow_On_Stage" itemid="{AA3917F3-7EF0-4D16-8E8B-730186EBA296}" fieldid="Value" updated="20160623T044445Z">
+    <en>Behind yellow on stage</en>
+    <de-DE>Abstand zu Gelb</de-DE>
+    <es-ES>Distancia con el maillot amarillo</es-ES>
+    <fr-FR>Ecart avec le Maillot Jaune</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Best_Performances_in_Career" key="RiderCard_Best_Performances_in_Career" itemid="{85979C9D-E777-45AA-BBAA-06373D2BCE74}" fieldid="Value" updated="20160701T085132Z">
+    <en>Best Performances in Career</en>
+    <de-DE>Karriere-Highlights</de-DE>
+    <es-ES>Mejores resultados en su carrera</es-ES>
+    <fr-FR>Meilleures performances au cours de la carrière</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Best_Performances_on_Tour" key="RiderCard_Best_Performances_on_Tour" itemid="{7799BF37-2978-49F2-A41D-D60F4B7794D4}" fieldid="Value" updated="20160701T085139Z">
+    <en> Best Performances on Tour</en>
+    <de-DE>Tour-Highlights</de-DE>
+    <es-ES>Mejores resultados en el Tour</es-ES>
+    <fr-FR>Meilleures performances sur le Tour</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Category" key="RiderCard_Category" itemid="{EB9BA7A4-BF33-4DCC-AB22-69401837CFE9}" fieldid="Value" updated="20160701T085253Z">
+    <en>Category</en>
+    <de-DE>Kategorie</de-DE>
+    <es-ES>Categoría</es-ES>
+    <fr-FR>Categorie</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Current_Ranking_on_Tour" key="RiderCard_Current_Ranking_on_Tour" itemid="{365638E3-6A5A-49D2-BD8A-CD58F8828A50}" fieldid="Value" updated="20160701T085024Z">
+    <en>GC Ranking</en>
+    <de-DE>Aktuelle Platzierung</de-DE>
+    <es-ES>Clasificación actual en el Tour</es-ES>
+    <fr-FR>Classement actuel sur le Tour</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Current_Speed" key="RiderCard_Current_Speed" itemid="{17F30EF5-DEB4-4A4D-BC1D-2174FE8E746A}" fieldid="Value" updated="20160629T063757Z">
+    <en>Current Speed</en>
+    <de-DE>Momentane Geschwindigkeit</de-DE>
+    <es-ES>Velocidad actual</es-ES>
+    <fr-FR>Vitesse actuelle</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_CurrentGapToLead" key="RiderCard_CurrentGapToLead" itemid="{1AADD02A-8F1A-4E9A-9D92-8BA9F67B18C9}" fieldid="Value" updated="20160711T072711Z">
+    <en>Current Gap to Lead</en>
+    <de-DE>Current Gap to Lead</de-DE>
+    <es-ES>Current Gap to Lead</es-ES>
+    <fr-FR>Ecart avec le coureur de tête</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_General_Classification" key="RiderCard_General_Classification" itemid="{FD7295F9-27C0-4333-B342-B8606434BAC8}" fieldid="Value" updated="20160623T044445Z">
+    <en>General Classification</en>
+    <de-DE>Gesamtklassement</de-DE>
+    <es-ES>Clasificación general</es-ES>
+    <fr-FR>Classement Général</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_General_Classification_Acronym" key="RiderCard_General_Classification_Acronym" itemid="{CA7B7E9E-5A42-4C3B-A8D4-65EC0DAE4C55}" fieldid="Value" updated="20160623T044445Z">
+    <en>GC</en>
+    <de-DE>GK</de-DE>
+    <es-ES>CG</es-ES>
+    <fr-FR>CG</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Header" key="RiderCard_Header" itemid="{9ECDD30E-41A3-41B7-9579-635C60EC1306}" fieldid="Value" updated="20160629T063730Z">
+    <en>Rider Profile</en>
+    <de-DE>Fahrerprofil</de-DE>
+    <es-ES>Perfil del corredor</es-ES>
+    <fr-FR>Profil du coureur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_LengthStage" key="RiderCard_LengthStage" itemid="{15ACE21D-C055-464C-9A67-A847BEECA61F}" fieldid="Value" updated="20160705T073310Z">
+    <en>Length of the climb</en>
+    <de-DE>Länge des Anstiegs</de-DE>
+    <es-ES>Distancia de la etapa</es-ES>
+    <fr-FR>Longueur de la montée</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Max_Speed" key="RiderCard_Max_Speed" itemid="{178B276D-48FC-4E29-A2BE-059EF6C872D4}" fieldid="Value" updated="20160623T044445Z">
+    <en>Max Speed</en>
+    <de-DE>Höchstgeschwindigkeit</de-DE>
+    <es-ES>Velocidad máxima</es-ES>
+    <fr-FR>Vitesse maximale</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Mountain_Classification" key="RiderCard_Mountain_Classification" itemid="{59B826DC-23F0-4295-A61C-3C5965321074}" fieldid="Value" updated="20160623T044445Z">
+    <en>Mountain Classification</en>
+    <de-DE>Bergklassement</de-DE>
+    <es-ES>Clasificación de la montaña</es-ES>
+    <fr-FR>Classement meilleur grimpeur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_No_Live_Data_Message" key="RiderCard_No_Live_Data_Message" itemid="{00BF875D-DEBC-4B12-A7AB-42824C615D00}" fieldid="Value" updated="20160623T044445Z">
+    <en>We are currently not receiving live data for this rider.</en>
+    <de-DE>Wir erhalten derzeit keine Live-Daten zu diesem Fahrer</de-DE>
+    <es-ES>En estos momentos, no estamos recibiendo datos sobre este corredor.</es-ES>
+    <fr-FR>Nous ne recevons pas de donnée pour ce coureur actuellement.</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_OverallClassification" key="RiderCard_OverallClassification" itemid="{A61D99F5-026C-4241-BB28-9EF0E33D13C0}" fieldid="Value" updated="20170228T002734Z">
+    <en>Overall classification</en>
+    <fr-FR>Overall classification</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_OverallClassification" key="RiderCard_OverallClassification" itemid="{F5C7E3D4-0928-405C-A9CF-A27B5E0A4D3C}" fieldid="Value" updated="20170228T001455Z">
+    <en>General Classification Time</en>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_RaceTime" key="RiderCard_RaceTime" itemid="{E4567789-423E-4E36-931D-42DB48372ECA}" fieldid="Value" updated="20160711T072334Z">
+    <en>Race Time</en>
+    <de-DE>Race Time</de-DE>
+    <es-ES>Race Time</es-ES>
+    <fr-FR>Temps de course</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_RemoveFav" key="RiderCard_RemoveFav" itemid="{0AF1E5A5-0F14-49EF-87B4-172CB58DF8DA}" fieldid="Value" updated="20160703T133311Z">
+    <en>Remove from favourites</en>
+    <de-DE>Von Favoriten entfernen</de-DE>
+    <es-ES>Quitar de los favoritos</es-ES>
+    <fr-FR>Supprimer les favoris</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Results" key="RiderCard_Results" itemid="{DD8D2DE7-B55D-4600-92E9-8D1F81F2E5A1}" fieldid="Value" updated="20160704T090229Z">
+    <en>Results</en>
+    <de-DE>Resultate</de-DE>
+    <es-ES>Resultados</es-ES>
+    <fr-FR>Résultats</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Sprint_Classification" key="RiderCard_Sprint_Classification" itemid="{D92CCE3B-5269-4F0A-8758-0D633DAC203E}" fieldid="Value" updated="20160623T044445Z">
+    <en>Sprint Classification</en>
+    <de-DE>Sprintklassement</de-DE>
+    <es-ES>Clasificación al esprint</es-ES>
+    <fr-FR>Classement au Sprint</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_View_Full_Profile" key="RiderCard_View_Full_Profile" itemid="{14BF25E2-4A1C-4AE7-B5E1-5A4A4622D956}" fieldid="Value" updated="20160623T044445Z">
+    <en>View full profile</en>
+    <de-DE>Zum Fahrerprofil</de-DE>
+    <es-ES>Perfil completo</es-ES>
+    <fr-FR>Profil complet</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderCard_Young_Riders" key="RiderCard_Young_Riders" itemid="{7331ACF4-C1C1-407F-88F0-EA7D0FFF814B}" fieldid="Value" updated="20160623T044445Z">
+    <en>Young Riders</en>
+    <de-DE>Beste Jungprofis</de-DE>
+    <es-ES>Clasificación jóvenes</es-ES>
+    <fr-FR>Classement jeunes coureurs</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderFilter_AllRiderCategory_Text" key="RiderFilter_AllRiderCategory_Text" itemid="{78B26DB5-2077-433B-B701-830BEB8A5C5A}" fieldid="Value" updated="20160628T031717Z">
+    <en>All Riders</en>
+    <de-DE>Alle Fahrer</de-DE>
+    <es-ES>Todos los corredores</es-ES>
+    <fr-FR>Tous les coureurs</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderFilter_FavouriteTab_Text" key="RiderFilter_FavouriteTab_Text" itemid="{9E6FDA03-4F08-48E2-9A1C-625A4D65E6CC}" fieldid="Value" updated="20160628T031537Z">
+    <en>Favourites</en>
+    <de-DE>Favoriten</de-DE>
+    <es-ES>Favoritos</es-ES>
+    <fr-FR>Favoris</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderFilter_NationalityCategory_Text" key="RiderFilter_NationalityCategory_Text" itemid="{C96B86E7-7E36-4ADD-9034-7723EF167985}" fieldid="Value" updated="20160628T031745Z">
+    <en>Nationality</en>
+    <de-DE>Nationalität</de-DE>
+    <es-ES>Nacionalidad</es-ES>
+    <fr-FR>Nationalité</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderFilter_SearchBox_PlaceHolder" key="RiderFilter_SearchBox_PlaceHolder" itemid="{E06A61AD-25A8-4FB6-90DF-74E9A30F2680}" fieldid="Value" updated="20160701T091938Z">
+    <en>Rider Name or Bib number</en>
+    <de-DE>Fahrername/ Startnummer eingeben</de-DE>
+    <es-ES>Nombre o número del corredor</es-ES>
+    <fr-FR>Nom ou le numero du coureur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderFilter_SearchTab_Text" key="RiderFilter_SearchTab_Text" itemid="{CE647A01-2240-4FF2-9E96-6A5763141BE3}" fieldid="Value" updated="20160628T031201Z">
+    <en>Search</en>
+    <de-DE>Suche</de-DE>
+    <es-ES>Buscar</es-ES>
+    <fr-FR>Chercher</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderFilter_TeamsCategory_Text" key="RiderFilter_TeamsCategory_Text" itemid="{BAD7558C-30E9-4A14-8643-35B6C5D1FD7A}" fieldid="Value" updated="20160628T031853Z">
+    <en>Teams</en>
+    <de-DE>Teams</de-DE>
+    <es-ES>Equipos</es-ES>
+    <fr-FR>Équipes</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderFilter_TimeTrialTab_Text" key="RiderFilter_TimeTrialTab_Text" itemid="{08B6D089-6C60-464B-915B-DE4AA44A2244}" fieldid="Value" updated="20160713T111825Z">
+    <en>Time Trial</en>
+    <fr-FR>CLM</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RiderFilter_Top5Category_Text" key="RiderFilter_Top5Category_Text" itemid="{7965C69A-7698-49B0-9845-143D0896A049}" fieldid="Value" updated="20160628T031931Z">
+    <en>Top 5</en>
+    <de-DE>Top 5</de-DE>
+    <es-ES>Top 5</es-ES>
+    <fr-FR>Top cinq</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Riders" key="Riders" itemid="{C887684E-32B6-47F6-B42D-0EEA98512EB7}" fieldid="Value" updated="20170223T052458Z">
+    <en>Riders</en>
+    <fr-FR>Riders</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/RidersGap" key="RidersGap" itemid="{4EB74ED1-D51F-4E44-88EF-2D3D82270FD8}" fieldid="Value" updated="20170224T015429Z">
+    <en>Rider(s) - Gap to</en>
+    <fr-FR>Rider(s) - Gap to</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Right_Cross_Headwind" key="Right_Cross_Headwind" itemid="{910BCC6B-19D0-41D4-99F5-677F03307886}" fieldid="Value" updated="20170227T032720Z">
+    <en>Cross headwind from right</en>
+    <fr-FR>Cross Headwind from right</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Right_Cross_Tailwind" key="Right_Cross_Tailwind" itemid="{C1214BED-FFCC-4114-B1CC-D6E190E938BE}" fieldid="Value" updated="20170227T032812Z">
+    <en>Cross tailwind from right</en>
+    <fr-FR>Cross tailwind from right</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Right_Crosswind" key="Right_Crosswind" itemid="{344B4B3A-0112-4D73-911B-9BA6DBA3A0CE}" fieldid="Value" updated="20170227T032932Z">
+    <en>Crosswind from right</en>
+    <fr-FR>Vent de travers venant de droite</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Russian_Federation" key="Russian_Federation" itemid="{224D38C3-3581-4DC0-B805-085F81550886}" fieldid="Value" updated="20160713T024854Z">
+    <en>Russian Federation</en>
+    <de-DE>Russland</de-DE>
+    <es-ES>Federación Rusa</es-ES>
+    <fr-FR>Fédération Russe</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/schedule_btn_average" key="schedule_btn_average" itemid="{1F6690C2-CF2B-4D80-95A7-850D7E09A326}" fieldid="Value" updated="20160701T092253Z">
+    <en>AVERAGE</en>
+    <de-DE>Mittel</de-DE>
+    <es-ES>Velocidad media</es-ES>
+    <fr-FR>VITESSE MOYENNE</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/schedule_btn_faster" key="schedule_btn_faster" itemid="{320C1073-C4F0-433E-8C62-7FE8DA52EB18}" fieldid="Value" updated="20160701T092328Z">
+    <en>FASTER</en>
+    <de-DE>Schneller</de-DE>
+    <es-ES>Más rápido</es-ES>
+    <fr-FR>PLUS VITE</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/schedule_btn_slower" key="schedule_btn_slower" itemid="{E5D40AE7-2361-4168-A694-B5E3B1E182B3}" fieldid="Value" updated="20160701T092339Z">
+    <en>SLOWER</en>
+    <de-DE>Langsamer</de-DE>
+    <es-ES>Más lento</es-ES>
+    <fr-FR>PLUS LENTEMENT</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/schedule_ETA" key="schedule_ETA" itemid="{B0F09B7A-04B1-48AE-BE5B-60BA9AB40EC1}" fieldid="Value" updated="20160718T025741Z">
+    <en>ETA</en>
+    <de-DE>ETA</de-DE>
+    <es-ES>ETA</es-ES>
+    <fr-FR>Arrivée estimée</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/schedule_EtaAtAverage" key="schedule_EtaAtAverage" itemid="{F3B0EE2C-1360-4DB2-A741-6FFD58D781A7}" fieldid="Value" updated="20160701T092404Z">
+    <en>ETA at Average</en>
+    <de-DE>Voraussichtliche Ankunftszeit (mittel)</de-DE>
+    <es-ES>Llegada prevista - Progresión media</es-ES>
+    <fr-FR>Arrivée prévue - progression moyenne</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/schedule_EtaAtFaster" key="schedule_EtaAtFaster" itemid="{30D41A87-8163-4F0C-B9AF-BB1E2A7ADC52}" fieldid="Value" updated="20160701T092750Z">
+    <en>ETA at Faster</en>
+    <de-DE>Voraussichtliche Ankunftszeit (schnell)</de-DE>
+    <es-ES>Llegada prevista - Progresión rápida</es-ES>
+    <fr-FR>Arrivée prévue - progression rapide</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/schedule_EtaAtSlower" key="schedule_EtaAtSlower" itemid="{1A98515B-E70F-4ED5-8EF4-11BBA15BC675}" fieldid="Value" updated="20160629T065217Z">
+    <en>ETA at Slower en</en>
+    <de-DE>Voraussichtliche Ankunftszeit (langsam)</de-DE>
+    <es-ES>Llegada prevista - Profresión lenta</es-ES>
+    <fr-FR>Arrivée prévue - progression lente</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/schedule_iternary" key="schedule_iternary" itemid="{276D0273-12B7-4017-B407-F81D0D349687}" fieldid="Value" updated="20160701T092920Z">
+    <en>Itinerary</en>
+    <de-DE>Routenplan</de-DE>
+    <es-ES>Itinerario</es-ES>
+    <fr-FR>Itinéraire</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/schedule_StillToTravel" key="schedule_StillToTravel" itemid="{0E7593DE-F117-4713-8125-EC7AC4FC53DF}" fieldid="Value" updated="20160701T093031Z">
+    <en>Still to travel</en>
+    <de-DE>Noch zu fahren</de-DE>
+    <es-ES>Por recorrer</es-ES>
+    <fr-FR>A parcourir</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/schedule_travelled" key="schedule_travelled" itemid="{EC9E9DF6-88DC-41EB-88A6-148B38E1A05B}" fieldid="Value" updated="20160701T093407Z">
+    <en>Travelled</en>
+    <de-DE>Gefahren</de-DE>
+    <es-ES>Recorrido</es-ES>
+    <fr-FR>Parcouru</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/See_Full_Rankings" key="See_Full_Rankings" itemid="{DE2E9D62-4E07-4610-A7F2-FDC1B54B9F50}" fieldid="Value" updated="20160720T081456Z">
+    <en>See full rankings</en>
+    <de-DE>Zur ausführlichen Rangliste</de-DE>
+    <es-ES>Ver las clasificaciones completas</es-ES>
+    <fr-FR>Voir les classements complets</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Slovakia" key="Slovakia" itemid="{EC4CE402-4D82-4757-AB66-4AD189D22559}" fieldid="Value" updated="20160713T024927Z">
+    <en>Slovakia</en>
+    <de-DE>Slowakei</de-DE>
+    <es-ES>Eslovaquia</es-ES>
+    <fr-FR>Slovaquie</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Slovenia" key="Slovenia" itemid="{E8C28424-9F1E-4A0A-93B4-1C350238842C}" fieldid="Value" updated="20160713T025144Z">
+    <en>Slovenia</en>
+    <de-DE>Slowenien</de-DE>
+    <es-ES>Eslovenia</es-ES>
+    <fr-FR>Slovénie</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Social_shared_body" key="Social_shared_body" itemid="{DC0725E0-0869-4466-AB56-D073CCB22553}" fieldid="Value" updated="20160819T011044Z">
+    <en>La Vuelta 2016: Content from stage {stageno} is shared with you</en>
+    <de-DE>Tour de France 2016: Neuigkeiten von Etappe {stageno} wurden mit Ihnen geteilt</de-DE>
+    <es-ES>La Vuelta 2016: el contenido de la etapa {stageno} compartido contigo</es-ES>
+    <fr-FR>La Vuelta 2016 : Le contenu de l'étape {stageno} est partagé avec vous</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Social_shared_body_classifications" key="Social_shared_body_classifications" itemid="{7782DD34-2808-46E0-A047-FEC21E481728}" fieldid="Value" updated="20170221T225113Z">
+    <en>Overall {classification_panel} - {rider_name} Rider no. {rider_no} Team {rider_team} {rider_data}. See the full Classifications at {url}</en>
+    <fr-FR>{classification_panel} général - {rider_name} (n° {rider_no}) de l'équipe {rider_team} {rider_data}. Tous les classements sont disponibles sur {url}</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Social_shared_body_classifications_stage" key="Social_shared_body_classifications_stage" itemid="{111AD357-FA55-49F9-AD9B-6A91778E3384}" fieldid="Value" updated="20170224T033554Z">
+    <en> {classification_panel}  for stage {stage_no} - {rider_name} Rider no. {rider_no} Team {rider_team} {rider_data}. See the full Classifications at {url}.</en>
+    <fr-FR>{classification_panel} de l'étape {stage_no} - {rider_name} (n° {rider_no}) de l'équipe {rider_team} {rider_data}. Tous les classements sont disponibles sur {url}</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Social_shared_subject" key="Social_shared_subject" itemid="{209C380C-C956-41BC-9E40-A2119F284301}" fieldid="Value" updated="20170301T062609Z">
+    <en>Paris Nice</en>
+    <de-DE>Bleiben Sie auf dem Laufenden mit den neuesten Tour News</de-DE>
+    <es-ES>Sigue las últimas noticias de la Vuelta</es-ES>
+    <fr-FR>Paris Nice</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Social_shared_subject_classifications" key="Social_shared_subject_classifications" itemid="{3C77A6AE-C22A-4A9E-8EFD-214B907D7BD0}" fieldid="Value" updated="20170222T002648Z">
+    <en>{classification_panel} after the Stage {stage_no}</en>
+    <fr-FR>{classification_panel} à l'issue de l'étape {stage_no}</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Social_shared_subject_classifications_stage" key="Social_shared_subject_classifications_stage" itemid="{12CFA503-8C0F-4785-BD26-6E4163A9D51F}" fieldid="Value" updated="20170224T031557Z">
+    <en>{classification_panel} for Stage {stage_no}</en>
+    <fr-FR>{classification_panel} de l'étape {stage_no}</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Social_shared_twitter_overall_classifications" key="Social_shared_twitter_overall_classifications" itemid="{4F5E020C-785D-400A-B814-DE89F0362F18}" fieldid="Value" updated="20170221T235607Z">
+    <en>Overall {classification_panel} - {rider_name} ({rider_team}) {rider_data}.</en>
+    <fr-FR>{classification_panel} général - {rider_name} ({rider_team}) {rider_data}</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Social_shared_twitter_stage_classifications" key="Social_shared_twitter_stage_classifications" itemid="{443D72FC-7B58-48FB-B40B-3F1318376777}" fieldid="Value" updated="20170224T051748Z">
+    <en>{classification_panel} - {rider_name} ({rider_team}) {rider_data}</en>
+    <fr-FR>{classification_panel} - {rider_name} ({rider_team}) {rider_data}</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/South_Africa" key="South_Africa" itemid="{AE4138E0-F4EC-4973-A8A8-D9D8BA81D7B9}" fieldid="Value" updated="20160713T025230Z">
+    <en>South Africa</en>
+    <de-DE>Südafrika</de-DE>
+    <es-ES>Sudáfrica</es-ES>
+    <fr-FR>Afrique du Sud</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Spain" key="Spain" itemid="{1551A133-DD02-43FE-AC32-4D1F3921DF65}" fieldid="Value" updated="20160713T025508Z">
+    <en>Spain</en>
+    <de-DE>Spanien</de-DE>
+    <es-ES>España</es-ES>
+    <fr-FR>l'Espagne</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Splash_Screen_Body_Text" key="Splash_Screen_Body_Text" itemid="{0435DB49-7B19-420C-8391-93461E0CBF8D}" fieldid="Value" updated="20160701T093425Z">
+    <en>This is a Beta site, trialling some new technologies, so there might be a few things that look a bit strange, or times when the signal drops out. We'll be adding new features and improving the site all the way through the Tour de France, so keep checking back regularly.</en>
+    <es-ES>Esta página es una versión beta que usa nuevas tecnologías. Es posibile que algunas cosas no salgan bien en su pantalla. Se añadirán nuevas opciones durante el Tour. Do dudes en volver a descubrir dichas novedades.</es-ES>
+    <fr-FR>Il s'agit d'une version beta du site utilisant des nouvelles technologies de tracking. Il est donc possible que certaines choses paraissent étranges ou que le signal disparaisse parfois. Tout au long du Tour de France, nous allons ajouter de nouvelles fonctionnalités et allons améliorer le site. N'hésitez pas à passer régulièrement.</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Splash_Screen_Line_1_Part_1" key="Splash_Screen_Line_1_Part_1" itemid="{82877B2F-ADBF-4F11-B9FF-34EDB88A6EB5}" fieldid="Value" updated="20160623T044446Z">
+    <en>Welcome to a revolutionary new live tracking experience.</en>
+    <de-DE>Willkommen beim revolutionären neuen Live-Tracking-Erlebnis</de-DE>
+    <es-ES>Bienvenido/a a una experiencia inédita de seguimiento en directo.</es-ES>
+    <fr-FR>Bienvenue dans une experience inédite de suivi en direct.</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Stage_Abbreviated" key="Stage_Abbreviated" itemid="{9693EC77-04A9-4C48-AE09-225CDEBF2956}" fieldid="Value" updated="20160708T072445Z">
+    <en>S</en>
+    <de-DE>E</de-DE>
+    <es-ES>E</es-ES>
+    <fr-FR>E</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Stage_Type_Flat" key="Stage_Type_Flat" itemid="{9E29FF80-6234-4442-8DD3-BB09E6AD33D7}" fieldid="Value" updated="20160627T045852Z">
+    <en>Flat</en>
+    <de-DE>Flach</de-DE>
+    <es-ES>Llano</es-ES>
+    <fr-FR>Plat</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Stage_Type_Hill" key="Stage_Type_Hill" itemid="{EC263C70-51A1-4CD6-8BA1-626DDBBA40F5}" fieldid="Value" updated="20160627T045725Z">
+    <en>Hill</en>
+    <de-DE>Hügel</de-DE>
+    <es-ES>Colina</es-ES>
+    <fr-FR> Colline</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Stage_Type_Mountain" key="Stage_Type_Mountain" itemid="{85FE36DC-AD67-42C6-85B0-7EF4FA6D6E8A}" fieldid="Value" updated="20160627T045646Z">
+    <en>Mountain</en>
+    <de-DE>Berg</de-DE>
+    <es-ES>Montaña</es-ES>
+    <fr-FR> Montagne</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Stage_Type_TimeTrial" key="Stage_Type_TimeTrial" itemid="{8CF18516-9D88-4E42-83C3-7E289CD4FC75}" fieldid="Value" updated="20160627T045521Z">
+    <en>Time Trial</en>
+    <de-DE>Zeitfahren</de-DE>
+    <es-ES>Contrareloj</es-ES>
+    <fr-FR>Contre la montre</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Stage_Type_To" key="Stage_Type_To" itemid="{A666A66D-F6B6-4C4F-A030-0EDD049B14F6}" fieldid="Value" updated="20160627T045451Z">
+    <en>To</en>
+    <de-DE>nach</de-DE>
+    <es-ES>en</es-ES>
+    <fr-FR> à</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Stage_Winners" key="Stage_Winners" itemid="{49C04467-A227-4D7A-9741-EBCCFF594E38}" fieldid="Value" updated="20170223T002000Z">
+    <en>Stage Winners</en>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Stage_Winners_Heading" key="Stage_Winners_Heading" itemid="{7D9FC523-494C-42DD-89C5-613A30A6FF18}" fieldid="Value" updated="20170304T105438Z">
+    <en>Stage Winners</en>
+    <fr-FR>Gagnants d'étape</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/StageProfile_LastUpdated" key="StageProfile_LastUpdated" itemid="{96499CB3-236C-4722-9EE2-BD116899CA93}" fieldid="Value" updated="20160627T053051Z">
+    <en>Last Updated</en>
+    <de-DE>Zuletzt aktualisiert</de-DE>
+    <es-ES>Última puesta al día</es-ES>
+    <fr-FR>Dernière mise à jour </fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/StageStart_back" key="StageStart_back" itemid="{A6FC9FAB-9396-46DA-ACBC-530C2680E0C9}" fieldid="Value" updated="20160701T094028Z">
+    <en>Back</en>
+    <de-DE>Zurück</de-DE>
+    <es-ES>Atrás</es-ES>
+    <fr-FR>Retour</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Start_Splash_Image_Url" key="Start_Splash_Image_Url" itemid="{D5DB3933-AD38-46D2-A608-B62094773F6C}" fieldid="Value" updated="20160504T020953Z">
+    <en>\Images\splash-desktop-english.png</en>
+    <de-DE>\Images\splash-desktop-german.png</de-DE>
+    <fr-FR>\Images\splash-desktop-french.png</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Starters_SportingManager" key="Starters_SportingManager" itemid="{2770E00F-AAAD-48D6-8769-DE52AFB7393C}" fieldid="Value" updated="20160701T093802Z">
+    <en>Sporting Managers</en>
+    <de-DE>Sportdirektor</de-DE>
+    <es-ES>Director deportivo</es-ES>
+    <fr-FR>Managers sportifs</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Starts_In_Prompt" key="Starts_In_Prompt" itemid="{C161CAED-0320-451F-8CD2-5FB774C6440C}" fieldid="Value" updated="20160623T044446Z">
+    <en>Starts in</en>
+    <de-DE>Startet in</de-DE>
+    <es-ES>Comienza en</es-ES>
+    <fr-FR>Commence dans</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Storm" key="Storm" itemid="{765CB6D3-77B6-47E3-B13C-3683754481EB}" fieldid="Value" updated="20170220T091254Z">
+    <en>Storm</en>
+    <fr-FR>Orage</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Sunny" key="Sunny" itemid="{7531FB98-71D1-42A9-922B-DCFE44A5B141}" fieldid="Value" updated="20170220T090408Z">
+    <en>Sunny</en>
+    <fr-FR>Grand soleil</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Sunny_with_some_clouds" key="Sunny_with_some_clouds" itemid="{38142B1E-586C-4764-B647-DF9111066CBA}" fieldid="Value" updated="20170220T090457Z">
+    <en>Sunny with some clouds</en>
+    <fr-FR>Soleil avec un peu de nuage</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Switzerland" key="Switzerland" itemid="{BF5F04FA-F05D-4686-8E90-E402FEF83D4B}" fieldid="Value" updated="20160713T025544Z">
+    <en>Switzerland</en>
+    <de-DE>Schweiz</de-DE>
+    <es-ES>Suiza</es-ES>
+    <fr-FR>Suisse</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Tailwind" key="Tailwind" itemid="{CF2DFF77-7F93-44FF-992F-B7DE8B8AD10A}" fieldid="Value" updated="20170220T091945Z">
+    <en>Tailwind</en>
+    <fr-FR>Vent de dos</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_Add_another_rider" key="Telemetry_Add_another_rider" itemid="{CD6F198A-77BB-48D9-B1DB-27C447F78F21}" fieldid="Value" updated="20160714T072643Z">
+    <en>Add another rider</en>
+    <de-DE>Add another rider</de-DE>
+    <es-ES>Add another rider</es-ES>
+    <fr-FR>Ajouter un nouveau coureur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_BibNumber" key="Telemetry_BibNumber" itemid="{F73CA7D4-9462-463A-A57F-C2C0B56E3EE1}" fieldid="Value" updated="20160710T053011Z">
+    <en>Bib number</en>
+    <de-DE>Bib number</de-DE>
+    <es-ES>Bib number</es-ES>
+    <fr-FR>Numéro de dossard</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_ClearFilter" key="Telemetry_ClearFilter" itemid="{3F929DA0-193B-45ED-8CE6-71FF939364EA}" fieldid="Value" updated="20160710T052335Z">
+    <en>Clear Filter</en>
+    <de-DE>Clear Filter</de-DE>
+    <es-ES>Clear Filter</es-ES>
+    <fr-FR>Réinitialiser le filtre</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_Country" key="Telemetry_Country" itemid="{8DA1673F-D58E-404D-993F-2AF9F791BFEF}" fieldid="Value" updated="20160710T053200Z">
+    <en>Nationality</en>
+    <de-DE>Nationality</de-DE>
+    <es-ES>Nationality</es-ES>
+    <fr-FR>Nationalité</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_CurrentSpeed" key="Telemetry_CurrentSpeed" itemid="{FCC72783-2B6B-4CB2-99E9-263445E8B34F}" fieldid="Value" updated="20160710T053441Z">
+    <en>Speed</en>
+    <de-DE>Speed</de-DE>
+    <es-ES>Speed</es-ES>
+    <fr-FR>Vitesse</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_DistTofinish" key="Telemetry_DistTofinish" itemid="{174559A3-6CD6-4ADD-8C5C-BB8EC6FF75B2}" fieldid="Value" updated="20160710T053319Z">
+    <en>Distance to finish</en>
+    <de-DE>Distance to finish</de-DE>
+    <es-ES>Distance to finish</es-ES>
+    <fr-FR>Distance à parcourir</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_GapToLeader" key="Telemetry_GapToLeader" itemid="{CA18ACF5-6B5E-4DF8-A93F-07F858AE3958}" fieldid="Value" updated="20160710T054009Z">
+    <en>Gap to front of the race</en>
+    <de-DE>Gap to front of the race</de-DE>
+    <es-ES>Gap to front of the race</es-ES>
+    <fr-FR>Ecart avec la tête de course</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_GapToLeader_Timetrial" key="Telemetry_GapToLeader_Timetrial" itemid="{1019E1FD-E1DF-4AD7-83CF-6A3157D5A332}" fieldid="Value" updated="20160714T065112Z">
+    <en>Gap to leader</en>
+    <de-DE>Gap to leader</de-DE>
+    <es-ES>Gap to leader</es-ES>
+    <fr-FR>Ecart avec le premier coureur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_Gradient" key="Telemetry_Gradient" itemid="{C737B68B-F52B-4625-AF7B-50B6DB463A6C}" fieldid="Value" updated="20160710T053555Z">
+    <en>Gradient</en>
+    <de-DE>Gradient</de-DE>
+    <es-ES>Gradient</es-ES>
+    <fr-FR>Pente</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_Name" key="Telemetry_Name" itemid="{FCD8BF6C-AE12-4C8A-905F-B1E94EF380AE}" fieldid="Value" updated="20160710T052915Z">
+    <en>Rider name</en>
+    <de-DE>Rider name</de-DE>
+    <es-ES>Rider name</es-ES>
+    <fr-FR>Nom du coureur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_NoData" key="Telemetry_NoData" itemid="{87A48F60-13FA-4B8B-B0C8-65D2B794CA32}" fieldid="Value" updated="20160712T124143Z">
+    <en>No data available for this rider</en>
+    <de-DE>No data available for this rider</de-DE>
+    <es-ES>No data available for this rider</es-ES>
+    <fr-FR>Pas d'information disponible pour ce coureur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_NoPalmaresData" key="Telemetry_NoPalmaresData" itemid="{7C9AD76C-39B0-40F0-8E4E-AD944FAB0EF5}" fieldid="Value" updated="20160710T052458Z">
+    <en>No data available for this rider</en>
+    <de-DE>No data available for this rider</de-DE>
+    <es-ES>No data available for this rider</es-ES>
+    <fr-FR>Pas d'information disponible pour ce coureur</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_Podium" key="Telemetry_Podium" itemid="{3EF92061-8A51-4B0E-B987-21716D3F5741}" fieldid="Value" updated="20160712T050756Z">
+    <en>Podium</en>
+    <de-DE>Podium</de-DE>
+    <es-ES>Podium</es-ES>
+    <fr-FR>Podium</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_Podiums" key="Telemetry_Podiums" itemid="{F37B9755-0061-4683-A8F7-A7CDBBE629AF}" fieldid="Value" updated="20160712T050700Z">
+    <en>Podiums</en>
+    <de-DE>Podiums</de-DE>
+    <es-ES>Podiums</es-ES>
+    <fr-FR>Podiums</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_Position" key="Telemetry_Position" itemid="{5120F1D5-0FD3-4AD1-B237-5921D027EE83}" fieldid="Value" updated="20160714T072516Z">
+    <en>Position</en>
+    <de-DE>Position</de-DE>
+    <es-ES>Position</es-ES>
+    <fr-FR>Position</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_Statement" key="Telemetry_Statement" itemid="{E3EC2F2D-0EBC-4A03-9370-2C31AE232D4A}" fieldid="Value" updated="20160710T052605Z">
+    <en>Live telemetry data is subject to occasional errors and loss of signal, so may not be available for all riders at all times</en>
+    <de-DE>Live telemetry data is subject to occasional errors and loss of signal, so may not be available for all riders at all times</de-DE>
+    <es-ES>Live telemetry data is subject to occasional errors and loss of signal, so may not be available for all riders at all times</es-ES>
+    <fr-FR>Les données de télémétrie en temps réel peuvent faire l'objet d'erreur ou de perte de signal et peuvent ne pas être tout le temps disponibles ni pour tous les coureurs </fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_Victories" key="Telemetry_Victories" itemid="{58A78065-7F2E-4D34-AF70-12A63F35388E}" fieldid="Value" updated="20160712T033802Z">
+    <en>Victories</en>
+    <de-DE>Erste Plätze</de-DE>
+    <es-ES>Victories</es-ES>
+    <fr-FR>Victoires</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Telemetry_Victory" key="Telemetry_Victory" itemid="{633D8289-1433-4DB6-81A5-5ADADD883AC7}" fieldid="Value" updated="20160712T033617Z">
+    <en>Victory</en>
+    <de-DE>Erster Platz</de-DE>
+    <es-ES>Victory</es-ES>
+    <fr-FR>Victoire</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Temp_TTLive_Text" key="Temp_TTLive_Text" itemid="{1121CE5A-2685-4D50-89C2-8C0B11156FD3}" fieldid="Value" updated="20160715T122740Z">
+    <en>TT LIVE</en>
+    <de-DE>TT LIVE</de-DE>
+    <es-ES>TT LIVE</es-ES>
+    <fr-FR>CLM LIVE</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_At" key="TimeTrial_At" itemid="{28E4C28F-3D31-484A-AF25-CE643E902A7E}" fieldid="Value" updated="20170303T004629Z">
+    <en>at</en>
+    <de-DE />
+    <es-ES />
+    <fr-FR>à</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_BestFinTime" key="TimeTrial_BestFinTime" itemid="{6103C389-2F74-4ECA-B42B-F0AC2A2A5598}" fieldid="Value" updated="20170303T020442Z">
+    <en>Best finishing time</en>
+    <fr-FR>Meilleur temps de finition</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_Checkpoint" key="TimeTrial_Checkpoint" itemid="{E990E71D-FC96-4256-AF64-B9FB1F12C024}" fieldid="Value" updated="20170302T231803Z">
+    <en>Checkpoint No. </en>
+    <de-DE>Zwischenzeit {cpid} bei {cpdistance} (nach {cpcount} von {total} Fahrern) </de-DE>
+    <es-ES>Checkpoint {cpid} after {cpdistance} ({cpcount} of {total} Riders completed)</es-ES>
+    <fr-FR>Checkpoint </fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_CheckpointHeading" key="TimeTrial_CheckpointHeading" itemid="{963BEF96-DE33-45ED-908E-C38261FFC28D}" fieldid="Value" updated="20160715T024438Z">
+    <en>Currently {riderCount} riders racing</en>
+    <de-DE>Currently {riderCount} riders racing</de-DE>
+    <es-ES>Currently {riderCount} riders racing</es-ES>
+    <fr-FR>{riderCount} coureurs actuellement sur la route</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_Classification" key="TimeTrial_Classification" itemid="{1D2456F5-30D6-4C5C-9270-67836E4D8760}" fieldid="Value" updated="20170302T234917Z">
+    <en>Classification</en>
+    <fr-FR>Classement</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_Error" key="TimeTrial_Error" itemid="{AB5EB049-8428-4B2A-82BD-BA68CCD86478}" fieldid="Value" updated="20170308T031452Z">
+    <en> Sorry, something went wrong</en>
+    <de-DE />
+    <es-ES />
+    <fr-FR>Désolé, quelque chose s'est mal passé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_Finish" key="TimeTrial_Finish" itemid="{AEDD7A7E-32A4-4F2E-88CB-A9AD17D27F29}" fieldid="Value" updated="20170302T231024Z">
+    <en>Finish</en>
+    <de-DE>Ziel nach {count} Fahrern</de-DE>
+    <es-ES>Finish after {count} Rider</es-ES>
+    <fr-FR>Terminer</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_FinishAfter" key="TimeTrial_FinishAfter" itemid="{D7499C26-B265-4412-B342-879B4E13A899}" fieldid="Value" updated="20160701T094122Z">
+    <en>Finish after</en>
+    <de-DE>Fahrer im Ziel</de-DE>
+    <es-ES>Termina en</es-ES>
+    <fr-FR>Termine dans</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_In" key="TimeTrial_In" itemid="{60CE1583-27E6-4032-8CBA-AA48CEEE5B08}" fieldid="Value" updated="20170303T004640Z">
+    <en>in</en>
+    <de-DE />
+    <es-ES />
+    <fr-FR>dans</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_LastRiderFinish" key="TimeTrial_LastRiderFinish" itemid="{25E6DCDD-453F-4D47-94B5-5C76A02FDCFF}" fieldid="Value" updated="20170302T233846Z">
+    <en>Last Rider to Finish</en>
+    <de-DE>Ziel nach {count} Fahrern</de-DE>
+    <es-ES>Finish after {count} Rider</es-ES>
+    <fr-FR>Dernier coureur à terminer</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_LastRiderOffRamp" key="TimeTrial_LastRiderOffRamp" itemid="{F2676CAE-D329-41D2-8712-60CFF9FB7CBA}" fieldid="Value" updated="20170302T235326Z">
+    <en>Last Riders off the Ramp</en>
+    <de-DE>Ziel nach {count} Fahrern</de-DE>
+    <es-ES>Finish after {count} Rider</es-ES>
+    <fr-FR>Derniers coureurs hors de la rampe</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_LastRiderPassed" key="TimeTrial_LastRiderPassed" itemid="{E0FAFBC1-6B27-4CC4-94CB-9071A5688125}" fieldid="Value" updated="20170302T234032Z">
+    <en>Last Rider to Pass</en>
+    <de-DE>Ziel nach {count} Fahrern</de-DE>
+    <es-ES>Finish after {count} Rider</es-ES>
+    <fr-FR>Dernier coureur à passer</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_NotTTStage" key="TimeTrial_NotTTStage" itemid="{7C8A2405-6AA9-49B3-87DC-906E667E5C08}" fieldid="Value" updated="20170303T005620Z">
+    <en>Not a Time Trial Stage</en>
+    <fr-FR>Pas de contre-la-montre</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_RiderFinished" key="TimeTrial_RiderFinished" itemid="{1F0FAC79-B71D-4924-8072-5C92A88AC730}" fieldid="Value" updated="20170302T234246Z">
+    <en>Riders have Finished</en>
+    <de-DE>Ziel nach {count} Fahrern</de-DE>
+    <es-ES>Finish after {count} Rider</es-ES>
+    <fr-FR>Les coureurs ont terminé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_RiderPassed" key="TimeTrial_RiderPassed" itemid="{0A797C36-AD39-4411-B024-EE72B9807546}" fieldid="Value" updated="20170302T234535Z">
+    <en>Riders have gone past</en>
+    <de-DE>Ziel nach {count} Fahrern</de-DE>
+    <es-ES>Finish after {count} Rider</es-ES>
+    <fr-FR> Les coureurs sont passés</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_RiderStarted" key="TimeTrial_RiderStarted" itemid="{1215261B-9BAC-4AEB-A9DE-CAF2BE2D9D0C}" fieldid="Value" updated="20170302T233639Z">
+    <en>Riders have started</en>
+    <de-DE>Nächste Starter</de-DE>
+    <es-ES>Corredores por salir</es-ES>
+    <fr-FR>Les coureurs ont commencé</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_RiderStillToStart" key="TimeTrial_RiderStillToStart" itemid="{18BB9782-4701-42A3-8C6C-9E4A7EF25B7B}" fieldid="Value" updated="20160701T094200Z">
+    <en>Riders still to start</en>
+    <de-DE>Nächste Starter</de-DE>
+    <es-ES>Corredores por salir</es-ES>
+    <fr-FR>Coureurs prêts à partir</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_Start" key="TimeTrial_Start" itemid="{48850D86-FC9C-4681-85A3-F4ED7DF2C141}" fieldid="Value" updated="20170302T232202Z">
+    <en>Start Ramp</en>
+    <de-DE>Noch {count} Fahrer am Start</de-DE>
+    <es-ES>{count} Riders still to start</es-ES>
+    <fr-FR>Début rampe</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_Start_Time" key="TimeTrial_Start_Time" itemid="{E30C17E2-4863-40F4-A860-59A3360C902B}" fieldid="Value" updated="20170302T233146Z">
+    <en>Start Times</en>
+    <de-DE>Noch {count} Fahrer am Start</de-DE>
+    <es-ES>{count} Riders still to start</es-ES>
+    <fr-FR>Heures de départ</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_Tab_Finished" key="TimeTrial_Tab_Finished" itemid="{8D7BB8EC-0AD3-4872-8A31-257A795D2380}" fieldid="Value" updated="20160713T112115Z">
+    <en>Finished</en>
+    <fr-FR>Arrivés</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_Tab_InProgress" key="TimeTrial_Tab_InProgress" itemid="{CD356209-3288-4CC8-9099-DD3DACD03353}" fieldid="Value" updated="20160713T112208Z">
+    <en>On the track</en>
+    <fr-FR>Sur la route</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_Tab_NotStarted" key="TimeTrial_Tab_NotStarted" itemid="{D47C4752-FD8F-4522-9073-7B1CEF3C31DB}" fieldid="Value" updated="20160713T112426Z">
+    <en>Start</en>
+    <fr-FR>A partir</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_View" key="TimeTrial_View" itemid="{A216C6AA-49B5-4EB2-B9B9-2CB3E1DDD630}" fieldid="Value" updated="20170302T232845Z">
+    <en>View all</en>
+    <fr-FR>Vue tout</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/TimeTrial_YetToStart" key="TimeTrial_YetToStart" itemid="{004DA464-6FB9-4BF9-8427-A625B71CA36F}" fieldid="Value" updated="20170303T020523Z">
+    <en>Riders yet to start</en>
+    <fr-FR>Les coureurs à venir</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/To" key="To" itemid="{4B143186-3945-442B-B2AF-4E974D442180}" fieldid="Value" updated="20170221T030444Z">
+    <en>to</en>
+    <fr-FR>à</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/to_go" key="to_go" itemid="{A370DCA6-06AC-43EA-95B9-6E75A7EC3A36}" fieldid="Value" updated="20160703T094158Z">
+    <en>to go</en>
+    <de-DE>zum Ziel</de-DE>
+    <es-ES>por recorrer</es-ES>
+    <fr-FR>à parcourir</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Top5_Climbers" key="Top5_Climbers" itemid="{202EDB0C-0B98-4998-95F5-D36BD43F1B3B}" fieldid="Value" updated="20160701T094455Z">
+    <en>Top 5 Climbers</en>
+    <de-DE>Top 5 Bergfahrer</de-DE>
+    <es-ES>Top 5 de los escaladores</es-ES>
+    <fr-FR>Top 5 des meilleurs grimpeurs</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Top5_Gc" key="Top5_Gc" itemid="{51C9630A-AAA4-42BE-AECC-396436A76E1B}" fieldid="Value" updated="20160710T131146Z">
+    <en>Top 5 GC</en>
+    <de-DE>Top 5 Gesamtklassement</de-DE>
+    <es-ES>Top 5 de la general</es-ES>
+    <fr-FR>Top 5 du classement général</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Top5_Sprinters" key="Top5_Sprinters" itemid="{AA340039-7729-454E-A62A-C8962C05D536}" fieldid="Value" updated="20160710T131210Z">
+    <en>Top 5 Sprinters</en>
+    <de-DE>Top 5 Sprinter</de-DE>
+    <es-ES>Top 5 de los sprinters</es-ES>
+    <fr-FR>Top 5 des meilleurs sprinters</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Top5_Young" key="Top5_Young" itemid="{4178FC89-09B4-43E2-8310-CAA8A1555913}" fieldid="Value" updated="20160703T033859Z">
+    <en>Top 5 Young Riders</en>
+    <de-DE>Top 5 Jungprofis</de-DE>
+    <es-ES>Top 5 de los jóvenes</es-ES>
+    <fr-FR>Top 5 des jeunes coureurs</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/travelling_at" key="travelling_at" itemid="{DD2C38CC-8D7E-4D4D-BBBA-B510ECBD0E07}" fieldid="Value" updated="20170223T233443Z">
+    <en>travelling at</en>
+    <fr-FR>à une vitesse de</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Ukraine" key="Ukraine" itemid="{CA15C171-5669-48DC-BFC5-8626D1CB1681}" fieldid="Value" updated="20160713T025803Z">
+    <en>Ukraine</en>
+    <de-DE>Ukraïne</de-DE>
+    <es-ES>Ucrania</es-ES>
+    <fr-FR>Ukraine</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/United_Kingdom" key="United_Kingdom" itemid="{96605D14-BDAF-404F-B8DD-61DFC5132047}" fieldid="Value" updated="20160713T025846Z">
+    <en>United Kingdom</en>
+    <de-DE>Großbritannien</de-DE>
+    <es-ES>Reino Unido</es-ES>
+    <fr-FR>Royaume-Uni</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/United_States" key="United_States" itemid="{2AE875D1-04FC-4F3C-A49E-51D6C17A7FB1}" fieldid="Value" updated="20160713T030122Z">
+    <en>United States</en>
+    <de-DE>USA</de-DE>
+    <es-ES>Estados Unidos</es-ES>
+    <fr-FR>États Unis</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/WeatherAtFrontOfRace" key="WeatherAtFrontOfRace" itemid="{2C1F7745-7F36-4EDE-AB71-27F1DC86D3B5}" fieldid="Value" updated="20170223T021455Z">
+    <en>Weather at the front of the race</en>
+    <fr-FR>Météo à Tête de course</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Windspeed" key="Windspeed" itemid="{38A67469-A245-47DF-9644-3C3039CEDDFE}" fieldid="Value" updated="20170220T091734Z">
+    <en>windspeed</en>
+    <fr-FR>vitesse du ven</fr-FR>
+  </phrase>
+  <phrase path="/sitecore/content/Translations/Windspeed_is" key="Windspeed_is" itemid="{8EE188EC-953B-419E-A4DE-5C3A83B6B9A4}" fieldid="Value" updated="20170220T100333Z">
+    <en>Windspeed is</en>
+    <fr-FR>vitesse du ven is</fr-FR>
+  </phrase>
+</sitecore>

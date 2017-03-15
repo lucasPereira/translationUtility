@@ -88,6 +88,9 @@ button.csv-exporter:disabled {
 }
 
 .phrase-container {
+	border-color: #BBB;
+	border-style: solid;
+	border-width: 0 1px 1px 0;
 	background-color: #FFF;
 	margin: 40px 20px;
 	padding: 10px 0;
