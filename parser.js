@@ -25,6 +25,7 @@ class Phrase {
 class XmlParser {
 	constructor() {
 		this.listeners = [];
+		this.locales = ['en', 'es-ES', 'fr-FR', 'de-DE'];
 	}
 
 	addListener(listener) {
@@ -48,13 +49,11 @@ class XmlParser {
 			let fieldId = xmlPhrase.getAttribute('fieldid');
 			let updated = xmlPhrase.getAttribute('updated');
 			let phrase = new Phrase(path, key, itemId, fieldId, updated);
-			xmlPhrase.childNodes.forEach((translationXml) => {
-				if (translationXml.nodeType === Node.ELEMENT_NODE) {
-					let locale = translationXml.nodeName;
-					let translation = translationXml.textContent;
-					let phraseTranslation = new PhraseTranslation(locale, translation);
-					phrase.addTranslation(phraseTranslation);
-				}
+			this.locales.forEach((locale) => {
+				let translationXml = xmlPhrase.querySelector(locale);
+				let translation = translationXml ? translationXml.textContent : '';
+				let phraseTranslation = new PhraseTranslation(locale, translation);
+				phrase.addTranslation(phraseTranslation);
 			});
 			phrases.push(phrase);
 		});
