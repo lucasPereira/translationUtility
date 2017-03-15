@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Translate utily</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+	<body>
+		<div class="import-area">
+			<input id="xml-importer" class="xml-importer" type="file" />
+			<input id="csv-importer" class="csv-importer" type="file" />
+			<button class="xml-importer" onclick="document.querySelector('#xml-importer').click()">Import XML</button>
+			<button class="csv-importer" onclick="document.querySelector('#csv-importer').click()">Import CSV</button>
+		</div>
+		<div id="message-box" class="information-bar"></div>
+		<script defer type="application/javascript" src="papaparse.min.js"></script>
+		<script defer type="application/javascript" src="ui.js"></script>
+		<script defer type="application/javascript" src="parser.js"></script>
+		<script defer type="application/javascript" src="app.js"></script>
+	</body>
+</html>
