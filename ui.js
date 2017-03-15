@@ -108,6 +108,14 @@ class MessageBoxComponent {
 	}
 
 	info(message) {
+		this.showMessage(message);
+	}
+
+	error(message) {
+		this.showMessage(message);
+	}
+
+	showMessage(message) {
 		this.clear();
 		var messageElement = document.createElement('p');
 		messageElement.textContent = message;

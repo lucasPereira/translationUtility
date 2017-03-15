@@ -4,10 +4,12 @@ class InputFileReaderListener {
 	constructor(parser, mesageBoxComponent, phrasesComponent) {
 		this.parser = parser;
 		this.messageBoxComponent = messageBoxComponent;
+		this.phrasesComponent = phrasesComponent;
 	}
 
 	selectFile(name, size) {
-		phrasesComponent.clear();
+		this.messageBoxComponent.clear();
+		this.phrasesComponent.clear();
 	}
 
 	uploadFileProgress(progress) {
@@ -16,22 +18,25 @@ class InputFileReaderListener {
 	}
 
 	uploadFileComplete(content) {
-		this.parser.parse(content);
 		this.messageBoxComponent.info(`File uploaded with success`);
+		this.parser.parse(content);
 	}
 
-	uploadFileError(event) {
-		console.error(event);
+	uploadFileError(error) {
+		this.messageBoxComponent.error(`File uploaded failure`);
+		console.error(error);
 	}
 }
 
 class ParserListener {
-	constructor(phrasesComponent) {
+	constructor(messageBoxComponent, phrasesComponent) {
+		this.messageBoxComponent = messageBoxComponent;
 		this.phrasesComponent = phrasesComponent;
 	}
 
 	parserError(error) {
-		console.error(`Parser error ${error}`);
+		this.messageBoxComponent.error(`Parser error. Please, make sure the file is in valid format.`);
+		console.error(error);
 	}
 
 	receivePhrases(phrases) {
@@ -45,7 +50,7 @@ class ParserListener {
 
 let phrasesComponent = new PhrasesComponent(document.querySelector("#phrases"));
 let messageBoxComponent = new MessageBoxComponent(document.querySelector("#message-box"));
-let parserListener = new ParserListener(phrasesComponent);
+let parserListener = new ParserListener(messageBoxComponent, phrasesComponent);
 let xmlParser = new XmlParser();
 let csvParser = new CsvParser();
 let inputFileReaderListenerXml = new InputFileReaderListener(xmlParser, messageBoxComponent, phrasesComponent);
